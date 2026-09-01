@@ -1,0 +1,643 @@
+                RESOLUÇÃO Nº 798, DE 02 DE SETEMBRO DE 2020
+
+                                                         Dispõe sobre requisitos técnicos
+                                                         mínimos para a fiscalização da
+                                                         velocidade de veículos automotores,
+                                                         elétricos, reboques e semirreboques.
+
+               O CONSELHO NACIONAL DE TRÂNSITO (CONTRAN), no uso
+da competência que lhe conferem o inciso I do art. 12 e o § 2º do art. 280,
+todos da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de
+Trânsito Brasileiro (CTB), com base no que consta nos autos do processo
+administrativo nº 80001.020255/2007-01, resolve:
+
+               Art. 1º Esta Resolução dispõe sobre requisitos técnicos
+mínimos para a fiscalização da velocidade de veículos automotores,
+elétricos, reboques e semirreboques.
+
+                                       CAPÍTULO I
+     DA FORMA E PROCEDIMENTOS DE FISCALIZAÇÃO DE VELOCIDADE
+
+               Art. 2º A medição de velocidade que exceda o limite
+regulamentar para o local, desenvolvida pelos veículos automotores,
+elétricos, reboques e semirreboques nas vias terrestres abertas à
+circulação, deve ser efetuada por medidor de velocidade nos termos desta
+Resolução.
+
+               § 1º Considera-se medidor de velocidade o instrumento ou
+equipamento de aferição destinado a fiscalizar o limite máximo de
+velocidade regulamentado para o local, que indique a velocidade medida e
+contenha dispositivo registrador de imagem que comprove o cometimento
+da infração.
+
+               § 2º A medição de velocidade, por meio do medidor descrito
+no § 1º, é indispensável para a caracterização das infrações de trânsito de
+excesso de velocidade.
+                                      CAPÍTULO II
+                   DOS TIPOS DE MEDIDORES DE VELOCIDADE
+
+               Art. 3º Os medidores de velocidade são do tipo:
+               I - fixo: medidor de velocidade com registro de imagem
+instalado em local definido e em caráter duradouro, podendo ser
+especificado como:
+               a) controlador: medidor de velocidade destinado a fiscalizar o
+limite máximo de velocidade da via ou de seu ponto específico,
+sinalizado por meio de placa R-19; ou
+               b) redutor: medidor de velocidade, obrigatoriamente dotado
+de display, destinado a fiscalizar a redução pontual de velocidade
+estabelecida em relação à velocidade diretriz da via, por meio de
+sinalização com placa R-19, em trechos críticos e de vulnerabilidade dos
+usuários da via.
+               II - portátil: medidor de velocidade com registro de imagem,
+podendo ser instalado em viatura caracterizada estacionada, em tripé,
+suporte fixo ou manual, usado ostensivamente como controlador em via
+ou em seu ponto específico, que apresente limite de velocidade igual ou
+superior a 60 km/h.
+               § 1º Considera-se display painel eletrônico que exibe a
+velocidade registrada por medidor de velocidade do tipo fixo.
+               § 2º Em vias com duas ou mais faixas de circulação no mesmo
+sentido, deve-se instalar um display para cada faixa, em ambos os lados da
+via ou em pórtico ou semipórtico sobre a via.
+
+                                      CAPÍTULO III
+     DOS REQUISITOS METROLÓGICOS E TÉCNICOS DOS MEDIDORES DE
+
+                                      VELOCIDADE
+
+               Art. 4º Os medidores de velocidade devem observar:
+               I - requisitos metrológicos:
+               a) ter seu modelo aprovado pelo Instituto Nacional de
+Metrologia, Qualidade e Tecnologia (Inmetro), atendendo à legislação
+metrológica em vigor e aos requisitos estabelecidos nesta Resolução;
+
+               b) ser aprovado na verificação metrológica pelo Inmetro ou
+entidade por ele delegada; e
+
+               c) ser verificado pelo Inmetro ou entidade por ele delegada,
+com periodicidade mínima de doze meses, conforme regulamentação
+metrológica em vigor.
+
+               II - requisitos técnicos:
+               a) registrar a velocidade medida do veículo em km/h;
+               b) registrar a contagem volumétrica de tráfego;
+               c) registrar a latitude e longitude do local de operação; e
+               d) possuir tecnologia de Reconhecimento Óptico de
+Caracteres (OCR).
+
+                                      CAPÍTULO IV
+    DO PROCESSO DE INSTALAÇÃO, OPERAÇÃO E MONITORAMENTO DE
+
+                            MEDIDORES DE VELOCIDADE
+
+               Art. 5º Cabe ao órgão ou entidade com circunscrição sobre a
+via determinar a localização, a sinalização, a instalação e a operação dos
+medidores de velocidade.
+
+               Art. 6º A instalação e operação de medidores de velocidade
+do tipo fixo deve atender aos seguintes requisitos:
+
+               I - para os controladores de velocidade, realizar Levantamento
+Técnico, com periodicidade bienal, para verificação ou readequação da
+sinalização instalada ao longo da via, na forma do ANEXO I;
+
+               II - para os redutores de velocidade, realizar Estudo
+Técnico, com periodicidade anual, em trechos críticos, com índices de
+acidentes, ou locais onde haja vulnerabilidade dos usuários da via, de
+modo a se comprovar a necessidade de redução pontual da velocidade, na
+forma do ANEXO II.
+
+               § 1º Os Levantamentos Técnicos e/ou Estudos Técnicos
+deverão ser refeitos sempre que houver:
+
+               I - readequação dos limites de velocidade da via;
+        II - alteração da estrutura viária;
+
+        III - mudança do sentido do fluxo;
+
+        IV - alteração da competência sobre a circunscrição da via; e
+
+        V - mudança de local do medidor de velocidade.
+
+               § 2º Considera-se trecho crítico o segmento de via
+inscrito em área circular que concentre número de acidentes com mortes e
+lesões no trânsito considerado significativo pela autoridade de trânsito
+com circunscrição sobre a via, cujo raio é de:
+
+        I - 2.500 m (dois mil e quinhentos metros) nas vias rurais; e
+
+               II - 500 m (quinhentos metros) nas vias urbanas ou rurais com
+características urbanas.
+
+        § 3º Os Levantamentos Técnicos e os Estudos Técnicos
+
+devem:
+
+               I - estar disponíveis ao público na sede do
+órgão ou entidade executivo de trânsito ou rodoviário com circunscrição
+sobre a via e em seu site na rede mundial de computadores; e
+
+        II - ser encaminhados aos órgãos recursais quando solicitados.
+
+               § 4º Os medidores de velocidade do tipo fixo não podem ser
+afixados em árvores, marquises, passarelas, postes de energia elétrica, ou
+qualquer outra obra de engenharia, de modo velado ou não ostensivo.
+
+               § 5º É dispensada a presença da autoridade de trânsito e de
+seus agentes no local de operação de medidores de velocidade do tipo
+fixo.
+
+               Art. 7º O uso de medidores do tipo portátil para a fiscalização
+do excesso de velocidade é restrito às seguintes situações:
+
+               I - nas vias urbanas e rurais com características urbanas,
+quando a velocidade máxima permitida for igual ou superior a 60 km/h
+(sessenta quilômetros por hora); e
+
+               II - nas vias rurais, quando a velocidade máxima permitida for
+igual ou superior a:
+
+        a) 80 km/h (oitenta quilômetros por hora), em rodovia; e
+
+        b) 60 km/h (sessenta quilômetros por hora), em estrada.
+
+               § 1º Para utilização do equipamento portátil, deve ser
+realizado planejamento operacional prévio em trechos ou locais:
+
+        I - com potencial ocorrência de acidentes de trânsito;
+               II - que tenham histórico de acidentes de trânsito que
+geraram mortes ou lesões; ou
+
+               III - em que haja recorrente inobservância dos limites de
+velocidade previstos para a referida via ou trecho.
+
+               § 2º O órgão ou entidade com circunscrição sobre a via
+deve mapear e publicar em seu site na rede mundial de computadores
+relação de trechos ou locais em que está apto a ser fiscalizado o excesso de
+velocidade por meio de equipamento portátil.
+
+               § 3º Nos locais em que houver instalado medidor de
+velocidade do tipo fixo, os medidores de velocidade portáteis somente
+podem ser utilizados a uma distância mínima de:
+
+               I - 500 m (quinhentos metros), em vias urbanas e em trechos
+de vias rurais com características de via urbana; e
+
+         II - 2.000 m (dois mil metros), para os demais trechos de vias
+
+rurais.
+
+               § 4º Os medidores de velocidade do tipo portátil somente
+devem ser utilizados por autoridade de trânsito ou seu agente, no
+exercício regular de suas funções, devidamente uniformizados, em ações
+de fiscalização, não podendo haver obstrução da visibilidade, do
+equipamento e de seu operador, por placas, árvores, postes, passarelas,
+pontes, viadutos, marquises, ou qualquer outra forma que impeça a sua
+ostensividade.
+
+                       CAPÍTULO V
+         DA CARACTERIZAÇÃO DA INFRAÇÃO
+
+               Art. 8º Para caracterização de infrações de trânsito de excesso
+de velocidade, a velocidade considerada para aplicação da penalidade é o
+resultado da subtração da velocidade medida pelo instrumento ou
+equipamento pelo erro máximo admitido previsto na legislação
+metrológica em vigor, conforme tabela de valores referenciais de
+velocidade e tabela para enquadramento infracional constantes do ANEXO
+III.
+
+               Art. 9º Para sua consistência e regularidade, o auto de
+infração de trânsito (AIT) e a notificação de autuação (NA), além do
+disposto no CTB e na legislação complementar, devem conter, no mínimo,
+as seguintes informações:
+
+               I - imagem com a placa do veículo;
+               II - velocidade regulamentada para o local da via em km/h;
+               III - velocidade medida do veículo, no momento da infração,
+em km/h;
+               IV - velocidade considerada, já descontada a margem de erro
+metrológica, em km/h;
+               V - local da infração, onde o equipamento está instalado ou
+sendo operado, identificado de forma descritiva ou codificado;
+               VI - data e hora da infração;
+               VII - identificação do instrumento ou equipamento utilizado,
+mediante numeração estabelecida pelo órgão ou entidade com
+circunscrição sobre a via;
+               VIII - data da última verificação metrológica; e
+               IX - números de registro junto ao Inmetro e de série
+do fabricante do medidor de velocidade.
+               Parágrafo único. O órgão ou entidade com circunscrição sobre
+a via deve dar publicidade, por meio do seu site na rede mundial de
+computadores, antes do início de sua operação, da relação de todos os
+medidores de velocidade existentes em sua circunscrição, contendo o tipo
+do equipamento, o número de registro junto ao Inmetro, o número de
+série do fabricante, a identificação estabelecida pelo órgão e, no caso do
+tipo fixo, também do local de instalação.
+
+                                      CAPÍTULO VI
+               DOS LOCAIS DE FISCALIZAÇÃO E DA SINALIZAÇÃO
+
+               Art. 10. Os locais em que houver fiscalização de excesso de
+velocidade por meio de medidores do tipo fixo devem ser precedidos de
+sinalização com placa R-19, na forma estabelecida nesta Resolução e no
+Manual Brasileiro de Sinalização de Trânsito - Volume I (MBST-I), de forma
+a garantir a segurança viária e informar aos condutores dos veículos a
+velocidade máxima permitida para o local.
+               § 1º Onde houver redução de velocidade, deve ser observada
+a existência de placas R-19, informando a redução gradual do limite de
+velocidade conforme MBST-I.
+
+               § 2º Deve ser instalada a placa R-19 junto a cada medidor de
+velocidade do tipo fixo.
+
+               Art. 11. As placas de identificação R-19 devem ser
+posicionadas com distância máxima relativamente aos medidores, na
+forma estabelecida no ANEXO IV, facultada a repetição da placa em
+distâncias menores.
+
+               § 1º Em vias com duas ou mais faixas de trânsito por sentido,
+a sinalização, por meio da placa de regulamentação R-19, deve estar
+afixada nos dois lados da pista ou suspensa sobre a via, nos termos do
+MBST-I.
+
+               § 2º Em vias em que haja acesso de veículos por outra via
+pública, no trecho compreendido entre o acesso e o medidor de
+velocidade, deve ser acrescida, nesse trecho, sinalização por meio de placa
+R-19.
+
+               § 3º Para fins de fiscalização do excesso de velocidade,
+é vedada a utilização de placa R-19 que não seja fixa.
+
+               Art. 12. Quando o local da via possuir velocidade máxima
+permitida por tipo de veículo, a placa R-19 deve estar acompanhada da
+informação complementar, na forma do ANEXO V.
+
+               § 1º Para fins de cumprimento do estabelecido no caput, os
+tipos de veículos registrados e licenciados devem estar classificados
+conforme as duas denominações descritas a seguir:
+
+               I - VEÍCULO LEVE - ciclomotor, motoneta, motocicleta, triciclo,
+quadriciclo, automóvel, utilitário, caminhonete e camioneta, com peso
+bruto total inferior ou igual a três mil e quinhentos quilogramas; e
+
+               II - VEÍCULO PESADO - ônibus, micro-ônibus, caminhão,
+caminhão-trator, trator de rodas, trator misto, chassi-plataforma, motor-
+casa, reboque ou semirreboque, combinação de veículos, veículo leve
+tracionando outro veículo, ou qualquer outro veículo com peso bruto total
+superior a três mil e quinhentos quilogramas.
+
+               § 2º Pode ser utilizada sinalização horizontal complementar
+reforçando a sinalização vertical.
+
+                                      CAPÍTULO VII
+       DISPOSIÇÕES FINAIS
+
+       Art. 13. Os requisitos previstos nesta Resolução são exigidos:
+
+               I - na data de sua entrada em vigor, para os medidores de
+velocidade novos ou que forem reinstalados em local diverso do que se
+encontram;
+
+               II - após doze meses da data de sua entrada em vigor, para os
+medidores de velocidade em operação; e
+
+               III - após dezoito meses da data de sua entrada em vigor, para
+a informação constante no inciso I do art. 9º, no caso do Sistema de
+Notificação Eletrônica.
+
+               Parágrafo único. A observância dos requisitos técnicos
+previstos nas alíneas c e d do inciso II do art. 4º não se aplica aos
+medidores portáteis em uso até a data de entrada em vigor desta
+Resolução.
+
+               Art. 14. Fica revogada a Resolução CONTRAN nº 396, de 13 de
+dezembro de 2011.
+
+       Art. 15. Esta Resolução entra em vigor em 1º de novembro de
+
+2020.
+
+                         FREDERICO DE MOURA CARNEIRO
+                                        Presidente
+
+                  PAULO CÉSAR REZENDE DE CARVALHO ALVIM
+                   Ministério da Ciência, Tecnologia e Inovações
+
+                             MARCELO LOPES DA PONTE
+                                Ministério da Educação
+
+                         MARCELO SAMPAIO CUNHA FILHO
+                             Ministério da Infraestrutura
+
+                            MARCELLO DA COSTA VIEIRA
+       Ministério Coordenador Máximo do Sistema Nacional de Trânsito
+
+                                EDUARDO AGGIO DE SÁ
+                     Ministério da Justiça e Segurança Pública
+
+                                GEANLUCA LORENZON
+                                Ministério da Economia
+                                   NAUBER NUNES DO NASCIMENTO
+                              Agência Nacional de Transportes Terrestres
+
+                                         ANEXO I
+         LEVANTAMENTO TÉCNICO - CONTROLADOR DE VELOCIDADE
+  (LEVANTAMENTO PARA O LOCAL DE INSTALAÇÃO DOS EQUIPAMENTOS
+
+                INDEPENDENTEMENTE DO SENTIDO DO FLUXO)
+
+1. IDENTIFICAÇÃO DO ÓRGÃO OU ENTIDADE COM CIRCUNSCRIÇÃO SOBRE
+A VIA:
+1.1 Razão Social:
+1.2 CNPJ:
+1.3 Município/UF:
+
+2. CARACTERÍSTICAS DO LOCAL/TRECHO DA VIA:
+2.1 Endereço:
+2.1.1_____RODOVIA:_____ km:_____ Metros:_____/Município/UF:
+2.1.2_____Logradouro: (rua, avenida, quadra, estrada, bairro, número,
+município/UF)
+2.2 Sentido do Fluxo Fiscalizado:
+2.2.1_____Crescente: (Município/UF > Município/UF)
+2.2.2_____Decrescente: (Município/UF > Município/UF)
+2.2.3_____Ambos os Sentidos (Município/UF > Município/UF) e
+(Município/UF > Município/UF)
+2.3 Classificação Viária: (art. 60 do CTB)
+2.3.1 _____Via Urbana: (indicar qual: trânsito rápido, arterial, coletora ou
+local)
+2.3.2 _____Via Rural: (indicar qual: rodovia ou estrada)
+2.3.3 _____Via Rural com características de urbana: (indicar qual: rodovia
+ou estrada)
+
+2.4 Tipo de Via:
+
+2.4.1 _____Pista Principal
+
+2.4.2 _____Pista Lateral/Marginal
+
+2.5 Tipo de Pista:
+
+2.5.1 _____Pista Simples (quando na via não existir canteiro central, seja
+em sentido único ou duplo)
+
+2.5.2 _____Pista Dupla (quando na via existir um canteiro central
+separando dois leitos carroçáveis, independentemente dos sentidos
+estabelecidos para o trânsito. Não são consideradas como pistas duplas
+aquelas separadas por rios e por canteiros centrais extremamente largos
+os quais impossibilitam a transposição de um leito carroçável para o
+outro).
+
+2.5.3 _____Pista Múltipla (quando houver mais de um canteiro central,
+caracterizando a presença de três ou mais leitos carroçáveis).
+
+Observação: Leito Carroçável: consiste na porção da plataforma da via
+urbana ou rural que compreende a pista e os acostamentos, quando
+existirem. Considera-se que as vias com pistas duplas ou múltiplas tenham
+dois ou mais leitos carroçáveis.
+
+2.6 Quantidade de Faixas Fiscalizadas:
+
+2.7 Geometria da Via:
+
+2.7.1 _____Aclive
+
+2.7.2 _____Declive
+
+2.7.3 _____Plano
+
+2.7.4 _____Curva
+
+2.7.5 _____Sinuosa
+
+2.7.6 _____Outra:
+
+2.8 Volume Médio Diário de Veículos (VMD):
+
+2.9 Trânsito de Vulneráveis:
+
+2.9.1 _____Crianças
+
+2.9.2 _____Pessoa com Deficiência
+
+2.9.3 _____Pedestres
+
+2.9.4 _____Ciclistas
+2.9.5 _____Veículos não motorizados
+2.9.6 _____Trânsito de animais selvagens
+2.9.7 _____Outros: _________________________
+2.10 Obras de Arte:
+2.10.1 _____Passarela
+2.10.2 _____Passagem subterrânea
+2.10.3 _____Viaduto
+2.10.4 _____Ponte
+2.10.5 _____Pórtico
+2.10.6 _____Linha Férrea
+2.10.7 _____Outras: ________________________
+
+3. VELOCIDADE:
+3.1 Velocidade Regulamentada para o local ou trecho de instalação do
+equipamento (km/h):
+3.1.1 Data:_____/_____/_____.
+
+4. AUTORIDADE DE TRÂNSITO COM CIRCUNSCRIÇÃO SOBRE A VIA:
+4.1 Nome:
+4.2 Matrícula nº:
+4.3 Assinatura:
+
+                                        ANEXO II
+                 ESTUDO TÉCNICO - REDUTOR DE VELOCIDADE
+         (UM ESTUDO TÉCNICO PARA O LOCAL DE INSTALAÇÃO DOS
+      EQUIPAMENTOS INDEPENDENTEMENTE DO SENTIDO DO FLUXO)
+
+1. IDENTIFICAÇÃO DO ÓRGÃO OU ENTIDADE COM CIRCUNSCRIÇÃO SOBRE
+A VIA:
+1.1 Razão Social:
+1.2 CNPJ:
+1.3 Município/UF:
+
+2. CARACTERÍSTICAS DO LOCAL/TRECHO DA VIA:
+2.1 Endereço:
+2.1.1_____RODOVIA:_____ km:_____ Metros:_____/Município/UF:
+2.1.2_____Logradouro: (rua, avenida, quadra, estrada, bairro, número,
+município/UF)
+2.2 Sentido do Fluxo Fiscalizado:
+2.2.1_____Crescente: (Município/UF > Município/UF)
+2.2.2_____Decrescente: (Município/UF > Município/UF)
+2.2.3_____Ambos os Sentidos (Município/UF > Município/UF) e
+(Município/UF > Município/UF)
+2.3 Classificação Viária (art. 60 do CTB):
+2.3.1 _____Via Urbana: (indicar qual: trânsito rápido, arterial, coletora ou
+local)
+2.3.2 _____Via Rural: (indicar qual: rodovia ou estrada)
+2.3.3 _____Via Rural com características de urbana: (indicar qual: rodovia
+ou estrada)
+2.4 Tipo de Via:
+2.4.1 _____Pista Principal
+2.4.2 _____Pista Lateral/Marginal
+2.5 Tipo de Pista:
+2.5.1 _____Pista Simples (quando na via não existir canteiro central, seja
+em sentido único ou duplo)
+2.5.2 _____Pista Dupla (quando na via existir um canteiro central
+separando dois leitos carroçáveis, independentemente dos sentidos
+estabelecidos para o trânsito. Não são consideradas como pistas duplas
+aquelas separadas por rios e por canteiros centrais extremamente largos
+os quais impossibilitam a transposição de um leito carroçável para o
+outro).
+2.5.3 _____Pista Múltipla (quando houver mais de um canteiro central,
+caracterizando a presença de três ou mais leitos carroçáveis).
+Observação: Leito Carroçável: consiste na porção da plataforma da via
+urbana ou rural que compreende a pista e os acostamentos, quando
+existirem. Considera-se que as vias com pistas duplas ou múltiplas tenham
+dois ou mais leitos carroçáveis.
+2.6 Quantidade de Faixas Fiscalizadas:
+2.7 Geometria da Via:
+2.7.1 _____Aclive
+2.7.2 _____Declive
+2.7.3 _____Plano
+2.7.4 _____Curva
+2.7.5 _____Sinuosa
+2.7.6 _____Outra:
+2.8 Volume Médio Diário de Veículos (VMD):
+2.9 Trânsito de Vulneráveis:
+2.9.1 _____Crianças
+2.9.2 _____Pessoa com Deficiência
+2.9.3 _____Pedestres
+2.9.4 _____Ciclistas
+2.9.5 _____Veículos não motorizados
+2.9.6 _____Trânsito de animais selvagens
+2.9.7 _____Outros:
+2.10 Obras de Arte:
+2.10.1 _____Passarela
+2.10.2 _____Passagem subterrânea
+2.10.3 _____Viaduto
+2.10.4 _____Ponte
+2.10.5 _____Pórtico
+2.10.6 _____Linha Férrea
+2.10.7 _____Outras:
+
+3. VELOCIDADE:
+(Em trecho da via com velocidade inferior à regulamentada no trecho
+anterior)
+
+3.1 Determinação da Velocidade Máxima:
+
+Deverão ser observadas as regras de determinação do limite de velocidade
+existentes no Manual Brasileiro de Sinalização de Trânsito - Volume I.
+
+3.2 Redução dos Limites de Velocidade:
+
+3.2.1 Estudo de Percepção/Reação do condutor:
+
+3.2.2 Estudo de Frenagem em função da redução:
+
+3.2.3 Estudo sobre a Legibilidade da Placa R-19:
+
+3.2.4 Estudo sobre as distâncias entre as Placas R-19, com a metodologia
+estabelecida no Manual Brasileiro de Sinalização de Trânsito - Volume I.
+
+3.3 Velocidade no Trecho Anterior ao Local Fiscalizado (km/h):
+
+3.4 Velocidade Praticada (85 percentil) antes do início da Fiscalização:
+
+3.4.1 Tabulação de Velocidade para o Cálculo do 85 Percentil (intervalo de
+classe (km/h) x frequência das velocidades pontuais):
+
+3.4.2 Tabulação de Velocidade para o Cálculo do 85 Percentil (intervalo de
+classe (km/h) x ponto médio de classe (km/h) x frequência das velocidades
+pontuais x frequência relativa (%) x frequência acumulada (%):
+
+3.4.3 Tabulação de Velocidade para o Cálculo do 85 Percentil - Gráfico
+(frequência acumulada de velocidade (%) x ponto médio das classes de
+velocidade (km/h):
+
+3.4.4 Data:_____/_____/_____
+
+3.5 Velocidade Praticada (85 percentil) 1 (um) ano, subsequentemente,
+depois, do início da Fiscalização:
+
+3.5.1 Tabulação de Velocidade para o Cálculo do 85 Percentil (intervalo de
+classe (km/h) x frequência das velocidades pontuais):
+
+3.5.2 Tabulação de Velocidade para o Cálculo do 85 Percentil (intervalo de
+classe (km/h) x ponto médio de classe (km/h) x frequência das velocidades
+pontuais x frequência relativa (%) x frequência acumulada (%):
+
+3.5.3 Tabulação de Velocidade para o Cálculo do 85 Percentil - Gráfico
+(frequência acumulada de velocidade (%) x ponto médio das classes de
+velocidade (km/h):
+
+3.5.4 Data:_____/_____/_____
+
+3.6 Velocidade no Local Fiscalizado (km/h):
+4. PROJETO OU CROQUI DO LOCAL DE INSTALAÇÃO:
+4.1 Imagem com Vista Aérea do Local antes da Instalação:
+4.2 Imagem com Vista Terrestre do Local antes da Instalação:
+4.3 Placa R-19:
+4.3.1 Tabela com a indicação da localização das placas R-19 e respectivas
+distâncias em relação ao medidor de velocidade:
+4.3.2 Especificações Técnicas da placa R-19 (forma, tamanho, legibilidade e
+retrorrefletividade):
+4.4 Desenho em Escala do Leito Carroçável com a indicação de instalação
+das Placas R-19, com a indicação dos Laços Detectores ou Outra
+Tecnologia, da Câmera, do Gabinete e do Iluminador e demais sinalizações:
+4.5 Tabela com indicação dos dados Técnicos do Medidor de Velocidade;
+Endereço e Localização; Latitude e Longitude; Município/UF; Observações:
+
+5. CRITICIDADE OU VULNERABILIDADE DO TRECHO/LOCAL:
+5.1 Tabela com índices de acidentes dos últimos dois anos (quantidade de
+acidentes, feridos, mortos, tipo de acidente) no trecho correspondente:
+5.2 Indicação das Vulnerabilidades (crianças, pessoas com deficiência,
+pedestres, ciclistas, veículos não motorizados):
+
+6. RESPONSÁVEL PELA ELABORAÇÃO DO ESTUDO TÉCNICO:
+6.1 Nome:
+6.2 Matrícula nº:
+6.3 Assinatura:
+6.4 Data de Elaboração:
+
+7. AUTORIDADE DE TRÂNSITO COM CIRCUNSCRIÇÃO SOBRE A VIA:
+7.1 Nome:
+7.2 Matrícula nº:
+7.3 Assinatura:
+
+                                        ANEXO III
+        TABELA DE VALORES REFERENCIAIS DE VELOCIDADE
+
+Observações:
+1.VM – VELOCIDADE MEDIDA (km/h) VC – VELOCIDADE CONSIDERADA
+(km/h)
+2. Para velocidades medidas superiores aos indicados na tabela, considerar
+o erro máximo admissível de 7%, com arredondamento matemático para
+se calcular a velocidade considerada.
+3. Para enquadramento infracional, deverá ser observada a tabela abaixo:
+
+                TABELA PARA ENQUADRAMENTO INFRACIONAL
+
+Observação: VC – VELOCIDADE CONSIDERADA (km/h).
+
+                                        ANEXO IV
+    INTERVALOS DE DISTÂNCIA DA SINALIZAÇÃO PARA FISCALIZAÇÃO DE
+
+                                      VELOCIDADE
+
+  Velocidade   Intervalo de Distância
+Regulamentada          (metros)
+
+(km/h)         Via Urbana e Via Rural com característica urbana  Via Rural
+
+V ≥ 80         400 a 500                                         1000 a 2000
+
+V < 80         100 a 300                                         300 a 1000
+
+                                       ANEXO V
+
+    EXEMPLOS DE SINALIZAÇÃO VERTICAL ESPECÍFICA PARA LIMITE DE
+VELOCIDADE MÁXIMA POR TIPO DE VEÍCULO NO MESMO TRECHO DA VIA
+Observações:
+
+1. As placas ilustradas são exemplos para atendimento ao disposto nesta
+Resolução, podendo ser estabelecidos outros limites de velocidades,
+devidamente justificados por estudos técnicos.
+
+2. A diagramação das placas deve seguir o disposto no Manual Brasileiro
+de Sinalização de Trânsito - Volume I.
+

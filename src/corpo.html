@@ -1,0 +1,900 @@
+<title>Quilometragem PRF 2021</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap">
+
+<style>
+:root{
+  --ground:#EDF0EE; --surface:#FFFFFF; --surface-2:#F5F8F6;
+  --line:#D2DAD6; --line-soft:#E4EAE7;
+  --ink:#111917; --ink-2:#4E5D58; --ink-3:#78857F;
+  --faixa:#C8890C; --faixa-ink:#8A5D05; --faixa-soft:#FAF0D8;
+  --certo:#0E6B4C; --certo-soft:#DEEFE7; --certo-line:#9DCDB8;
+  --erro:#AE2A1F; --erro-soft:#F9E4E1; --erro-line:#E0AAA3;
+  --anulado:#4E6183; --anulado-soft:#E6EAF2; --anulado-line:#B4C0D5;
+  --raio:10px;
+  --sombra:0 1px 2px rgba(17,25,23,.05), 0 8px 24px -16px rgba(17,25,23,.28);
+  --ui:"Archivo", "Helvetica Neue", Arial, sans-serif;
+  --serif:"Source Serif 4", Georgia, "Times New Roman", serif;
+  --mono:"IBM Plex Mono", ui-monospace, "SFMono-Regular", Consolas, monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --ground:#0F1412; --surface:#161F1C; --surface-2:#1C2622;
+    --line:#2B3632; --line-soft:#232E2A;
+    --ink:#E7EEEA; --ink-2:#A3B1AB; --ink-3:#7B8984;
+    --faixa:#EFB63F; --faixa-ink:#F3C669; --faixa-soft:#372C11;
+    --certo:#54CE9D; --certo-soft:#11291F; --certo-line:#255C46;
+    --erro:#FF8F84; --erro-soft:#2E1817; --erro-line:#6A2F29;
+    --anulado:#9CB1D2; --anulado-soft:#1A2130; --anulado-line:#38455E;
+    --sombra:0 1px 2px rgba(0,0,0,.4), 0 10px 30px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0F1412; --surface:#161F1C; --surface-2:#1C2622;
+  --line:#2B3632; --line-soft:#232E2A;
+  --ink:#E7EEEA; --ink-2:#A3B1AB; --ink-3:#7B8984;
+  --faixa:#EFB63F; --faixa-ink:#F3C669; --faixa-soft:#372C11;
+  --certo:#54CE9D; --certo-soft:#11291F; --certo-line:#255C46;
+  --erro:#FF8F84; --erro-soft:#2E1817; --erro-line:#6A2F29;
+  --anulado:#9CB1D2; --anulado-soft:#1A2130; --anulado-line:#38455E;
+  --sombra:0 1px 2px rgba(0,0,0,.4), 0 10px 30px -18px rgba(0,0,0,.8);
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--ground); color:var(--ink);
+  font-family:var(--ui); font-size:16px; line-height:1.55;
+  -webkit-font-smoothing:antialiased;
+}
+a{color:inherit}
+button{font-family:inherit}
+:focus-visible{outline:2.5px solid var(--faixa); outline-offset:2px; border-radius:4px}
+@media (prefers-reduced-motion: reduce){*{animation:none !important; transition:none !important}}
+
+/* ---------- estrutura ---------- */
+.envelope{max-width:800px; margin:0 auto; padding:0 20px}
+.faixa-topo{
+  position:sticky; top:0; z-index:20; background:var(--surface);
+  border-bottom:1px solid var(--line);
+}
+.faixa-topo .envelope{
+  display:flex; align-items:center; gap:14px; justify-content:space-between;
+  min-height:56px; padding-top:8px; padding-bottom:8px;
+}
+.marca{display:flex; align-items:baseline; gap:9px; min-width:0}
+.marca b{font-weight:700; font-size:.95rem; letter-spacing:-.01em; white-space:nowrap}
+.marca span{
+  font-family:var(--mono); font-size:.68rem; color:var(--ink-3);
+  text-transform:uppercase; letter-spacing:.09em; white-space:nowrap;
+}
+.acoes-topo{display:flex; align-items:center; gap:8px}
+
+/* barra de progresso: pista com faixa central tracejada */
+.pista{height:7px; background:var(--line-soft); position:relative; overflow:hidden}
+.pista .asfalto{
+  height:100%; width:0; background:var(--ink);
+  transition:width .35s cubic-bezier(.4,0,.2,1); position:relative;
+}
+.pista .asfalto::after{
+  content:""; position:absolute; inset:0;
+  background:repeating-linear-gradient(90deg,
+    var(--faixa) 0 12px, transparent 12px 26px);
+  opacity:.85;
+  -webkit-mask-image:linear-gradient(90deg, transparent 0 6px, #000 6px);
+          mask-image:linear-gradient(90deg, transparent 0 6px, #000 6px);
+  top:2px; bottom:2px; height:auto;
+}
+
+main{padding:28px 0 88px}
+.oculto{display:none !important}
+
+/* ---------- tipografia ---------- */
+h1{
+  font-size:clamp(1.7rem, 1.2rem + 2vw, 2.35rem); line-height:1.12;
+  letter-spacing:-.025em; margin:0 0 10px; text-wrap:balance; font-weight:700;
+}
+h2{font-size:1.18rem; letter-spacing:-.015em; margin:0 0 6px; font-weight:600; text-wrap:balance}
+h3{font-size:.98rem; margin:0 0 6px; font-weight:600}
+p{margin:0 0 12px}
+.subtitulo{color:var(--ink-2); font-size:1.02rem; max-width:62ch; margin-bottom:26px}
+.rotulo{
+  font-family:var(--mono); font-size:.67rem; text-transform:uppercase;
+  letter-spacing:.11em; color:var(--ink-3);
+}
+
+/* ---------- cartões e controles ---------- */
+.cartao{
+  background:var(--surface); border:1px solid var(--line);
+  border-radius:var(--raio); padding:20px; box-shadow:var(--sombra);
+}
+.grupo{display:flex; flex-direction:column; gap:16px}
+.opcoes{display:grid; gap:8px}
+@media (min-width:620px){ .opcoes.duas{grid-template-columns:1fr 1fr} }
+
+.escolha{
+  display:flex; gap:11px; align-items:flex-start; text-align:left; width:100%;
+  padding:12px 14px; border:1px solid var(--line); border-radius:var(--raio);
+  background:var(--surface); color:var(--ink); cursor:pointer;
+  transition:border-color .15s, background .15s;
+}
+.escolha:hover{border-color:var(--ink-3)}
+.escolha[aria-pressed="true"]{border-color:var(--ink); background:var(--surface-2); box-shadow:inset 3px 0 0 var(--faixa)}
+.escolha .marcador{
+  font-family:var(--mono); font-size:.7rem; color:var(--ink-3);
+  border:1px solid var(--line); border-radius:5px; padding:1px 6px; margin-top:2px;
+}
+.escolha[aria-pressed="true"] .marcador{color:var(--faixa-ink); border-color:var(--faixa)}
+.escolha strong{display:block; font-size:.95rem; font-weight:600}
+.escolha small{display:block; color:var(--ink-2); font-size:.83rem; line-height:1.45}
+
+.botao{
+  display:inline-flex; align-items:center; justify-content:center; gap:8px;
+  padding:11px 18px; border-radius:var(--raio); border:1px solid var(--line);
+  background:var(--surface); color:var(--ink); font-size:.92rem; font-weight:600;
+  cursor:pointer; transition:background .15s, border-color .15s, color .15s;
+}
+.botao:hover{border-color:var(--ink-3)}
+.botao.principal{background:var(--ink); color:var(--surface); border-color:var(--ink)}
+.botao.principal:hover{opacity:.9}
+.botao.discreto{border-color:transparent; color:var(--ink-2); padding-left:10px; padding-right:10px}
+.botao.discreto:hover{color:var(--ink); background:var(--surface-2)}
+.botao:disabled{opacity:.45; cursor:not-allowed}
+.botao.mini{padding:6px 11px; font-size:.8rem; font-weight:500}
+
+/* ---------- questão ---------- */
+.trilha{display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-bottom:14px}
+.selo{
+  font-family:var(--mono); font-size:.68rem; letter-spacing:.05em;
+  padding:3px 8px; border-radius:999px; border:1px solid var(--line);
+  color:var(--ink-2); background:var(--surface); white-space:nowrap;
+}
+.selo.numero{background:var(--ink); color:var(--surface); border-color:var(--ink); font-weight:500}
+.selo.tema{text-transform:none; letter-spacing:0; font-family:var(--ui); font-size:.75rem}
+
+.apoio{border:1px solid var(--line); border-radius:var(--raio); background:var(--surface-2); margin-bottom:14px}
+.apoio > summary{
+  cursor:pointer; padding:11px 15px; font-size:.82rem; font-weight:600; color:var(--ink-2);
+  display:flex; align-items:center; gap:8px; list-style:none;
+}
+.apoio > summary::-webkit-details-marker{display:none}
+.apoio > summary::before{content:"▸"; color:var(--faixa-ink); font-size:.8rem; transition:transform .18s}
+.apoio[open] > summary::before{transform:rotate(90deg)}
+.apoio .texto-apoio{
+  padding:0 18px 16px; font-family:var(--serif); font-size:.95rem; line-height:1.68;
+  color:var(--ink-2); max-height:340px; overflow-y:auto; white-space:pre-line;
+}
+
+.comando{
+  font-family:var(--serif); font-style:italic; color:var(--ink-2);
+  font-size:.97rem; margin-bottom:14px; padding-left:13px;
+  border-left:3px solid var(--faixa);
+}
+.enunciado{
+  font-family:var(--serif); font-size:1.14rem; line-height:1.62; margin:0 0 20px;
+  max-width:64ch;
+}
+.exemplo{
+  font-family:var(--mono); font-size:.88rem; line-height:1.6;
+  background:var(--surface-2); border:1px solid var(--line); border-left:3px solid var(--faixa);
+  border-radius:var(--raio); padding:12px 15px; margin:-6px 0 20px; white-space:pre-wrap;
+}
+.figura{margin:0 0 18px}
+.figura img{width:100%; border:1px solid var(--line); border-radius:var(--raio); background:#fff}
+
+.julgamento{display:grid; grid-template-columns:1fr 1fr; gap:10px; margin-bottom:10px}
+.julgamento .botao{padding:15px; font-size:1rem}
+.botao.certo:hover:not(:disabled){border-color:var(--certo); color:var(--certo)}
+.botao.errado:hover:not(:disabled){border-color:var(--erro); color:var(--erro)}
+.botao .tecla{
+  font-family:var(--mono); font-size:.66rem; color:var(--ink-3);
+  border:1px solid var(--line); border-radius:4px; padding:0 5px;
+}
+
+/* ---------- resposta ---------- */
+.resultado{border-radius:var(--raio); border:1px solid; padding:16px 18px; margin-bottom:14px}
+.resultado.acerto{background:var(--certo-soft); border-color:var(--certo-line)}
+.resultado.falha{background:var(--erro-soft); border-color:var(--erro-line)}
+.resultado.nulo{background:var(--anulado-soft); border-color:var(--anulado-line)}
+.resultado .veredito{
+  display:flex; align-items:center; gap:9px; font-weight:700; font-size:.95rem;
+  letter-spacing:-.01em; margin-bottom:4px;
+}
+.resultado.acerto .veredito{color:var(--certo)}
+.resultado.falha .veredito{color:var(--erro)}
+.resultado.nulo .veredito{color:var(--anulado)}
+.resultado .detalhe{font-size:.87rem; color:var(--ink-2)}
+
+.explicacao{font-family:var(--serif); font-size:1.02rem; line-height:1.68; max-width:66ch}
+.explicacao strong{font-weight:600}
+.fundamentos{list-style:none; margin:14px 0 0; padding:0; display:flex; flex-direction:column; gap:7px}
+.fundamentos li{display:flex; gap:9px; align-items:flex-start; font-size:.87rem; line-height:1.5}
+.fundamentos li::before{content:"§"; font-family:var(--mono); color:var(--faixa-ink); flex:none; line-height:1.6}
+.fundamentos a{color:var(--ink); text-decoration:underline; text-decoration-color:var(--line); text-underline-offset:3px}
+.fundamentos a:hover{text-decoration-color:var(--faixa)}
+.aviso{
+  margin-top:14px; padding:12px 14px; border-radius:var(--raio);
+  background:var(--faixa-soft); border:1px solid var(--faixa);
+  font-size:.87rem; line-height:1.55; color:var(--ink);
+}
+.aviso b{color:var(--faixa-ink)}
+
+.navegacao{display:flex; justify-content:space-between; align-items:center; gap:12px; margin-top:20px}
+
+/* ---------- relatório ---------- */
+.placar{display:grid; grid-template-columns:repeat(auto-fit, minmax(140px,1fr)); gap:12px; margin-bottom:26px}
+.ficha{background:var(--surface); border:1px solid var(--line); border-radius:var(--raio); padding:15px 16px}
+.ficha .valor{
+  font-family:var(--mono); font-size:2rem; font-weight:500; line-height:1.1;
+  letter-spacing:-.03em; font-variant-numeric:tabular-nums;
+}
+.ficha.acertos .valor{color:var(--certo)}
+.ficha.erros .valor{color:var(--erro)}
+.ficha .rotulo{margin-top:5px; display:block}
+
+table{width:100%; border-collapse:collapse; font-size:.88rem}
+.rolagem{overflow-x:auto; border:1px solid var(--line); border-radius:var(--raio); background:var(--surface)}
+th,td{padding:10px 13px; text-align:left; border-bottom:1px solid var(--line-soft); vertical-align:middle}
+th{
+  font-family:var(--mono); font-size:.66rem; text-transform:uppercase; letter-spacing:.09em;
+  color:var(--ink-3); font-weight:500; background:var(--surface-2); white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:none}
+td.num{font-family:var(--mono); font-variant-numeric:tabular-nums; text-align:right; white-space:nowrap}
+.medidor{height:6px; border-radius:3px; background:var(--line-soft); overflow:hidden; min-width:70px}
+.medidor i{display:block; height:100%; background:var(--erro); border-radius:3px}
+
+.lista-revisao{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:8px}
+.lista-revisao button{
+  width:100%; text-align:left; display:flex; gap:11px; align-items:baseline;
+  background:var(--surface); border:1px solid var(--line); border-radius:var(--raio);
+  padding:11px 14px; cursor:pointer; color:var(--ink);
+}
+.lista-revisao button:hover{border-color:var(--ink-3)}
+.lista-revisao .num{font-family:var(--mono); font-size:.76rem; color:var(--ink-3); flex:none}
+.lista-revisao .txt{font-size:.87rem; line-height:1.45; color:var(--ink-2)}
+.lista-revisao .txt b{color:var(--ink); font-weight:600}
+
+.secao{margin-bottom:30px}
+.secao > .rotulo{display:block; margin-bottom:10px}
+
+.rodape{
+  border-top:1px solid var(--line); margin-top:40px; padding-top:20px;
+  font-size:.8rem; color:var(--ink-3); line-height:1.6;
+}
+.rodape a{color:var(--ink-2)}
+.rodape ul{margin:8px 0 0; padding-left:18px}
+
+.dica-teclado{font-size:.78rem; color:var(--ink-3); text-align:center; margin-top:12px}
+@media (max-width:560px){ .dica-teclado{display:none} .julgamento .botao{padding:14px} }
+</style>
+
+<div class="faixa-topo">
+  <div class="envelope">
+    <div class="marca">
+      <b>Quilometragem PRF</b>
+      <span id="cabecalho-contexto">prova de 2021 · CEBRASPE</span>
+    </div>
+    <div class="acoes-topo">
+      <button class="botao mini discreto oculto" id="btn-relatorio">Ver gabarito</button>
+      <button class="botao mini discreto oculto" id="btn-recomecar">Recomeçar</button>
+    </div>
+  </div>
+  <div class="pista"><div class="asfalto" id="barra-progresso"></div></div>
+</div>
+
+<main>
+  <!-- ============ CONFIGURAÇÃO ============ -->
+  <section class="envelope" id="tela-config">
+    <h1>A prova de 2021, item por item, com o porquê de cada gabarito.</h1>
+    <p class="subtitulo">
+      Os 120 itens do caderno oficial do CEBRASPE, com o gabarito definitivo da banca e uma
+      explicação apoiada na norma que resolve cada item. O placar do final aponta os temas
+      em que você mais errou.
+    </p>
+
+    <div class="grupo">
+      <div class="cartao">
+        <span class="rotulo">Língua estrangeira (itens 1 a 8)</span>
+        <h2>Qual caderno você fez?</h2>
+        <p style="font-size:.87rem;color:var(--ink-2);margin-bottom:14px">
+          Os dois cadernos usam o mesmo texto sobre a crise de energia no Texas, com itens equivalentes.
+        </p>
+        <div class="opcoes duas" id="escolha-lingua">
+          <button class="escolha" data-valor="ing" aria-pressed="true">
+            <span class="marcador">EN</span>
+            <span><strong>Inglês</strong><small>Caderno 578_PRF_ING_01</small></span>
+          </button>
+          <button class="escolha" data-valor="esp" aria-pressed="false">
+            <span class="marcador">ES</span>
+            <span><strong>Espanhol</strong><small>Caderno 578_PRF_ESP_02</small></span>
+          </button>
+        </div>
+      </div>
+
+      <div class="cartao">
+        <span class="rotulo">Recorte</span>
+        <h2>O que você quer treinar agora?</h2>
+        <div class="opcoes" id="escolha-modo" style="margin-top:12px">
+          <button class="escolha" data-valor="completo" aria-pressed="true">
+            <span class="marcador">120</span>
+            <span><strong>Prova inteira</strong><small>Os 120 itens na ordem original do caderno.</small></span>
+          </button>
+          <button class="escolha" data-valor="bloco">
+            <span class="marcador">I·II·III</span>
+            <span><strong>Um bloco por vez</strong><small>Bloco I (1–55), Bloco II — trânsito (56–85) ou Bloco III (86–120).</small></span>
+          </button>
+          <button class="escolha" data-valor="disciplina">
+            <span class="marcador">☰</span>
+            <span><strong>Disciplinas escolhidas</strong><small>Monte um bloco só com as matérias que você quer.</small></span>
+          </button>
+          <button class="escolha" data-valor="erradas" id="opcao-erradas">
+            <span class="marcador">↺</span>
+            <span><strong>Só o que eu errei</strong><small id="resumo-erradas">Nenhuma tentativa registrada ainda.</small></span>
+          </button>
+        </div>
+
+        <div id="detalhe-bloco" class="oculto" style="margin-top:16px">
+          <span class="rotulo">Bloco</span>
+          <div class="opcoes" id="escolha-bloco" style="margin-top:8px"></div>
+        </div>
+
+        <div id="detalhe-disciplina" class="oculto" style="margin-top:16px">
+          <span class="rotulo">Disciplinas</span>
+          <div class="opcoes" id="escolha-disciplina" style="margin-top:8px"></div>
+        </div>
+      </div>
+
+      <div class="cartao">
+        <span class="rotulo">Correção</span>
+        <h2>Quando mostrar a explicação?</h2>
+        <div class="opcoes duas" id="escolha-correcao" style="margin-top:12px">
+          <button class="escolha" data-valor="imediata" aria-pressed="true">
+            <span class="marcador">1</span>
+            <span><strong>Logo após cada item</strong><small>Você lê o comentário enquanto o raciocínio ainda está fresco.</small></span>
+          </button>
+          <button class="escolha" data-valor="final">
+            <span class="marcador">2</span>
+            <span><strong>Só no final</strong><small>Simula a prova real; a correção sai toda de uma vez.</small></span>
+          </button>
+        </div>
+      </div>
+
+      <div>
+        <button class="botao principal" id="btn-comecar" style="width:100%;padding:15px">Começar</button>
+        <p class="dica-teclado">No teclado: <b>C</b> para certo, <b>E</b> para errado, <b>Enter</b> para seguir.</p>
+      </div>
+    </div>
+
+    <div class="rodape">
+      <strong style="color:var(--ink-2)">De onde vem cada coisa.</strong>
+      Enunciados e gabaritos são transcritos dos arquivos oficiais do CEBRASPE; as explicações
+      foram escritas a partir da norma indicada em cada item (lei, resolução do CONTRAN,
+      manual ou julgado), sempre com o link para a fonte. A banca não publica comentário
+      item a item — publica apenas o gabarito e as anulações.
+      <ul id="lista-fontes"></ul>
+    </div>
+  </section>
+
+  <!-- ============ QUESTÃO ============ -->
+  <section class="envelope oculto" id="tela-questao">
+    <div class="trilha" id="trilha"></div>
+
+    <details class="apoio oculto" id="bloco-apoio">
+      <summary>Texto de apoio</summary>
+      <div class="texto-apoio" id="texto-apoio"></div>
+    </details>
+
+    <p class="comando" id="comando"></p>
+    <div class="figura oculto" id="figura"><img id="figura-img" alt="Figura que acompanha o enunciado, reproduzida do caderno oficial"></div>
+    <p class="enunciado" id="enunciado"></p>
+    <div class="exemplo oculto" id="exemplo"></div>
+
+    <div id="area-julgamento">
+      <div class="julgamento">
+        <button class="botao certo" data-resposta="C">Certo <span class="tecla">C</span></button>
+        <button class="botao errado" data-resposta="E">Errado <span class="tecla">E</span></button>
+      </div>
+      <button class="botao discreto" data-resposta="" style="width:100%">Não sei — deixar em branco</button>
+    </div>
+
+    <div id="area-resposta" class="oculto"></div>
+
+    <div class="navegacao">
+      <button class="botao discreto" id="btn-anterior">← Anterior</button>
+      <span class="rotulo" id="posicao"></span>
+      <button class="botao principal" id="btn-proxima">Próxima →</button>
+    </div>
+  </section>
+
+  <!-- ============ RELATÓRIO ============ -->
+  <section class="envelope oculto" id="tela-relatorio">
+    <h1 id="titulo-relatorio">Gabarito e diagnóstico</h1>
+    <p class="subtitulo" id="resumo-relatorio"></p>
+
+    <div class="placar" id="placar"></div>
+
+    <div class="secao">
+      <span class="rotulo">Onde estudar primeiro</span>
+      <h2 style="margin-bottom:12px">Temas por taxa de erro</h2>
+      <div class="rolagem"><table id="tabela-temas">
+        <thead><tr><th>Tema</th><th>Disciplina</th><th class="num">Erros</th><th style="width:120px">Taxa de erro</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+    </div>
+
+    <div class="secao">
+      <span class="rotulo">Desempenho</span>
+      <h2 style="margin-bottom:12px">Por disciplina</h2>
+      <div class="rolagem"><table id="tabela-disciplinas">
+        <thead><tr><th>Disciplina</th><th class="num">Itens</th><th class="num">Acertos</th><th class="num">Erros</th><th class="num">Brancos</th><th style="width:120px">Taxa de erro</th></tr></thead>
+        <tbody></tbody>
+      </table></div>
+    </div>
+
+    <div class="secao" id="secao-revisao">
+      <span class="rotulo">Revisão</span>
+      <h2 style="margin-bottom:12px">Itens para reler</h2>
+      <ul class="lista-revisao" id="lista-revisao"></ul>
+    </div>
+
+    <div class="grupo">
+      <button class="botao principal" id="btn-refazer-erradas">Refazer só os itens que errei</button>
+      <button class="botao" id="btn-nova-sessao">Escolher outro recorte</button>
+      <button class="botao discreto" id="btn-zerar">Apagar meu histórico</button>
+    </div>
+
+    <div class="rodape">
+      Itens anulados pela banca não entram no cálculo de acertos e erros — aparecem à parte,
+      porque o conteúdo continua valendo estudo.
+    </div>
+  </section>
+</main>
+
+<script>
+const DADOS = /*__DADOS__*/;
+
+/* ---------------- estado ---------------- */
+const CHAVE = "prf2021.simulado.v1";
+const estado = {
+  lingua: "ing",
+  modo: "completo",
+  correcao: "imediata",
+  bloco: "BLOCO I",
+  disciplinas: [],
+  ordem: [],
+  indice: 0,
+  respostas: {},      // id -> "C" | "E" | ""
+  revelados: {},      // id -> true
+  historico: {}       // id -> "acerto" | "erro" | "branco"
+};
+
+function salvar(){
+  try{
+    localStorage.setItem(CHAVE, JSON.stringify({
+      lingua: estado.lingua, modo: estado.modo, correcao: estado.correcao,
+      bloco: estado.bloco, disciplinas: estado.disciplinas,
+      ordem: estado.ordem, indice: estado.indice,
+      respostas: estado.respostas, revelados: estado.revelados,
+      historico: estado.historico
+    }));
+  }catch(e){/* modo privado, cota cheia: seguir sem persistir */}
+}
+function carregar(){
+  try{
+    const bruto = localStorage.getItem(CHAVE);
+    if(!bruto) return;
+    Object.assign(estado, JSON.parse(bruto) || {});
+  }catch(e){/* ignora dados corrompidos */}
+}
+
+/* ---------------- utilidades ---------------- */
+const $ = s => document.querySelector(s);
+const $$ = s => Array.from(document.querySelectorAll(s));
+const porId = {};
+DADOS.questoes.forEach(q => porId[q.id] = q);
+
+const BLOCOS = [
+  {id:"BLOCO I",   titulo:"Bloco I",  desc:"Português, redação oficial, raciocínio lógico, informática, física, ética, administração e geografia (itens 1 a 55)."},
+  {id:"BLOCO II",  titulo:"Bloco II", desc:"Legislação de trânsito: CTB e resoluções do CONTRAN (itens 56 a 85)."},
+  {id:"BLOCO III", titulo:"Bloco III",desc:"Direito administrativo, constitucional, penal, processual penal, legislação especial e direitos humanos (itens 86 a 120)."}
+];
+
+function universo(){
+  return DADOS.questoes.filter(q => !q.lingua || q.lingua === estado.lingua);
+}
+function selecionar(){
+  const base = universo();
+  if(estado.modo === "bloco")      return base.filter(q => q.bloco === estado.bloco);
+  if(estado.modo === "disciplina") return base.filter(q => estado.disciplinas.includes(q.disciplina));
+  if(estado.modo === "erradas")    return base.filter(q => estado.historico[q.id] === "erro");
+  return base;
+}
+function erradasSalvas(){
+  return universo().filter(q => estado.historico[q.id] === "erro").length;
+}
+function escape(t){
+  return String(t).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c]));
+}
+
+/* ---------------- tela de configuração ---------------- */
+function ligarEscolhas(seletor, aoEscolher, multipla){
+  $$(seletor + " .escolha").forEach(botao => {
+    botao.addEventListener("click", () => {
+      if(multipla){
+        botao.setAttribute("aria-pressed", botao.getAttribute("aria-pressed") === "true" ? "false" : "true");
+      }else{
+        $$(seletor + " .escolha").forEach(b => b.setAttribute("aria-pressed","false"));
+        botao.setAttribute("aria-pressed","true");
+      }
+      aoEscolher(botao.dataset.valor, botao);
+    });
+  });
+}
+
+function montarConfig(){
+  // blocos
+  $("#escolha-bloco").innerHTML = BLOCOS.map((b,i) => `
+    <button class="escolha" data-valor="${b.id}" aria-pressed="${i===0?"true":"false"}">
+      <span class="marcador">${b.titulo.split(" ")[1]}</span>
+      <span><strong>${b.titulo}</strong><small>${b.desc}</small></span>
+    </button>`).join("");
+
+  montarDisciplinas();
+
+  // fontes oficiais
+  $("#lista-fontes").innerHTML = DADOS.meta.fontes
+    .map(f => `<li><a href="${f.url}" target="_blank" rel="noopener">${escape(f.rotulo)}</a></li>`).join("");
+
+  ligarEscolhas("#escolha-lingua", v => { estado.lingua = v; montarDisciplinas(); atualizarConfig(); });
+  ligarEscolhas("#escolha-modo",   v => { estado.modo = v;   atualizarConfig(); });
+  ligarEscolhas("#escolha-correcao", v => { estado.correcao = v; });
+  ligarEscolhas("#escolha-bloco",  v => { estado.bloco = v; });
+  atualizarConfig();
+}
+
+/* A lista de disciplinas depende do caderno de língua escolhido, então é
+   remontada sempre que o candidato troca inglês por espanhol. */
+function montarDisciplinas(){
+  const contagem = {};
+  universo().forEach(q => contagem[q.disciplina] = (contagem[q.disciplina]||0) + 1);
+  const nomes = Object.keys(contagem).sort((a,b) => contagem[b]-contagem[a] || a.localeCompare(b,"pt"));
+  estado.disciplinas = estado.disciplinas.filter(n => nomes.includes(n));
+
+  $("#escolha-disciplina").innerHTML = nomes.map(n => `
+    <button class="escolha" data-valor="${escape(n)}" aria-pressed="${estado.disciplinas.includes(n)}">
+      <span class="marcador">${contagem[n]}</span>
+      <span><strong>${escape(n)}</strong></span>
+    </button>`).join("");
+
+  ligarEscolhas("#escolha-disciplina", () => {
+    estado.disciplinas = $$("#escolha-disciplina .escolha")
+      .filter(b => b.getAttribute("aria-pressed") === "true")
+      .map(b => b.dataset.valor);
+    atualizarConfig();
+  }, true);
+}
+
+function atualizarConfig(){
+  $("#detalhe-bloco").classList.toggle("oculto", estado.modo !== "bloco");
+  $("#detalhe-disciplina").classList.toggle("oculto", estado.modo !== "disciplina");
+
+  const erradas = erradasSalvas();
+  $("#resumo-erradas").textContent = erradas
+    ? `${erradas} ${erradas === 1 ? "item errado" : "itens errados"} guardados da última vez.`
+    : "Nenhum erro registrado ainda — responda alguns itens primeiro.";
+  $("#opcao-erradas").disabled = erradas === 0;
+  $("#opcao-erradas").style.opacity = erradas === 0 ? .5 : 1;
+
+  const total = selecionar().length;
+  const btn = $("#btn-comecar");
+  btn.disabled = total === 0;
+  btn.textContent = total === 0
+    ? (estado.modo === "disciplina" ? "Escolha ao menos uma disciplina" : "Nada para treinar aqui")
+    : `Começar — ${total} ${total === 1 ? "item" : "itens"}`;
+}
+
+/* ---------------- sessão ---------------- */
+function iniciar(reaproveitar){
+  if(!reaproveitar){
+    estado.ordem = selecionar().map(q => q.id);
+    estado.indice = 0;
+    estado.respostas = {};
+    estado.revelados = {};
+  }
+  if(!estado.ordem.length) return;
+  $("#tela-config").classList.add("oculto");
+  $("#tela-relatorio").classList.add("oculto");
+  $("#tela-questao").classList.remove("oculto");
+  $("#btn-relatorio").classList.remove("oculto");
+  $("#btn-recomecar").classList.remove("oculto");
+  desenharQuestao();
+  salvar();
+}
+
+function questaoAtual(){ return porId[estado.ordem[estado.indice]]; }
+
+function desenharQuestao(){
+  const q = questaoAtual();
+  if(!q) return;
+  const total = estado.ordem.length;
+
+  $("#barra-progresso").style.width = ((estado.indice) / total * 100) + "%";
+  $("#posicao").textContent = `${estado.indice + 1} de ${total}`;
+  $("#cabecalho-contexto").textContent = `item ${q.n} · ${q.bloco.toLowerCase()}`;
+
+  $("#trilha").innerHTML = `
+    <span class="selo numero">Item ${q.n}</span>
+    <span class="selo">${escape(q.disciplina)}</span>
+    <span class="selo tema">${escape(q.tema)}</span>`;
+
+  const apoio = $("#bloco-apoio");
+  if(q.textoApoio){
+    apoio.classList.remove("oculto");
+    $("#texto-apoio").textContent = q.textoApoio;
+    // aberto quando o texto é curto (situação hipotética); fechado quando é um texto longo de leitura
+    apoio.open = q.textoApoio.length < 900;
+    apoio.querySelector("summary").textContent =
+      q.textoApoio.length < 900 ? "Situação apresentada no caderno" : "Texto de apoio (clique para abrir)";
+  }else{
+    apoio.classList.add("oculto");
+  }
+
+  $("#comando").textContent = q.comando;
+  const fig = $("#figura");
+  if(q.figura){ fig.classList.remove("oculto"); $("#figura-img").src = q.figura; }
+  else{ fig.classList.add("oculto"); $("#figura-img").removeAttribute("src"); }
+
+  $("#enunciado").textContent = q.enunciado;
+  const ex = $("#exemplo");
+  if(q.exemplo){ ex.textContent = q.exemplo; ex.classList.remove("oculto"); }
+  else{ ex.classList.add("oculto"); }
+
+  const respondida = Object.prototype.hasOwnProperty.call(estado.respostas, q.id);
+  const revelar = respondida && (estado.correcao === "imediata" || estado.revelados[q.id]);
+
+  $("#area-julgamento").classList.toggle("oculto", respondida);
+  if(revelar){
+    mostrarResposta(q);
+  }else if(respondida){
+    const marcada = estado.respostas[q.id];
+    $("#area-resposta").innerHTML = `
+      <div class="resultado nulo">
+        <div class="veredito">Respondido</div>
+        <div class="detalhe">Você marcou <b>${marcada === "" ? "em branco" : (marcada === "C" ? "CERTO" : "ERRADO")}</b>.
+        Como você escolheu ver a correção só no final, o gabarito e o comentário saem no relatório.</div>
+      </div>`;
+    $("#area-resposta").classList.remove("oculto");
+  }else{
+    $("#area-resposta").classList.add("oculto");
+  }
+
+  $$("#area-julgamento .botao").forEach(b => b.disabled = false);
+  $("#btn-anterior").disabled = estado.indice === 0;
+  $("#btn-proxima").textContent = estado.indice === total - 1 ? "Ver gabarito →" : "Próxima →";
+  window.scrollTo({top:0, behavior:"instant"});
+}
+
+function responder(valor){
+  const q = questaoAtual();
+  if(Object.prototype.hasOwnProperty.call(estado.respostas, q.id)) return;
+  estado.respostas[q.id] = valor;
+  if(q.gabarito !== "X"){
+    estado.historico[q.id] = valor === "" ? "branco" : (valor === q.gabarito ? "acerto" : "erro");
+  }
+  $("#area-julgamento").classList.add("oculto");
+  if(estado.correcao === "imediata"){
+    estado.revelados[q.id] = true;
+    mostrarResposta(q);
+  }else{
+    avancar();
+  }
+  salvar();
+}
+
+function mostrarResposta(q){
+  const dada = estado.respostas[q.id];
+  const anulada = q.gabarito === "X";
+  const acertou = !anulada && dada !== "" && dada === q.gabarito;
+  const classe = anulada ? "nulo" : (acertou ? "acerto" : "falha");
+
+  const nomeGab = anulada ? "anulado pela banca" : (q.gabarito === "C" ? "CERTO" : "ERRADO");
+  const nomeDada = dada === "" ? "deixado em branco" : (dada === "C" ? "CERTO" : "ERRADO");
+
+  let veredito, detalhe;
+  if(anulada){
+    veredito = "Item anulado";
+    detalhe = `A banca anulou este item no gabarito definitivo e atribuiu a pontuação a todos os candidatos. Você respondeu ${nomeDada}.`;
+  }else if(dada === ""){
+    veredito = "Em branco";
+    detalhe = `Gabarito oficial: <b>${nomeGab}</b>. Na prova real, deixar em branco não gera desconto — mas também não pontua.`;
+  }else if(acertou){
+    veredito = "Você acertou";
+    detalhe = `Gabarito oficial: <b>${nomeGab}</b>.`;
+  }else{
+    veredito = "Você errou";
+    detalhe = `Você marcou ${nomeDada}; o gabarito oficial é <b>${nomeGab}</b>. Na prova real, cada erro anula um acerto.`;
+  }
+
+  const fundamentos = (q.fundamentos || []).map(f =>
+    `<li><a href="${f.url}" target="_blank" rel="noopener">${escape(f.rotulo)}</a></li>`).join("");
+
+  $("#area-resposta").innerHTML = `
+    <div class="resultado ${classe}">
+      <div class="veredito">${veredito}</div>
+      <div class="detalhe">${detalhe}</div>
+    </div>
+    <div class="cartao">
+      <span class="rotulo">Por que</span>
+      <p class="explicacao" style="margin-top:8px">${escape(q.explicacao)}</p>
+      ${fundamentos ? `<span class="rotulo" style="display:block;margin-top:18px">Fundamento</span>
+        <ul class="fundamentos">${fundamentos}</ul>` : ""}
+      ${q.alerta ? `<div class="aviso"><b>Mudou depois de 2021.</b> ${escape(q.alerta)}</div>` : ""}
+    </div>`;
+  $("#area-resposta").classList.remove("oculto");
+}
+
+function avancar(){
+  if(estado.indice < estado.ordem.length - 1){
+    estado.indice++;
+    desenharQuestao();
+    salvar();
+  }else{
+    Object.keys(estado.respostas).forEach(id => estado.revelados[id] = true);
+    abrirRelatorio();
+  }
+}
+
+/* ---------------- relatório ---------------- */
+function abrirRelatorio(){
+  $("#tela-questao").classList.add("oculto");
+  $("#tela-config").classList.add("oculto");
+  $("#tela-relatorio").classList.remove("oculto");
+  $("#barra-progresso").style.width = "100%";
+  $("#cabecalho-contexto").textContent = "gabarito da sessão";
+
+  const itens = estado.ordem.map(id => porId[id]);
+  const respondidos = itens.filter(q => Object.prototype.hasOwnProperty.call(estado.respostas, q.id));
+  const validos = itens.filter(q => q.gabarito !== "X");
+  const anulados = itens.length - validos.length;
+
+  let acertos = 0, erros = 0, brancos = 0;
+  validos.forEach(q => {
+    const r = estado.respostas[q.id];
+    if(r === undefined) return;
+    if(r === "") brancos++;
+    else if(r === q.gabarito) acertos++;
+    else erros++;
+  });
+
+  const liquido = acertos - erros;
+  const respondidosValidos = acertos + erros;
+  const aproveitamento = respondidosValidos ? Math.round(acertos / respondidosValidos * 100) : 0;
+
+  $("#resumo-relatorio").innerHTML = respondidos.length < itens.length
+    ? `Você respondeu ${respondidos.length} dos ${itens.length} itens desta sessão. O diagnóstico abaixo considera só o que foi respondido.`
+    : `Sessão completa: ${itens.length} ${itens.length === 1 ? "item" : "itens"}${anulados ? `, dos quais ${anulados} ${anulados === 1 ? "foi anulado" : "foram anulados"} pela banca` : ""}.`;
+
+  $("#placar").innerHTML = `
+    <div class="ficha acertos"><div class="valor">${acertos}</div><span class="rotulo">acertos</span></div>
+    <div class="ficha erros"><div class="valor">${erros}</div><span class="rotulo">erros</span></div>
+    <div class="ficha"><div class="valor">${brancos}</div><span class="rotulo">em branco</span></div>
+    <div class="ficha"><div class="valor">${liquido > 0 ? "+" : ""}${liquido}</div><span class="rotulo">saldo (C − E)</span></div>
+    <div class="ficha"><div class="valor">${aproveitamento}%</div><span class="rotulo">aproveitamento</span></div>`;
+
+  // agregação por disciplina e por tema
+  const porDisciplina = {}, porTema = {};
+  validos.forEach(q => {
+    const r = estado.respostas[q.id];
+    if(r === undefined) return;
+    const situacao = r === "" ? "brancos" : (r === q.gabarito ? "acertos" : "erros");
+    const d = porDisciplina[q.disciplina] || (porDisciplina[q.disciplina] = {acertos:0, erros:0, brancos:0, total:0});
+    d[situacao]++; d.total++;
+    const chave = q.disciplina + " ▸ " + q.tema;
+    const t = porTema[chave] || (porTema[chave] = {disciplina:q.disciplina, tema:q.tema, erros:0, total:0, itens:[]});
+    t.total++;
+    if(situacao === "erros"){ t.erros++; t.itens.push(q); }
+  });
+
+  const linhasTema = Object.values(porTema)
+    .filter(t => t.erros > 0)
+    .sort((a,b) => (b.erros/b.total) - (a.erros/a.total) || b.erros - a.erros)
+    .map(t => `<tr>
+      <td><b>${escape(t.tema)}</b></td>
+      <td style="color:var(--ink-2)">${escape(t.disciplina)}</td>
+      <td class="num">${t.erros} de ${t.total}</td>
+      <td><div class="medidor"><i style="width:${Math.round(t.erros/t.total*100)}%"></i></div></td>
+    </tr>`).join("");
+  $("#tabela-temas tbody").innerHTML = linhasTema ||
+    `<tr><td colspan="4" style="color:var(--ink-2)">Nenhum erro nesta sessão. Nada a priorizar.</td></tr>`;
+
+  $("#tabela-disciplinas tbody").innerHTML = Object.entries(porDisciplina)
+    .sort((a,b) => (b[1].erros/b[1].total) - (a[1].erros/a[1].total) || b[1].total - a[1].total)
+    .map(([nome,d]) => `<tr>
+      <td><b>${escape(nome)}</b></td>
+      <td class="num">${d.total}</td>
+      <td class="num" style="color:var(--certo)">${d.acertos}</td>
+      <td class="num" style="color:var(--erro)">${d.erros}</td>
+      <td class="num">${d.brancos}</td>
+      <td><div class="medidor"><i style="width:${Math.round(d.erros/d.total*100)}%"></i></div></td>
+    </tr>`).join("") || `<tr><td colspan="6" style="color:var(--ink-2)">Nada respondido ainda.</td></tr>`;
+
+  const revisar = itens.filter(q => {
+    const r = estado.respostas[q.id];
+    return r !== undefined && q.gabarito !== "X" && r !== "" && r !== q.gabarito;
+  });
+  $("#secao-revisao").classList.toggle("oculto", revisar.length === 0);
+  $("#lista-revisao").innerHTML = revisar.map(q => `
+    <li><button data-id="${q.id}">
+      <span class="num">${q.n}</span>
+      <span class="txt"><b>${escape(q.tema)}</b> — ${escape(q.enunciado.slice(0,120))}${q.enunciado.length > 120 ? "…" : ""}</span>
+    </button></li>`).join("");
+  $$("#lista-revisao button").forEach(b => b.addEventListener("click", () => {
+    estado.indice = estado.ordem.indexOf(b.dataset.id);
+    estado.revelados[b.dataset.id] = true;
+    $("#tela-relatorio").classList.add("oculto");
+    $("#tela-questao").classList.remove("oculto");
+    desenharQuestao();
+  }));
+
+  $("#btn-refazer-erradas").disabled = erradasSalvas() === 0;
+  salvar();
+}
+
+/* ---------------- eventos ---------------- */
+$$("#area-julgamento .botao").forEach(b =>
+  b.addEventListener("click", () => responder(b.dataset.resposta)));
+$("#btn-proxima").addEventListener("click", avancar);
+$("#btn-anterior").addEventListener("click", () => {
+  if(estado.indice > 0){ estado.indice--; desenharQuestao(); salvar(); }
+});
+$("#btn-comecar").addEventListener("click", () => iniciar(false));
+$("#btn-relatorio").addEventListener("click", abrirRelatorio);
+$("#btn-recomecar").addEventListener("click", voltarConfig);
+$("#btn-nova-sessao").addEventListener("click", voltarConfig);
+$("#btn-refazer-erradas").addEventListener("click", () => {
+  estado.modo = "erradas";
+  iniciar(false);
+});
+$("#btn-zerar").addEventListener("click", () => {
+  estado.historico = {}; estado.respostas = {}; estado.revelados = {}; estado.ordem = [];
+  try{ localStorage.removeItem(CHAVE); }catch(e){}
+  voltarConfig();
+});
+
+function voltarConfig(){
+  $("#tela-questao").classList.add("oculto");
+  $("#tela-relatorio").classList.add("oculto");
+  $("#tela-config").classList.remove("oculto");
+  $("#btn-relatorio").classList.add("oculto");
+  $("#btn-recomecar").classList.add("oculto");
+  $("#barra-progresso").style.width = "0%";
+  $("#cabecalho-contexto").textContent = "prova de 2021 · CEBRASPE";
+  atualizarConfig();
+  window.scrollTo({top:0, behavior:"instant"});
+}
+
+document.addEventListener("keydown", e => {
+  if($("#tela-questao").classList.contains("oculto")) return;
+  if(e.target.tagName === "INPUT" || e.target.tagName === "TEXTAREA") return;
+  const respondida = Object.prototype.hasOwnProperty.call(estado.respostas, questaoAtual().id);
+  const t = e.key.toLowerCase();
+  if(!respondida && (t === "c")){ e.preventDefault(); responder("C"); }
+  else if(!respondida && (t === "e")){ e.preventDefault(); responder("E"); }
+  else if(!respondida && (t === "n")){ e.preventDefault(); responder(""); }
+  else if(e.key === "Enter" || e.key === "ArrowRight"){ e.preventDefault(); avancar(); }
+  else if(e.key === "ArrowLeft" && estado.indice > 0){ e.preventDefault(); estado.indice--; desenharQuestao(); }
+});
+
+/* ---------------- arranque ---------------- */
+carregar();
+montarConfig();
+// restaura seleções salvas na tela de configuração
+$$("#escolha-lingua .escolha").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.valor === estado.lingua)));
+$$("#escolha-correcao .escolha").forEach(b => b.setAttribute("aria-pressed", String(b.dataset.valor === estado.correcao)));
+atualizarConfig();
+
+if(estado.ordem.length && estado.ordem.every(id => porId[id])){
+  iniciar(true);
+}
+</script>

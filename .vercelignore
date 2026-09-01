@@ -1,0 +1,11 @@
+# Sobe só a pasta public/. O resto é material de origem e ferramenta de build.
+fontes/
+dados/
+src/
+capturas/
+testes/
+*.py
+*.md
+artefato.html
+figura_43_44.png
+index.html

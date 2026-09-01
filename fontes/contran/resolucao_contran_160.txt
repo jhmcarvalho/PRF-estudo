@@ -1,0 +1,1741 @@
+         RESOLUÇÃO Nº 160, DE 22 DE ABRIL DE 2004.
+
+         Aprova o Anexo II do Código de Trânsito Brasileiro.
+
+                 O CONSELHO NACIONAL DE TRÂNSITO - CONTRAN, usando da competência
+que lhe confere o art. 12, inciso VIII, da Lei nº 9.503, de 23 de setembro de 1997, que instituiu o
+Código de Trânsito Brasileiro - CTB e conforme Decreto nº 4.711, de 29 de maio de 2003, que dispõe
+sobre a coordenação do Sistema Nacional de Trânsito - SNT, e
+
+         Considerando a aprovação na 5ª Reunião Ordinária da Câmara Temática de Engenharia
+
+da Via.
+
+         Considerando o que dispõe o Artigo 336 do Código de Trânsito Brasileiro, resolve:
+
+                 Art. 1º. Fica aprovado o Anexo II do Código de Trânsito Brasileiro - CTB, anexo a esta
+Resolução.
+
+                 Art. 2º Os órgãos e entidades de trânsito terão até 30 de junho de 2006 para se
+adequarem ao disposto nesta Resolução.
+
+         Art. 3º. Esta Resolução entra em vigor 90 (noventa) dias após a data de sua publicação.
+
+                 AILTON BRASILIENSE PIRES
+                       Presidente do Conselho
+
+                   LUIZ CARLOS BERTOTTO
+                  Ministério das Cidades - Titular
+
+                   RENATO ARAUJO JUNIOR
+          Ministério da Ciência e Tecnologia - Titular
+
+                       JUSCELINO CUNHA
+                 Ministério da Educação - Titular
+
+             CARLOS ALBERTO F DOS SANTOS
+            Ministério do Meio Ambiente - Suplente
+
+                 AFONSO GUIMARÃES NETO
+               Ministério dos Transportes - Titular
+
+         EUGENIA MARIA SILVEIRA RODRIGUES
+                  Ministério da Saúde - Suplente
+                                                         ANEXO
+                     ANEXO II DO CÓDIGO DE TRÂNSITO BRASILEIRO - CTB
+1. SINALIZAÇÃO VERTICAL
+É um subsistema da sinalização viária cujo meio de comunicação está na posição vertical,
+normalmente em placa, fixado ao lado ou suspenso sobre a pista, transmitindo mensagens de caráter
+permanente e, eventualmente, variáveis, através de legendas e/ou símbolos pré-reconhecidos e
+legalmente instituídos.
+A sinalização vertical é classificada de acordo com sua função, compreendendo os seguintes tipos:
+- Sinalização de Regulamentação;
+- Sinalização de Advertência;
+- Sinalização de Indicação.
+1.1. SINALIZAÇÃO DE REGULAMENTAÇÃO
+Tem por finalidade informar aos usuários as condições, proibições, obrigações ou restrições no uso das
+vias. Suas mensagens são imperativas e o desrespeito a elas constitui infração.
+1.1.1. Formas e Cores
+A forma padrão do sinal de regulamentação é a circular, e as cores são vermelha, preta e branca:
+Características dos Sinais de Regulamentação
+
+Constituem exceção, quanto à forma, os sinais R-1 – Parada Obrigatória e R-2 – Dê a Preferência, com
+as características:
+1.1.2. Dimensões Mínimas
+
+Devem ser observadas as dimensões mínimas dos sinais, conforme o ambiente em que são
+implantados, considerando-se que o aumento no tamanho dos sinais implica em aumento nas
+dimensões de orlas, tarjas e símbolos.
+
+a) sinais de forma circular
+
+  Via             Diâmetro          Tarja mínima Orla mínima
+Urbana             mínimo
+                                          (m)     (m)
+                     (m)
+                                          0,040   0,040
+                     0,40
+
+Rural (estrada)         0,50              0,050   0,050
+
+Rural (rodovia)         0,75              0,075   0,075
+
+Áreas protegidas
+
+por legislação          0,30              0,030   0,030
+
+especial(*)
+
+(*) relativa a patrimônio histórico, artístico, cultural, arquitetônico, arqueológico e natural
+
+b) sinal de forma octogonal – R-1
+
+  Via             Lado mínimo       Orla interna  Orla externa
+Urbana                  (m)            branca      vermelha
+                                      mínima        mínima
+                       0,25              (m)           (m)
+
+                                       0,020          0,010
+
+Rural (estrada)         0,35              0,028   0,014
+
+Rural (rodovia)         0,40              0,032   0,016
+
+Áreas protegidas
+
+por legislação          0,18              0,015   0,008
+
+especial(*)
+
+(*) relativa a patrimônio histórico, artístico, cultural, arquitetônico, arqueológico e natural
+
+c) sinal de forma triangular – R-2
+
+  Via                         Lado mínimo         Orla mínima
+Urbana                              (m)                (m)
+
+                                   0,75                0,10
+
+Rural (estrada)                     0,75          0,10
+
+Rural (rodovia)                     0,90          0,15
+
+Áreas protegidas por                0,40          0,06
+legislação especial(*)
+
+(*) relativa a patrimônio histórico, artístico, cultural, arquitetônico, arqueológico e natural
+
+As informações complementares, cujas características são descritas no item 1.1.5, possuem a forma
+retangular.
+1.1.3. Dimensões Recomendadas
+a) sinais de forma circular
+
+       Via       Diâmetro                Tarja    Orla
+                    (m)                   (m)      (m)
+    Urbana
+  (de trânsito      0,75                 0,075    0,075
+
+     rápido)        0,50                 0,050    0,050
+    Urbana          0,75                 0,075    0,075
+ (demais vias)      1,00                 0,100    0,100
+Rural (estrada)
+
+Rural (rodovia)
+
+b) sinal de forma octogonal – R-1
+
+       Via       Lado               Orla interna  Orla externa
+    Urbana       (m)                branca (m)    vermelha (m)
+Rural (estrada)  0,35
+Rural (rodovia)                        0,028          0,014
+                 0,35
+                                       0,028          0,014
+                 0,50
+                                       0,040          0,020
+
+c) sinal de forma triangular – R-2
+
+       Via                         Lado           Tarja
+    Urbana                         (m)             (m)
+Rural (estrada)                    0,90           0,15
+Rural (rodovia)
+                                   0,90           0,15
+
+                                   1,00           0,20
+1.1.4. Conjunto de Sinais de Regulamentação
+1.1.5. Informações Complementares
+
+Sendo necessário acrescentar informações para complementar os sinais de regulamentação, como
+período de validade, características e uso do veículo, condições de estacionamento, além de outras,
+deve ser utilizada uma placa adicional ou incorporada à placa principal, formando um só conjunto, na
+forma retangular, com as mesmas cores do sinal de regulamentação.
+
+Características das Informações Complementares
+
+                                 Cor   Branca
+          Fundo                       Vermelha
+Orla interna (opcional)
+      Orla externa                     Branca
+          Tarja                       Vermelha
+        Legenda
+                                        Preta
+
+Não se admite acrescentar informação complementar para os sinais R-1 - Parada Obrigatória e R-2 -
+Dê a Preferência.
+Nos casos em que houver símbolos, estes devem ter a forma e cores definidas em legislação específica.
+Exemplos:
+1.2. Sinalização de Advertência
+
+Tem por finalidade alertar os usuários da via para condições potencialmente perigosas, indicando sua
+natureza.
+
+1.2.1. Formas e Cores
+
+A forma padrão dos sinais de advertência é quadrada, devendo uma das diagonais ficar na posição
+vertical. À sinalização de advertência estão associadas as cores amarela e preta.
+
+Características dos Sinais de Advertência
+
+Forma                                        Cor
+                         Fundo
+                        Símbolo                   Amarela
+                      Orla interna                  Preta
+                      Orla externa                  Preta
+                        Legenda
+                                                  Amarela
+                                                    Preta
+
+Constituem exceções:
+· quanto à cor:
+- o sinal A-24 – Obras, que possui fundo e orla externa na cor laranja;
+- o sinal A-14 – Semáforo à Frente, que possui símbolo nas cores preta, vermelha, amarela e verde;
+- todos os sinais que, quando utilizados na sinalização de obras, possuem fundo na cor laranja.
+
+· quanto à forma, os sinais A-26a – Sentido Único, A-26b – Sentido Duplo e A-41 – Cruz de Santo
+André.
+
+       Sinal  Código                      Cor
+
+Forma                    Fundo
+                      Orla interna
+              A-26a   Orla externa                Amarela
+              A-26b                                 Preta
+                          Seta
+              A-41       Fundo                    Amarela
+                                                    Preta
+                      Orla interna
+                                                  Amarela
+                      Orla externa
+                                                    Preta
+
+                                                  Amarela
+
+A Sinalização Especial de Advertência e as Informações Complementares, cujas características são
+descritas nos itens 1.2.4 e 1.2.5, possuem a forma retangular.
+1.2.2. Dimensões Mínimas
+
+Devem ser observadas as dimensões mínimas dos sinais, conforme a via em que são implantados,
+considerando-se que o aumento no tamanho dos sinais implica em aumento nas dimensões de orlas e
+símbolos.
+
+a) Sinais de forma quadrada
+
+  Via                   Lado mínimo           Orla externa     Orla interna
+Urbana                        (m)             mínima (m)       mínima (m)
+
+                             0,45                 0,010           0,020
+
+Rural (estrada)                0,50           0,010            0,020
+
+Rural (rodovia)                0,60           0,010            0,020
+
+Áreas protegidas por           0,30           0,006            0,012
+legislação especial(*)
+
+(*) relativa a patrimônio histórico, artístico, cultural, arquitetônico, arqueológico e natural
+
+Obs.: Nos casos de placas de advertência desenhadas numa placa adicional, o lado mínimo pode ser
+
+de 0,300 m.
+
+b) Sinais de forma retangular
+
+Via                     Lado maior Lado menor Orla externa Orla interna
+                        mínimo (m) mínimo (m) mínima (m) mínima (m)
+
+Urbana                  0,50            0,25         0,010     0,020
+
+Rural (estrada)         0,80            0,40         0,010     0,020
+
+Rural (rodovia)         1,00            0,50         0,010     0,020
+
+Áreas protegidas por    0,40            0,20         0,006     0,012
+legislação especial(*)
+
+(*) relativa a patrimônio histórico, artístico, cultural, arquitetônico, arqueológico e natural
+
+c) Cruz de Santo André
+
+                  Parâmetro                      Variação
+                                              de 1:6 a 1:10
+  Relação entre dimensões de largura e        entre 45º e 55º
+         comprimento dos braços
+
+Ângulos menores formados entre os dois
+                    braços
+1.2.3. Conjunto de Sinais de Advertência
+1.2.4. Sinalização Especial de Advertência
+
+Estes sinais são empregados nas situações em que não é possível a utilização dos sinais apresentados
+no item 1.2.3.
+
+O formato adotado é retangular, de tamanho variável em função das informações nelas contidas, e suas
+cores são amarela e preta:
+
+Características da Sinalização Especial de Advertência
+
+                               Cor  Amarela
+                                      Preta
+              Fundo                   Preta
+             Símbolo
+           Orla interna             Amarela
+           Orla externa               Preta
+             Legenda                  Preta
+
+               Tarja
+
+Na sinalização de obras, o fundo e a orla externa devem ser na cor laranja.
+
+Exemplos:
+
+a) Sinalização Especial para Faixas ou Pistas Exclusivas de Ônibus
+b) Sinalização Especial para Pedestres
+c) Sinalização Especial de Advertência somente para rodovias, estradas e vias de trânsito rápido
+
+1.2.5. Informações Complementares
+
+Havendo necessidade de fornecer informações complementares aos sinais de advertência, estas devem
+ser inscritas em placa adicional ou incorporada à placa principal formando um só conjunto, na forma
+retangular, admitida a exceção para a placa adicional contendo o número de linhas férreas que cruzam
+a pista. As cores da placa adicional devem ser as mesmas dos sinais de advertência.
+
+Características das Informações Complementares
+
+                    Cor  Amarela
+   Fundo                   Preta
+Orla interna
+Orla externa             Amarela
+  Legenda                  Preta
+    Tarja                  Preta
+
+Exemplos:
+Na sinalização de obras, o fundo e a orla externa devem ser na cor laranja.
+
+1.3. SINALIZAÇÃO DE INDICAÇÃO
+
+Tem por finalidade identificar as vias e os locais de interesse, bem como orientar condutores de
+veículos quanto aos percursos, os destinos, as distâncias e os serviços auxiliares, podendo também ter
+como função a educação do usuário. Suas mensagens possuem caráter informativo ou educativo.
+
+As placas de indicação estão divididas nos seguintes grupos:
+
+1.3.1. Placas de Identificação
+
+Posicionam o condutor ao longo do seu deslocamento, ou com relação a distâncias ou ainda aos locais
+de destino.
+
+a) Placas de Identificação de Rodovias e Estradas
+
+Características das Placas de Identificação de Rodovias e Estradas Pan-Americanas
+
+Forma                                          Cor
+                                   Fundo
+                                Orla interna        Branca
+                                Orla externa         Preta
+                                  Legenda           Branca
+                                                     Preta
+
+Dimensões mínimas (m)
+
+Altura                          0,45
+
+Chanfro Inclinado               0,14
+
+Largura Superior                0,44
+
+Largura Inferior                0,41
+
+Orla Interna                    0,02
+
+Orla Externa                    0,01
+Características das Placas de Identificação de Rodovias e Estradas Federais
+
+Forma                              Cor
+
+                       Fundo            Branca
+                    Orla interna         Preta
+                    Orla externa        Branca
+                                         Preta
+                        Tarja            Preta
+                     Legendas
+
+           Dimensões mínimas (m)
+
+           Largura                0,40
+
+           Altura                 0,45
+
+Orla interna                      0,02
+
+Orla externa                      0,01
+
+           Tarja                  0,02
+
+Exemplos:
+
+Características das Placas de Identificação de Rodovias e Estradas Estaduais
+
+Forma                              Cor
+
+                       Fundo            Branca
+                    Orla interna         Preta
+                    Orla externa        Branca
+                     Legendas            Preta
+
+           Dimensões mínimas (m)
+
+           Largura                0,51
+
+           Altura                 0,45
+
+Orla interna                      0,02
+
+Orla externa                      0,01
+
+Exemplos:
+b) Placas de Identificação de Municípios
+Características das Placas de Identificação de Municípios
+
+         Forma                       Cor                    Azul
+                         Fundo                             Branca
+Retangular, com lado  Orla interna                          Azul
+ maior na horizontal  Orla externa                         Branca
+                        Legenda
+
+Dimensões mínimas (m)
+
+Altura das letras     0,20 (*)
+
+Orla interna           0,02
+
+Orla externa           0,01
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico, etc.),  podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:              GOIÂNIA
+
+  FLORIANÓPOLIS
+
+c) Placas de Identificação de Regiões de Interesse de Tráfego e Logradouros
+
+A parte de cima da placa deve indicar o bairro ou avenida/rua da cidade. A parte de baixo a região ou
+zona em que o bairro ou avenida/rua estiver situado. Esta parte da placa é opcional.
+
+Características das Placas de Identificação de Regiões de Interesse de Tráfego e Logradouros
+
+  Forma                                 Cor   Azul
+Retangular                                   Branca
+                         Fundo                Azul
+                      Orla interna           Branca
+                      Orla externa           Branca
+
+                          Tarja
+                       Legendas
+
+Dimensões mínimas (m)
+
+Altura das letras      0,10
+
+Orla interna           0,02
+
+Orla externa           0,01
+
+Tarja                  0,01
+Exemplos:
+
+d) Placas de Identificação Nominal de Pontes, Viadutos, Túneis e Passarelas
+Características das Placas de Identificação Nominal de Pontes, Viadutos, Túneis e Passarelas
+
+         Forma                          Cor   Azul
+                                             Branca
+Retangular, com lado     Fundo                Azul
+ maior na horizontal  Orla interna           Branca
+                      Orla externa           Branca
+
+                          Tarja
+                       Legendas
+
+           Dimensões mínimas (m)
+
+Altura das letras     0,10
+
+Orla interna          0,02
+
+Orla externa          0,01
+
+           Tarja      0,01
+
+Exemplos:
+e) Placas de Identificação Quilométrica
+Características das Placas de Identificação Quilométrica
+
+         Forma                                  Cor        Azul
+                                                          Branca
+Retangular, com lado                Fundo                  Azul
+  maior na vertical              Orla interna             Branca
+                                 Orla externa             Branca
+
+                                     Tarja
+                                  Legendas
+
+           Dimensões mínimas (m)
+
+Altura da letra                   0,150
+
+Altura da letra (ponto cardeal)   0,125
+
+Altura do algarismo               0,150
+
+           Orla interna           0,020
+
+           Orla externa           0,010
+
+           Tarja(*)               0,010
+
+(*) quando separar a informação adicional do ponto cardeal
+
+Na utilização em vias urbanas as dimensões devem ser determinadas em função do local e do objetivo
+da sinalização.
+
+Exemplos:
+
+NORTE      km
+           380
+ km
+153
+
+f) Placas de Identificação de Limite de Municípios / Divisa de Estados / Fronteira / Perímetro
+Urbano
+
+Características das Placas de Identificação de Limite de Municípios / Divisa de Estados / Fronteira /
+Perímetro Urbano
+
+         Forma                              Cor       Azul
+                                                     Branca
+Retangular, com lado        Fundo                     Azul
+ maior na horizontal     Orla interna                Branca
+                         Orla externa                Branca
+
+                             Tarja
+                          Legendas
+           Dimensões mínimas (m)
+
+Altura das letras                 0,12
+
+Orla interna                      0,02
+
+Orla externa                      0,01
+
+           Tarja                  0,01
+
+Exemplos:
+
+g) Placas de Pedágio
+Características das Placas de Pedágio
+
+         Forma                          Cor    Azul
+                                              Branca
+Retangular, com lado        Fundo              Azul
+ maior na horizontal     Orla interna         Branca
+                         Orla externa         Branca
+                                              Branca
+                             Tarja
+                          Legendas
+
+                             Seta
+
+           Dimensões mínimas (m)
+
+Altura das letras                       0,20
+
+           Orla interna                 0,02
+
+           Orla externa                 0,01
+
+           Tarja                        0,01
+
+Exemplos:                PEDÁGIO 1 km
+
+  PEDÁGIO 1 km                ÔNIBUS
+                            CAMINHÃO
+     AUTOMÓVEL
+      UTILITÁRIO
+
+PEDÁGIO 1 km
+
+   PASSAGEM
+       LIVRE
+1.3.2. Placas de Orientação de Destino
+
+Indicam ao condutor a direção que o mesmo deve seguir para atingir determinados lugares, orientando
+seu percurso e/ou distâncias.
+
+a) Placas Indicativas de Sentido (Direção)
+
+Características das Placas Indicativas de Sentido
+
+                                                          Mensagens de Nomes de
+
+      Forma               Mensagens de Localidades        Rodovias/Estradas ou Associadas aos
+
+Retangular, com                                                  seus Símbolos
+lado maior na
+horizontal                        Cor                                   Cor
+                      Fundo
+                   Orla interna         Verde             Fundo                 Azul
+                   Orla externa         Branca
+                       Tarja            Verde             Orla interna       Branca
+                    Legendas            Branca
+                       Setas            Branca            Orla externa          Azul
+                                        Branca
+                                                          Tarja              Branca
+
+                                                          Legendas           Branca
+
+                                                          Setas              Branca
+
+                          Símbolos          -             De acordo com a
+
+                                                          rodovia / estrada
+
+           Dimensões mínimas (m)
+
+Altura das letras  VIA URBANA                  0,125(*)
+                    VIA RURAL                  0,150(*)
+
+           Orla interna                            0,020
+
+           Orla externa                            0,010
+
+                   Tarja                           0,010
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico, etc.) ,     podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:
+b) Placas Indicativas de Distância
+Características das Placas Indicativas de Distância
+
+                                                     Mensagens de Nomes de
+
+      Forma       Mensagens de Localidades           Rodovias/Estradas ou Associadas aos
+
+Retangular, com                                      seus Símbolos
+ lado maior na
+   horizontal                   Cor                                Cor
+                     Fundo
+                  Orla interna       Verde           Fundo              Azul
+                  Orla externa       Branca
+                      Tarja          Verde           Orla interna       Branca
+                   Legendas          Branca
+                                     Branca          Orla externa       Azul
+
+                                                     Tarja              Branca
+
+                                                     Legendas           Branca
+
+                  Símbolos           -               De acordo com a
+
+                                                     rodovia / estrada
+
+           Dimensões mínimas (m)
+
+                        VIA URBANA 0,125(*)
+Altura das letras
+
+                         VIA RURAL 0,150(*)
+
+           Orla interna              0,020
+
+           Orla externa              0,010
+
+           Tarja                     0,010
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico, etc. ) ,  podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:
+c) Placas Diagramadas
+Características das Placas Diagramadas
+
+                                                  Mensagens de Nomes de
+
+      Forma       Mensagens de Localidades        Rodovias/Estradas ou Associadas
+
+Retangular, com                                   aos seus Símbolos
+ lado maior na
+   horizontal                     Cor                           Cor
+                     Fundo
+                  Orla interna          Verde     Fundo              Azul
+                  Orla externa          Branca
+                      Tarja             Verde     Orla interna       Branca
+                   Legendas             Branca
+                      Setas             Branca    Orla externa       Azul
+                                        Branca
+                                                  Tarja              Branca
+
+                                                  Legendas           Branca
+
+                                                  Setas              Branca
+
+                  Símbolos              -         De acordo com a
+
+                                                  rodovia / estrada
+
+           Dimensões mínimas (m)
+
+                        VIA URBANA      0,125(*)
+Altura das letras                       0,150(*)
+
+                         VIA RURAL
+
+           Orla interna                 0,020
+
+           Orla externa                 0,010
+
+           Tarja                        0,010
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico , etc. ) ,  podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:
+1.3.3. Placas Educativas
+
+Tem a função de educar os usuários da via quanto ao seu comportamento adequado e seguro no
+trânsito. Podem conter mensagens que reforcem normas gerais de circulação e conduta.
+
+Características das Placas Educativas
+
+  Forma                                 Cor          Branca
+Retangular                                            Preta
+                            Fundo                    Branca
+                         Orla interna                 Preta
+                         Orla externa                 Preta
+                                                      Preta
+                             Tarja
+                          Legendas
+                         Pictograma
+
+                 Dimensões mínimas (m)
+
+Altura da letra  VIA URBANA                0,125(*)
+ (placas para     VIA RURAL                0,150(*)
+ condutores)
+
+Altura das letras (placas para pedestres)  0,050
+
+           Orla interna                    0,020
+
+           Orla externa                    0,010
+
+                 Tarja                     0,010
+
+           Pictograma                      0,200 x 0,200
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico, etc. ),  podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:
+1.3.4. Placas de Serviços Auxiliares
+Indicam aos usuários da via os locais onde os mesmos podem dispor dos serviços indicados,
+orientando sua direção ou identificando estes serviços.
+
+Quando num mesmo local encontra-se mais de um tipo de serviço, os respectivos símbolos podem ser
+agrupados numa única placa.
+
+a) Placas para Condutores
+
+Características das Placas de Serviços Auxiliares para Condutores
+
+      Forma                                Cor   Azul
+                             Fundo              Branca
+Placa: retangular       Quadro interno          Branca
+Quadro interno:                Seta             Branca
+                            Legenda             Branca
+    quadrada                                     Preta
+                                      Fundo
+                   Pictograma
+
+                                      Figura
+
+Constitui exceção a placa indicativa de “Pronto Socorro” onde o Símbolo deve ser vermelho.
+
+Dimensões mínimas (m)
+
+Quadro interno     VIA URBANA 0,20 x 0,20
+                    VIA RURAL 0,40 x 0,40
+
+Exemplos de Pictogramas:
+Exemplos de Placas:
+
+Obs.: Os pictogramas podem ser utilizados opcionalmente nas placas de orientação.
+
+b) Placas para Pedestres
+
+Características das Placas de Serviços Auxiliares para Pedestres
+
+Forma                                   Cor
+
+                          Fundo                   Azul
+                                                 Branca
+                          Orla interna            Azul
+                                                 Branca
+                          Orla externa           Branca
+                                                 Branca
+Retangular, lado maior      Tarja                Branca
+     na horizontal        Legendas                Preta
+
+                          Seta
+
+                        Pictograma  Fundo
+                                    Figura
+
+           Dimensões mínimas (m)
+
+Altura das letras                       0,05
+  Orla interna                          0,02
+  Orla externa                          0,01
+      Tarja                             0,01
+   Pictograma                       0,20 x 0,20
+
+Exemplos:
+1.3.5. Placas de Atrativos Turísticos
+Indicam aos usuários da via os locais onde os mesmos podem dispor dos atrativos turísticos existentes,
+orientando sobre sua direção ou identificando estes pontos de interesse.
+Exemplos de Pictogramas:
+Atrativos Turísticos Naturais
+
+Atrativos Históricos e Culturais
+
+Área Para a Prática de Esportes
+
+Áreas de Recreação
+Locais para Atividades de Interesse Turístico
+
+TIT-01      TIT-02             TIT-03               TIT-04         TIT-05
+Festas      Teatro             Convenções           Artesanato     Zoológico
+Populares
+
+TIT-06      TIT-07             TIT-08               TIT-09         TIT-10
+Planetário  Feira Típica       Exposição            Rodeio         Pavilhão de feiras
+                               agropecuária                        e exposições
+
+a) Placas de Identificação de Atrativo Turístico
+Características das Placas de Identificação de Atrativo Turístico
+
+              Forma                            Cor
+            Retangular
+                               Fundo                Marrom
+                                                    Branca
+                               Orla interna         Marrom
+                                                    Branca
+                               Orla externa         Branca
+                                                     Preta
+                               Legendas
+
+                               Pictograma  Fundo
+                                           Figura
+
+            Dimensões mínimas (m)
+
+            Altura das letras      0,10
+               Pictograma      0,40 x 0,40
+              Orla interna
+              Orla externa         0,02
+                                   0,01
+
+Exemplos de Placas:
+b) Placas Indicativas de Sentido de Atrativo Turístico
+Características de Placas Indicativas de Sentido
+
+  Forma                                           Cor   Marrom
+Retangular                                              Branca
+                                     Fundo              Marrom
+                                  Orla interna          Branca
+                                 Orla externa           Branca
+                                                        Branca
+                                      Tarja             Branca
+                                   Legendas              Preta
+
+                                      Setas
+                                             Fundo
+
+                            Pictograma
+                                             Figura
+
+              Dimensões mínimas (m)
+
+Altura da letra VIA URBANA           0,125(*)
+                                     0,150(*)
+(placas para         VIA RURAL
+condutores)                           0,050
+
+           Altura da letra
+
+(placas para pedestres)
+
+           Pictograma                0,200 x 0,200
+
+           Orla interna              0,020
+
+           Orla externa              0,010
+
+              Tarja                  0,010
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico, etc), podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:
+c) Placas Indicativas de Distância de Atrativos Turísticos
+Características das Placas Indicativas de Distância de Atrativos Turísticos
+
+  Forma                               Cor      Marrom
+Retangular                                     Branca
+                        Fundo                  Marrom
+                     Orla interna              Branca
+                     Orla externa              Branca
+                       Legendas                 Preta
+
+                                Fundo
+              Pictograma
+
+                                Figura
+
+              Dimensões mínimas (m)
+
+Altura da letra VIA URBANA           0,125(*)
+                                     0,150(*)
+(placas para  VIA RURAL
+condutores)                           0,050
+
+           Altura da letra
+
+(placas para pedestres)
+
+           Pictograma                0,200 x 0,200
+
+           Orla interna              0,020
+
+           Orla externa              0,010
+
+(*) áreas protegidas por legislação especial (patrimônio histórico, arquitetônico, etc),  podem
+apresentar altura de letra inferior, desde que atenda os critérios de legibilidade
+
+Exemplos:
+
+Pal. Boa Vista              6 km
+
+Mus. Felícia Leirner 9 km
+
+Taperapuã                   2 km
+
+Rio dos Mangues 4 km
+
+Ponta Grande                6 km
+2. SINALIZAÇÃO HORIZONTAL
+
+É um subsistema da sinalização viária que se utiliza de linhas, marcações, símbolos e legendas,
+pintados ou apostos sobre o pavimento das vias.
+
+Têm como função organizar o fluxo de veículos e pedestres; controlar e orientar os deslocamentos em
+situações com problemas de geometria, topografia ou frente a obstáculos; complementar os sinais
+verticais de regulamentação, advertência ou indicação. Em casos específicos, tem poder de
+regulamentação.
+
+2.1. CARACTERÍSTICAS
+
+A sinalização horizontal mantém alguns padrões cuja mescla e a forma de coloração na via definem os
+diversos tipos de sinais.
+
+2.1.1. Padrão de Traçado
+
+Seu padrão de traçado pode ser:
+
+- Contínuo: são linhas sem interrupção pelo trecho da via onde estão demarcando; podem estar
+longitudinalmente ou transversalmente apostas à via.
+
+- Tracejado ou Seccionado: são linhas interrompidas, com espaçamentos respectivamente de extensão
+igual ou maior que o traço.
+
+- Símbolos e Legendas: são informações escritas ou desenhadas no pavimento, indicando uma
+situação ou complementando sinalização vertical existente.
+
+2.1.2. Cores
+
+A sinalização horizontal se apresenta em cinco cores:
+
+- Amarela: utilizada na regulação de fluxos de sentidos opostos; na delimitação de espaços proibidos
+para estacionamento e/ou parada e na marcação de obstáculos.
+
+- Vermelha: utilizada para proporcionar contraste, quando necessário, entre a marca viária e o
+pavimento das ciclofaixas e/ou ciclovias, na parte interna destas, associada à linha de bordo branca ou
+de linha de divisão de fluxo de mesmo sentido e nos símbolos de hospitais e farmácias (cruz).
+
+- Branca: utilizada na regulação de fluxos de mesmo sentido; na delimitação de trechos de vias,
+destinados ao estacionamento regulamentado de veículos em condições especiais; na marcação de
+faixas de travessias de pedestres, símbolos e legendas.
+
+- Azul: utilizada nas pinturas de símbolos de pessoas portadoras de deficiência física, em áreas
+especiais de estacionamento ou de parada para embarque e desembarque.
+
+- Preta: utilizada para proporcionar contraste entre o pavimento e a pintura.
+Para identificação da cor, neste documento, é adotada a seguinte convenção:
+
+                       cor amarela
+                       cor branca
+
+sentido de circulação
+
+2.2. CLASSIFICAÇÃO
+A sinalização horizontal é classificada em:
+- marcas longitudinais;
+- marcas transversais;
+- marcas de canalização;
+- marcas de delimitação e controle de estacionamento e/ou parada;
+- inscrições no pavimento.
+
+2.2.1. Marcas Longitudinais
+Separam e ordenam as correntes de tráfego, definindo a parte da pista destinada normalmente à
+circulação de veículos, a sua divisão em faixas, a separação de fluxos opostos, faixas de uso exclusivo
+de um tipo de veículo, reversíveis, além de estabelecer as regras de ultrapassagem e transposição.
+De acordo com a sua função, as marcas longitudinais são subdivididas nos seguintes tipos:
+a) Linhas de Divisão de Fluxos Opostos
+Separam os movimentos veiculares de sentidos contrários e regulamentam a ultrapassagem e os
+deslocamentos laterais, exceto para acesso à imóvel lindeiro.
+- Largura das linhas:         mínima  0,10 m
+                              máxima  0,15 m
+
+- Distância entre as linhas:  mínima  0,10 m
+- Relação entre A e B:        máxima  0,15 m
+                              mínima  1:2
+                              máxima  1:3
+
+- Cor: amarela
+
+Exemplos de Aplicação:
+b) Linhas de Divisão de Fluxo de Mesmo Sentido
+
+Separam os movimentos veiculares de mesmo sentido e regulamentam a ultrapassagem e a
+transposição.
+
+CONTÍNUA
+
+SECCIONADA
+
+AB
+
+- Largura da linha:     mínima                      0,10 m
+                        máxima                      0,20 m
+
+- Demarcação de faixa exclusiva no fluxo            0,20 m
+                 Largura da linha: mínima           0,30 m
+                                            máxima
+                                                    1:2
+- Relação entre A e B:  mínima                      1:3
+                        máxima
+
+- Cor: branca
+Exemplos de Aplicação:
+
+Proibida a ultrapassagem e a transposição de faixa entre A-B-C
+Permitida a ultrapassagem e a transposição de faixa entre D-E-F
+
+c) Linha de Bordo
+Delimita a parte da pista destinada ao deslocamento de veículos.
+
+CONTÍNUA
+
+- Largura da linha: mínima        0,10 m
+                          máxima  0,30 m
+
+- Cor: branca
+
+Exemplos de Aplicação:
+d) Linha de Continuidade
+Proporciona continuidade a outras marcações longitudinais, quando há quebra no seu alinhamento
+visual.
+
+- Largura da linha: a mesma da linha à qual dá continuidade
+- Relação entre A e B = 1:1
+- Cor branca, quando dá continuidade a linhas brancas; cor amarela, quando dá continuidade a linhas
+amarelas.
+Exemplo de Aplicação:
+2.2.3. Marcas Transversais
+
+Ordenam os deslocamentos frontais dos veículos e os harmonizam com os deslocamentos de outros
+veículos e dos pedestres, assim como informam os condutores sobre a necessidade de reduzir a
+velocidade e indicam travessia de pedestres e posições de parada.
+
+Em casos específicos têm poder de regulamentação.
+
+De acordo com a sua função, as marcas transversais são subdivididas nos seguintes tipos:
+
+a) Linha de Retenção
+
+Indica ao condutor o local limite em que deve parar o veículo.
+
+- Largura da linha: mínima        0,30 m
+                          máxima  0,60 m
+
+- Cor: branca
+
+Exemplo de Aplicação:
+b) Linhas de Estímulo à Redução de Velocidade
+
+Conjunto de linhas paralelas que, pelo efeito visual, induzem o condutor a reduzir a velocidade do
+veículo.
+
+- Largura da linha: mínima 0,20 m
+                          máxima 0,40 m
+
+- Cor:  branca
+
+Exemplo de Aplicação Antecedendo um Obstáculo Transversal
+
+                        amarela
+
+                                                           amarela
+
+                                                amarela
+
+c) Linha de “Dê a Preferência”
+
+Indica ao condutor o local limite em que deve parar o veículo, quando necessário, em locais
+sinalizados com a placa R-2.
+
+AB
+
+- Largura da linha:              mínima 0,20 m
+                                 máxima 0,40 m
+
+- Relação entre A e B:           1:1
+
+- Dimensões recomendadas: A = 0,50 m
+                                   B = 0,50 m
+
+- Cor: branca
+Exemplo de Aplicação:
+
+d) Faixas de Travessia de PedestresC
+Regulamentam o local de travessia de pedestres.
+TIPO ZEBRADA
+
+       AB
+
+                                                                                 branca
+
+TIPO PARALELA
+
+                                                                                         branca
+
+E
+       D
+
+- Largura da linha - A:           mínima                                                 0,30 m
+                                  máxima                                                 0,40 m
+
+- Distância entre as linhas - B:  mínima                                                 0,30 m
+                                  máxima                                                 0,80 m
+
+- Largura da faixa - C: em função do volume de pedestres e da visibilidade
+
+                                  mínima                                                 3,00 m
+
+                                  recomendada 4,00 m
+
+- Largura da linha - D:           mínima                                                 0,40 m
+                                  máxima                                                 0,60 m
+
+- Largura da faixa - E:           mínima                                                 3,00 m
+
+                                  recomendada 4,00 m
+CCor: branca
+Exemplos de Aplicação:
+
+e) Marcação de Cruzamentos Rodocicloviários
+Regulamenta o local de travessia de ciclistas.
+CRUZAMENTO EM ÂNGULO RETO
+
+       AB
+CCRUZAMENTO OBLÍQUO
+
+           AB
+
+- Lado do quadrado ou losango:  mínimo 0,40 m
+                                máximo 0,60 m
+- Relação: A = B = C
+- Cor: branca
+Exemplo de Aplicação:
+
+f) Marcação de Área de Conflito
+Assinala aos condutores a área da pista em que não devem parar e estacionar os veículos, prejudicando
+a circulação.
+
+                                                                            amarela
+- Largura da linha de borda externa - A: mínima 0,15 m
+
+- Largura das linhas internas - B:  mínima 0,10 m
+
+- Espaçamento entre os eixos das linhas internas - C: mínimo 1,00 m
+
+- Cor: amarela
+
+Exemplo de Aplicação:
+g) Marcação de Área de Cruzamento com Faixa Exclusiva
+Indica ao condutor a existência de faixa(s) exclusiva(s).
+
+- Lado do quadrado: mínimo  1,00 m
+
+- Cor: amarela - para faixas exclusivas no contra-fluxo
+        branca - para faixas exclusivas no fluxo
+
+Exemplo de Aplicação:
+
+2.2.4. Marcas de Canalização
+
+Orientam os fluxos de tráfego em uma via, direcionando a circulação de veículos. Regulamentam as
+áreas de pavimento não utilizáveis.
+
+Devem ser na cor branca quando direcionam fluxos de mesmo sentido e na proteção de
+estacionamento e na cor amarela quando direcionam fluxos de sentidos opostos.
+        Dimensões              Circulação  Área de proteção de
+Largura da linha lateral A                   estacionamento
+Largura da linha lateral B  mínima 0,10 m    mínima 0,10 m
+                            mínima 0,30 m    mínima 0,10 m
+Largura da linha lateral C  máxima 0,50 m   máxima 0,40 m
+                            mínima 1,10 m    mínima 0,30 m
+                            máxima 3,50 m   máxima 0,60 m
+
+Exemplos de Aplicação:
+ACOMODAÇÃO PARA INÍCIO DE CANTEIRO CENTRAL
+2.2.5 Marcas de Delimitação e Controle de Estacionamento e/ou Parada
+
+Delimitam e propiciam melhor controle das áreas onde é proibido ou regulamentado o estacionamento
+e a parada de veículos, quando associadas à sinalização vertical de regulamentação. Em casos
+específicos, tem poder de regulamentação. De acordo com sua função as marcas de delimitação e
+controle de estacionamento e parada são subdivididas nos seguintes tipos:
+
+a) Linha de Indicação de Proibição de Estacionamento e/ou Parada
+
+Delimita a extensão da pista ao longo da qual aplica-se a proibição de estacionamento ou de parada e
+estacionamento estabelecida pela sinalização vertical correspondente.
+
+- Largura da linha: mínima        0,10 m
+                          máxima  0,20 m
+
+- Cor: amarela
+
+Exemplo de Aplicação:
+b) Marca Delimitadora de Parada de Veículos Específicos
+
+Delimita a extensão da pista destinada à operação exclusiva de parada. Deve sempre estar associada ao
+sinal de regulamentação correspondente.
+
+É opcional o uso destas sinalizações quando utilizadas junto ao marco do ponto de parada de transporte
+coletivo.
+
+                    opcional
+
+sarjeta
+   guia
+
+          opcional  calçada   opcional
+
+opcional
+
+                    calçada
+
+                                                                               opcional
+
+                    calçada
+
+                                                                      calçada                    opcional
+
+- Largura da linha: mínima                                                     0,10 m
+                          máxima                                               0,20 m
+
+- Cor: amarela
+Exemplos de Aplicação:
+c) Marca Delimitadora de Estacionamento Regulamentado
+Delimita o trecho de pista no qual é permitido o estacionamento estabelecido pelas normas gerais de
+circulação e conduta ou pelo sinal R-6b.
+
+· Paralelo ao meio-fio:
+
+- Linha simples contínua ou tracejada
+
+- Largura da linha: mínima        0,10 m
+                          máxima  0,20 m
+
+- Relação: 1:1
+
+- Cor:  branca
+· Em ângulo:
+- Linha contínua
+
+- Dimensões: A =  mínima 0,10 m
+                  máxima 0,20 m
+
+B = largura efetiva da vaga
+
+C = comprimento da vaga
+
+D = mínima 0,20 m
+           máxima 0,30 m
+
+B e C, estabelecidas em função das dimensões dos veículos a utilizar as vagas.
+
+- Cor: branca
+
+Exemplos de Aplicação:
+2.2.6 Inscrições no Pavimento
+
+Melhoram a percepção do condutor quanto às condições de operação da via, permitindo-lhe tomar a
+decisão adequada, no tempo apropriado, para as situações que se lhe apresentarem. São subdivididas
+nos seguintes tipos:
+
+a) Setas Direcionais
+- Comprimento da seta:
+
+Fluxo veicular:         mínimo        5,00 m
+                        máximo        7,50 m
+
+Fluxo pedestre (somente seta ”Siga em Frente” com parte da haste suprimida):
+
+                        mínimo        2,00 m
+
+                        máximo        4,00 m
+
+- Cor: branca
+
+· INDICATIVO DE MUDANÇA OBRIGATÓRIO DE FAIXA
+
+- Comprimento da seta: mínimo         5,00 m
+
+               máximo   7,50 m
+
+- Cor: branca
+
+· INDICATIVO DE MOVIMENTO EM CURVA (USO EM SITUAÇÃO DE CURVA
+ACENTUADA)
+
+- Comprimento da seta: mínimo 4,50 m
+- Cor: branca
+Exemplos de Aplicação:
+b) Símbolos
+Indicam e alertam o condutor sobre situações específicas na via
+· "DÊ A PREFERÊNCIA"
+INDICATIVO DE INTERSEÇÃO COM VIA QUE TEM PREFERÊNCIA
+
+- Dimensões: comprimento mínimo 3,60 m
+
+               máximo    6,00 m
+
+- Cor: branca
+
+· "CRUZ DE SANTO ANDRÉ"
+
+INDICATIVO DE CRUZAMENTO RODOFERROVIÁRIO
+
+- Comprimento: 6,00 m
+- Cor: branca
+· "BICICLETA"
+INDICATIVO DE VIA, PISTA OU FAIXA DE TRÂNSITO DE USO DE CICLISTAS
+
+Cor: branca
+· "SERVIÇOS DE SAÚDE"
+INDICATIVO DE ÁREA OU LOCAL DE SERVIÇOS DE SAÚDE
+
+- Dimensão: diâmetro mínimo 1,20 m
+- Cor: conforme indicado
+· “DEFICIENTE FÍSICO”
+INDICATIVO DE LOCAL DE ESTACIONAMENTO DE VEÍCULOS QUE TRANSPORTAM OU
+QUE SEJAM CONDUZIDOS POR PESSOAS PORTADORAS DE DEFICIÊNCIAS FÍSICAS
+
+- Dimensão: lado mínimo 1,20 m
+- Cor: conforme indicado
+Exemplos de Aplicação:
+c) Legendas
+
+Advertem acerca de condições particulares de operação da via e complementam os sinais de
+regulamentação e advertência.
+
+Obs: Para legendas curtas a largura das letras e algarismos podem ser maiores.
+
+- Comprimento mínimo:                         1,60 m
+Para legenda transversal ao fluxo veicular:   0,25 m
+Para legenda longitudinal ao fluxo veicular:
+
+- Cor: branca
+Exemplos de Legendas:
+3. DISPOSITIVOS AUXILIARES
+
+Dispositivos Auxiliares são elementos aplicados ao pavimento da via, junto a ela, ou nos obstáculos
+próximos, de forma a tornar mais eficiente e segura a operação da via. São constituídos de materiais,
+formas e cores diversos, dotados ou não de refletividade, com as funções de:
+
+- incrementar a percepção da sinalização, do alinhamento da via ou de obstáculos à circulação;
+
+- reduzir a velocidade praticada;
+
+- oferecer proteção aos usuários;
+
+- alertar os condutores quanto a situações de perigo potencial ou que requeiram maior atenção.
+
+Os Dispositivos Auxiliares são agrupados, de acordo com suas funções, em:
+
+- Dispositivos Delimitadores;
+
+- Dispositivos de Canalização;
+
+- Dispositivos de Sinalização de Alerta;
+
+- Alterações nas Características do Pavimento;
+
+- Dispositivos de Proteção Contínua;
+
+- Dispositivos Luminosos;
+
+- Dispositivos de Proteção a Áreas de Pedestres e/ou Ciclistas;
+
+- Dispositivos de Uso Temporário.
+
+3.1. DISPOSITIVOS DELIMITADORES
+
+São elementos utilizados para melhorar a percepção do condutor quanto aos limites do espaço
+destinado ao rolamento e a sua separação em faixas de circulação. São apostos em série no pavimento
+ou em suportes, reforçando marcas viárias, ou ao longo das áreas adjacentes a elas.
+
+Podem ser mono ou bidirecionais em função de possuírem uma ou duas unidades refletivas. O tipo e
+a(s) cor(es) das faces refletivas são definidos em função dos sentidos de circulação na via,
+considerando como referencial um dos sentidos de circulação, ou seja, a face voltada para este sentido.
+Tipos de Dispositivos Delimitadores:
+· Balizadores - unidades refletivas mono ou bidirecionais, afixadas em suporte.
+- Cor do elemento refletivo:
+branca – para ordenar fluxos de mesmo sentido;
+amarela – para ordenar fluxos de sentidos opostos;
+vermelha – em vias rurais, de pista simples, duplo sentido de circulação, podem ser utilizadas
+unidades refletivas na cor vermelha, junto ao bordo da pista ou acostamento do sentido oposto.
+Exemplo:
+
+· Balizadores de Pontes, Viadutos, Túneis, Barreiras e Defensas – unidades refletivas afixadas ao
+longo do guarda-corpo e/ou mureta de obras de arte, de barreiras e defensas.
+- Cor do elemento refletivo:
+branca – para ordenar fluxos de mesmo sentido;
+amarela – para ordenar fluxos de sentidos opostos;
+vermelha – em vias rurais, de pista simples, duplo sentido de circulação, podem ser utilizadas
+unidades refletivas na cor vermelha, afixados no guarda-corpo ou mureta de obras de arte, barreiras e
+defensas do sentido oposto.
+Exemplo:
+· Tachas – elementos contendo unidades refletivas, aplicados diretamente no pavimento.
+- Cor do corpo: branca ou amarela, de acordo com a marca viária que complementa.
+- Cor do elemento refletivo:
+branca – para ordenar fluxos de mesmo sentido;
+amarela – para ordenar fluxos de sentidos opostos,
+vermelha – em rodovias, de pista simples, duplo sentido de circulação, podem ser utilizadas unidades
+refletivas na cor vermelha, junto à linha de bordo do sentido oposto.
+- Especificação mínima: Norma ABNT.
+Exemplos:
+
+Exemplo de aplicação:
+
+· Tachões – elementos contendo unidades refletivas, aplicados diretamente no pavimento.
+- Cor do corpo: amarela
+- Cor do elemento refletivo:
+branca – para ordenar fluxos de mesmo sentido;
+amarela – para ordenar fluxos de sentidos opostos;
+vermelha – em rodovias, de pista simples, duplo sentido de circulação, podem ser utilizadas unidades
+refletivas na cor vermelha, junto à linha de bordo do sentido oposto.
+- Especificação mínima: Norma ABNT.
+Exemplos:
+· Cilindros Delimitadores
+Exemplo:
+
+- Cor do Corpo : preta
+- Cor do Material Refletivo: amarela.
+3.2. DISPOSITIVOS DE CANALIZAÇÃO
+Os dispositivos de canalização são apostos em série sobre a superfície pavimentada.
+Tipos de Dispositivos de Canalização:
+· Prismas – tem a função de substituir a guia da calçada (meio-fio) quando não for possível sua
+construção imediata.
+- Cor: branca ou amarela, de acordo com a marca viária que complementa.
+Exemplo:
+· Segregadores – tem a função de segregar pistas para uso exclusivo de determinado tipo de veículo ou
+pedestres.
+- Cor: amarela.
+Exemplo:
+
+3.3. DISPOSITIVOS DE SINALIZAÇÃO DE ALERTA
+São elementos que têm a função de melhorar a percepção do condutor quanto aos obstáculos e
+situações geradoras de perigo potencial à sua circulação, que estejam na via ou adjacentes à mesma, ou
+quanto a mudanças bruscas no alinhamento horizontal da via.
+Possuem as cores amarela e preta quando sinalizam situações permanentes e adquirem cores laranja e
+branca quando sinalizam situações temporárias, como obras.
+Tipos de Dispositivos de Sinalização de Alerta:
+· Marcadores de Obstáculos – unidades refletivas apostas no próprio obstáculo, destinadas a alertar o
+condutor quanto à existência de obstáculo disposto na via ou adjacente a ela.
+
+Exemplo de aplicação:
+· Marcadores de Perigo – unidades refletivas fixadas em suporte destinadas a alertar o condutor do
+veículo quanto a situação potencial de perigo.
+
+· Marcadores de Alinhamento – unidades refletivas fixadas em suporte, destinadas a
+alertar o condutor do veículo quando houver alteração do alinhamento horizontal da via.
+
+3.4. ALTERAÇÕES NAS CARACTERÍSTICAS DO PAVIMENTO
+São recursos que alteram as condições normais da pista de rolamento, quer pela sua elevação com a
+utilização de dispositivos físicos colocados sobre a mesma, quer pela mudança nítida de características
+do próprio pavimento. São utilizados para:
+- estimular a redução da velocidade;
+- aumentar a aderência ou atrito do pavimento;
+- alterar a percepção do usuário quanto a alterações de ambiente e uso da via, induzido-o a adotar
+comportamento cauteloso;
+- incrementar a segurança e/ou criar facilidades para a circulação de pedestres e/ou ciclistas.
+3.5. DISPOSITIVOS DE PROTEÇÃO CONTÍNUA
+São elementos colocados de forma contínua e permanente ao longo da via, confeccionados em material
+flexível, maleável ou rígido, que têm como objetivo:
+- evitar que veículos e/ou pedestres transponham determinado local;
+- evitar ou dificultar a interferência de um fluxo de veículos sobre o fluxo oposto.
+Tipos de Dispositivos para Fluxo de Pedestres e Ciclistas:
+· Gradis de Canalização e Retenção
+Devem ter altura máxima de 1,20 m e permitir intervisibilidade entre veículos e pedestres.
+Exemplos:
+
+· Dispositivos de Contenção e Bloqueio
+Exemplo:
+Tipos de Dispositivos para Fluxo Veicular:
+· Defensas Metálicas
+Especificação mínima: Norma ABNT
+Exemplos:
+
+· Barreiras de Concreto
+Especificação mínima: Norma ABNT
+Exemplos:
+
+· Dispositivos Anti-ofuscamento
+Especificação mínima: Norma ABNT
+Exemplo:
+3.6. DISPOSITIVOS LUMINOSOS
+São dispositivos que se utilizam de recursos luminosos para proporcionar melhores condições de
+visualização da sinalização, ou que, conjugados a elementos eletrônicos, permitem a variação da
+sinalização ou de mensagens, como por exemplo:
+- advertência de situação inesperada à frente;
+- mensagens educativas visando o comportamento adequado dos usuários da via;
+- orientação em praças de pedágio e pátios públicos de estacionamento;
+- informação sobre condições operacionais das vias;
+- orientação do trânsito para a utilização de vias alternativas;
+- regulamentação de uso da via.
+Tipos de Dispositivos Luminosos:
+· Painéis Eletrônicos
+Exemplos:
+· Painéis com Setas Luminosas
+Exemplos:
+
+3.7. DISPOSITIVOS DE USO TEMPORÁRIO
+São elementos fixos ou móveis diversos, utilizados em situações especiais e temporárias, como
+operações de trânsito, obras e situações de emergência ou perigo, com o objetivo de alertar os
+condutores, bloquear e/ou canalizar o trânsito, proteger pedestres, trabalhadores, equipamentos, etc.
+Aos dispositivos de uso temporário estão associadas as cores laranja e branca.
+Tipos de Dispositivos de Uso Temporário:
+· Cones
+Especificação mínima: Norma ABNT
+Exemplo:
+Cilindro
+Especificação mínima: Norma ABNT
+Exemplo:
+
+· Balizador Móvel
+Exemplo:
+
+· Tambores
+Exemplos:
+· Fita Zebrada
+Exemplo:
+
+· Cavaletes
+Exemplos:
+· Barreiras
+Exemplos:
+· Tapumes
+Exemplos:
+
+· Gradis
+Exemplos:
+· Elementos Luminosos Complementares
+Exemplos:
+
+· Bandeiras
+Exemplos:
+· Faixas
+Exemplos:
+
+4. SINALIZAÇÃO SEMAFÓRICA
+
+A sinalização semafórica é um subsistema da sinalização viária que se compõe de indicações
+luminosas acionadas alternada ou intermitentemente através de sistema elétrico/eletrônico, cuja função
+é controlar os deslocamentos.
+
+Existem dois (2) grupos:
+
+- a sinalização semafórica de regulamentação;
+
+- a sinalização semafórica de advertência.
+
+Formas e Dimensões
+
+SEMÁFORO DESTINADO A FORMA DO FOCO DIMENSÃO DA LENTE
+
+Movimento Veicular                  Circular  Diâmetro: 200 mm ou 300 mm
+
+Movimento de Pedestres e Ciclistas  Quadrada  Lado mínimo: 200 mm
+4.1. SINALIZAÇÃO SEMAFÓRICA DE REGULAMENTAÇÃO
+
+A sinalização semafórica de regulamentação tem a função de efetuar o controle do trânsito num
+cruzamento ou seção de via, através de indicações luminosas, alternando o direito de passagem dos
+vários fluxos de veículos e/ou pedestres.
+
+4.1.1. Características
+
+Compõe-se de indicações luminosas de cores preestabelecidas, agrupadas num único conjunto,
+dispostas verticalmente ao lado da via ou suspensas sobre ela, podendo neste caso ser fixadas
+horizontalmente.
+
+4.1.2. Cores das Indicações Luminosas
+
+As cores utilizadas são:
+
+a) Para controle de fluxo de pedestres:
+
+- Vermelha: indica que os pedestres não podem atravessar.
+
+- Vermelha Intermitente: assinala que a fase durante a qual os pedestres podem atravessar está a
+ponto de terminar. Isto indica que os pedestres não podem começar a cruzar a via e os que tenham
+iniciado a travessia na fase verde se desloquem o mais breve possível para o local seguro mais
+próximo.
+
+- Verde: assinala que os pedestres podem atravessar.
+
+b) Para controle de fluxo de veículos:
+
+- Vermelha: indica obrigatoriedade de parar.
+
+- Amarela: indica “atenção”, devendo o condutor parar o veículo, salvo se isto resultar em situação de
+perigo.
+
+- Verde: indica permissão de prosseguir na marcha, podendo o condutor efetuar as operações
+indicadas pelo sinal luminoso, respeitadas as normas gerais de circulação e conduta.
+
+4.1.3. Tipos
+
+a) Para Veículos:
+
+- Compostos de três indicações luminosas, dispostas na seqüência preestabelecida abaixo:
+O acendimento das indicações luminosas deve ser na seqüência verde, amarelo, vermelho, retornando
+ao verde.
+Para efeito de segurança recomenda-se o uso de, no mínimo, dois conjuntos de grupos focais por
+aproximação, ou a utilização de um conjunto de grupo focal composto de dois focos vermelhos, um
+amarelo e um verde
+- Compostos de duas indicações luminosas, dispostas na seqüência preestabelecida abaixo. Para uso
+exclusivo em controles de acesso específico, tais como praças de pedágio e balsa.
+
+- Com símbolos, que podem estar isolados ou integrando um semáforo de três ou duas indicações
+luminosas.
+Exemplos:
+b) Para Pedestres
+
+4.2. SINALIZAÇÃO SEMAFÓRICA DE ADVERTÊNCIA
+A sinalização semafórica de advertência tem a função de advertir da existência de obstáculo ou
+situação perigosa, devendo o condutor reduzir a velocidade e adotar as medidas de precaução
+compatíveis com a segurança para seguir adiante.
+4.2.1. Características
+Compõe-se de uma ou duas luzes de cor amarela, cujo funcionamento é intermitente ou piscante
+alternado, no caso de duas indicações luminosas.
+
+No caso de grupo focal de regulamentação, admite-se o uso isolado da indicação luminosa em amarelo
+intermitente, em determinados horários e situações específicas. Fica o condutor do veículo obrigado a
+reduzir a velocidade e respeitar o disposto no Artigo 29, inciso III, alínea C.
+5. SINALIZAÇÃO DE OBRAS
+
+A Sinalização de Obras tem como característica a utilização dos sinais e elementos de Sinalização
+Vertical, Horizontal, Semafórica e de Dispositivos e Sinalização Auxiliares combinados de forma que:
+
+- os usuários da via sejam advertidos sobre a intervenção realizada e possam identificar seu caráter
+temporário;
+
+- sejam preservadas as condições de segurança e fluidez do trânsito e de acessibilidade;
+
+- os usuário sejam orientados sobre caminhos alternativos;
+
+- sejam isoladas as áreas de trabalho, de forma a evitar a deposição e/ou lançamento de materiais sobre
+a via.
+
+Na sinalização de obras, os elementos que compõem a sinalização vertical de regulamentação, a
+sinalização horizontal e a sinalização semafórica têm suas características preservadas.
+
+A sinalização vertical de advertência e as placas de orientação de destino adquirem características
+próprias de cor, sendo adotadas as combinações das cores laranja e preta. Entretanto, mantém as
+características de forma, dimensões, símbolos e padrões alfanuméricos:
+
+    Sinalização vertical de             Cor utilizada para
+Advertência ou de Indicação            Sinalização de Obras
+
+              Fundo                             Laranja
+             Símbolo                             Preta
+                                                 Preta
+               Orla                              Preta
+              Tarjas                             Preta
+               Setas                             Preta
+              Letras
+
+Os dispositivos auxiliares obedecem as cores estabelecidas no capítulo 3 deste Anexo, mantendo as
+características de forma, dimensões, símbolos e padrões alfanuméricos.
+
+São exemplos de sinalização de obras:
+6. GESTOS
+
+a) Gestos de Agentes da Autoridade de Trânsito
+
+As ordens emanadas por gestos de Agentes da Autoridade de Trânsito prevalecem sobre as regras de
+circulação e as normas definidas por outros sinais de trânsito. Os gestos podem ser:
+b) Gestos de Condutores
+
+Obs.: Válido para todos os tipos de veículos.
+
+7. SINAIS SONOROS
+
+Sinais de apito     Significado             Emprego
+um silvo breve          siga
+                                 liberar o trânsito em direção
+dois silvos breves       pare       / sentido indicado pelo
+                                             agente.
+
+                                  indicar parada obrigatória
+
+                                               quando for necessário fazer
+um silvo longo diminuir a marcha diminuir a marcha dos
+
+                                                           veículos.
+
+Os sinais sonoros somente devem ser utilizados em conjunto com os gestos dos agentes.
+

@@ -1,0 +1,975 @@
+                  CONSELHO NACIONAL DE TRÂNSITO
+
+               RESOLUÇÃO Nº 780, DE 26 DE JUNHO DE 2019
+
+                                   Dispõe sobre o novo sistema de Placas de Identificação
+                                   Veicular.
+
+       O Conselho Nacional de Trânsito – CONTRAN, no uso da competência que lhe
+confere o art. 12, incisos I e VII, e art. 115, da Lei nº 9.503, de 23 de setembro de
+1997, que instituiu o Código de Trânsito Brasileiro – CTB.
+
+       Considerando o que consta do Processo Administrativo nº 50000.013843/2019-
+62,
+
+       RESOLVE:
+
+       Art. 1º Esta Resolução dispõe sobre o novo sistema de placas de identificação de
+veículos registrados no território nacional e as medidas de transição entre o atual e o
+novo sistemas.
+
+                                      CAPÍTULO I
+                    Requisitos da Placa de Identificação Veicular
+
+       Art. 2º Após o registro no respectivo órgão ou entidade executivo de trânsito do
+Estado ou do Distrito Federal (DETRAN), cada veículo será identificado por Placas de
+Identificação Veicular – PIV dianteira e traseira, de acordo com os requisitos
+estabelecidos nesta Resolução.
+
+       § 1º Os reboques, semirreboques, motocicletas, motonetas, ciclomotores,
+cicloelétricos, triciclos, quadriciclos, bem como, quando couber, os tratores destinados
+a puxar ou arrastar maquinaria de qualquer natureza ou a executar trabalhos agrícolas e
+de construção, de pavimentação ou guindastes serão identificados apenas pela PIV
+traseira.
+
+       § 2º As especificações técnicas das PIV estão contidas no Anexo I.
+       § 3º Caso os proprietários de veículos que estejam em circulação desejem adotar
+voluntariamente o modelo de PIV previsto nesta Resolução, haverá a substituição
+automática do segundo caracter numérico do modelo de PIV anterior por uma letra,
+conforme padrão contido no Anexo II.
+
+       Art. 3º O código de barras bidimensionais dinâmico (Quick Response Code - QR
+Code) de que trata o art. 5º substituirá o lacre previsto no art. 115 do CTB, durante o
+período de implantação do dispositivo de identificação eletrônico denominado “placa
+eletrônica”, de que trata a Resolução CONTRAN nº 537, de 17 de junho de 2015, que
+“dispõe sobre a implantação do Sistema Nacional de Identificação Automática de
+Veículos – SINIAV em todo o território nacional”, e suas sucedâneas.
+
+       Art. 4º É obrigatório o uso de segunda PIV traseira nos veículos equipados com
+engates para reboques ou carroceria intercambiável, transportando eventualmente
+carga que cobrir, total ou parcialmente, a PIV traseira.
+
+       § 1º A segunda PIV deve ser disposta em local visível, podendo ser instalada:
+       I - no caso de engate de reboque, no para-choque ou carroceria, admitida a
+utilização de suportes adaptadores;
+       II - no caso de transporte eventual de carga, ou de carroceria intercambiável, nos
+termos da Resolução CONTRAN nº 349, de 17 de maio de 2010, e suas sucedâneas,
+no que couber.
+       § 2º A segunda placa traseira também deverá atender os requisitos de instalação
+de que trata o item 5 do Anexo I.
+       Art. 5º Todas as PIV deverão possuir código de barras bidimensionais dinâmico
+(Quick Response Code - QR Code) contendo números de série e acesso às informações
+do banco de dados do fabricante, especificados no Anexo I, com a finalidade de
+controlar a produção, logística, estampagem e instalação das PIV nos respectivos
+veículos, além da verificação da sua autenticidade.
+       Parágrafo único. O DENATRAN disponibilizará aplicativo aos órgãos e
+entidades do SNT para leitura do QR Code de que trata o caput.
+
+                                      CAPÍTULO II
+                  Competências dos órgãos executivos de trânsito
+
+       Art. 6º Compete ao Departamento Nacional de Trânsito - DENATRAN:
+       I - cumprir e fazer cumprir as disposições desta Resolução;
+       II - credenciar as empresas fabricantes de PIV;
+       III - disponibilizar acesso às informações dos fabricantes credenciados aos
+DETRAN;
+       IV - fiscalizar a regularidade das atividades dos fabricantes de PIV, suas
+instalações, equipamentos e soluções tecnológicas de controle e gestão do processo
+produtivo;
+       V - desenvolver, manter e atualizar o sistema informatizado de emplacamento;
+       VI - estabelecer os requisitos mínimos do sistema desenvolvido pelo fabricante,
+bem como os critérios de registro das informações necessárias para o rastreamento do
+processo de fabricação e estampagem da PIV;
+
+       VII - disponibilizar o sistema informatizado de emplacamento para a gestão e
+controle de distribuição do QR Code e das combinações alfanuméricas, estampagem
+das PIV e emplacamento;
+
+       VIII - aplicar as sanções administrativas aos fabricantes credenciados,
+registrando e informando em seu sítio eletrônico as sanções aplicadas.
+
+       Art. 7º Compete aos DETRAN:
+       I - cumprir e fazer cumprir as disposições desta Resolução;
+       II - credenciar as empresas estampadoras de PIV no âmbito de sua circunscrição,
+utilizando sistema informatizado disponibilizado pelo DENATRAN;
+       III - fiscalizar a regularidade das atividades dos estampadores de PIV, suas
+instalações, equipamentos, bem como o controle e gestão do processo produtivo;
+       IV - aplicar as sanções administrativas aos estampadores credenciados no âmbito
+de sua circunscrição, registrando e informando em seu sítio eletrônico as sanções
+aplicadas.
+       Art. 8º É vedado aos DETRAN estabelecerem a atividade de intermediários na
+execução das atividades de que trata esta Resolução.
+       Art. 9º É vedado ao DENATRAN e aos DETRAN:
+
+       I - credenciar empresa que não possua objeto social para a atividade de
+fabricação ou estampagem de PIV.
+
+       II - estabelecer critérios adicionais aos contidos no Anexo III.
+
+                                     CAPÍTULO III
+                              Fabricantes e Estampadores
+
+       Art. 10. A prestação de serviços de fabricação e estampagem das PIV será
+realizada por meio de credenciamento de fabricantes e estampadores, nos termos desta
+Resolução, sendo vedada a habilitação de empresas de forma diversa.
+
+       Parágrafo único. Para fins desta Resolução serão adotadas as seguintes
+definições:
+
+       I - Fabricante de Placa de Identificação Veicular - PIV: empresa credenciada
+pelo DENATRAN para exercer a atividade de fabricação, operação logística,
+gerenciamento informatizado e a distribuição das PIV semiacabadas para os
+estampadores;
+
+       II - Estampador de Placa de Identificação Veicular - PIV: empresa credenciada
+pelo órgão ou entidade executivo de trânsito dos Estados e do Distrito Federal
+(DETRAN), em sistema informatizado do DENATRAN, para exercer, exclusivamente,
+o serviço de acabamento final das PIV e a comercialização com os proprietários dos
+veículos.
+       Art. 11. Os fabricantes de PIV serão credenciados pelo DENATRAN, conforme
+critérios estabelecidos no Anexo III.
+
+       § 1º Os fabricantes de PIV têm como finalidade a produção da placa
+semiacabada, bem como a logística, gerenciamento informatizado e distribuição das
+PIV aos estampadores credenciados.
+
+       § 2º Os fabricantes credenciados na forma desta Resolução poderão fornecer PIV
+para todas as Unidades da Federação, vedada qualquer restrição ao exercício dessa
+atividade por parte dos DETRAN.
+
+       § 3º É vedado aos fabricantes firmarem contratos de exclusividade com os
+estampadores, sob pena de descredenciamento.
+
+       § 4º Os fabricantes somente poderão fornecer PIV para estampadores
+credenciados pelos DETRAN, para que estes realizem a estampagem e o acabamento
+final.
+
+       § 5º Cabe ao fabricante disponibilizar equipamentos e sistemas informatizados
+para garantir a prevenção contra as fraudes e operações não autorizadas, bem como
+todas as informações relativas ao histórico dos processos realizados, nos termos
+estabelecidos pelo DENATRAN.
+
+       Art. 12. Os estampadores de PIV serão credenciados pelos respectivos
+DETRAN, em sistema informatizado do DENATRAN, conforme critérios
+estabelecidos no Anexo III.
+
+       § 1º Os estampadores têm como finalidade executar a estampagem e o
+acabamento final das PIV.
+
+       § 2º Os estampadores poderão adquirir PIV e insumos de qualquer fabricante
+regularmente credenciado pelo DENATRAN, independentemente da Unidade da
+Federação de sua instalação.
+
+       § 3º Os estampadores deverão emitir a nota fiscal diretamente ao consumidor
+final, sendo vedada a sub-rogação dessa responsabilidade.
+
+       Art. 13. Os estampadores credenciados deverão realizar, sob sua única, exclusiva
+e indelegável responsabilidade, a comercialização direta com os proprietários dos
+veículos, sem intermediários ou delegação a terceiros a qualquer título, definindo de
+forma pública, clara e transparente o preço total da PIV.
+
+       § 1º A disposição do caput não impede o proprietário de veículo de se fazer
+representar por qualquer pessoa, desde que apresentada ao estampador a procuração
+com poderes específicos.
+
+       § 2º Caso o DETRAN tenha regulamentado a atuação de despachantes
+legalmente constituídos, desde que o proprietário voluntariamente decida por ser
+representado, a procuração de que trata o § 1º poderá ser substituída por documento
+instituído pelo respectivo DETRAN responsável pelo registro e licenciamento do
+veículo.
+
+       Art. 14. O credenciamento das empresas fabricantes e estampadoras terá
+validade de 5 (cinco) anos, podendo ser cassado a qualquer tempo, se não mantidos, no
+todo ou em parte, os requisitos exigidos para o credenciamento conforme Anexo III,
+observado o devido processo administrativo.
+
+       Parágrafo único. O credenciamento deverá ser renovado, a pedido, por igual
+período, sem limite de renovações, desde que atendidos os requisitos de
+credenciamento estabelecidos no Anexo III, bem como o cumprimento das demais
+disposições desta Resolução.
+
+       Art. 15. O descumprimento, no todo ou em parte, das regras previstas nesta
+Resolução, sujeitará os fabricantes e os estampadores de PIV credenciados às seguintes
+sanções administrativas, conforme a gravidade da conduta, assegurado o devido
+processo administrativo, sem prejuízo de sanções cíveis ou penais cabíveis:
+
+       I - advertência;
+
+       II - suspensão do credenciamento de 30 (trinta) dias;
+
+       III - cassação do credenciamento.
+
+       § 1º Constatado o descumprimento, de menor gravidade, das regras previstas
+nesta Resolução, será expedida a advertência ao credenciado, determinando-lhe que
+sane a irregularidade.
+
+       § 2º Caso não seja sanada a irregularidade que ensejou a advertência no prazo de
+30 (trinta) dias, será aplicada a penalidade de suspensão do credenciamento.
+
+       § 3º Durante o período de suspensão, o credenciado não poderá produzir,
+estampar ou comercializar as PIV.
+
+       § 4º Constatado o cometimento de irregularidade grave, ou em caso de
+persistência do motivo da suspensão, será cassado o credenciamento da empresa.
+
+       § 5º No caso de cassação do credenciamento, a empresa punida poderá requerer
+novo credenciamento depois de transcorridos 2 (dois) anos da cassação, ficando sujeita
+à análise, pelo órgão competente, das causas da penalidade, sem prejuízo do integral
+ressarcimento à Administração e aos usuários dos prejuízos causados com as
+irregularidades perpetradas.
+
+       § 6º Enquanto perdurarem a penalidade de suspensão ou cassação de
+credenciamento, ou ainda no caso de não haver sua renovação, será bloqueado o
+acesso ao sistema informatizado de emplacamento.
+
+       Art. 16. Sem prejuízo das demais disposições contidas nesta Resolução e em
+seus Anexos, as empresas credenciadas são responsáveis pelo cumprimento das
+seguintes exigências:
+
+       I – atender às especificações dos insumos personalizados utilizados na produção
+das PIV, constantes do Anexo I, estando sujeitas ao descredenciamento, no caso de
+fabricação e estampagem de PIV que não atendam às especificações;
+
+       II - garantir a confidencialidade das operações e de qualquer informação que lhe
+seja confiada pelo DENATRAN ou pelos DETRAN, atestando que não será fornecida
+a terceiros sem autorização expressa e escrita, sob pena de descredenciamento;
+
+       III - manter arquivo eletrônico completo de fornecimento das PIV produzidas e
+estampadas, e fornecer sempre que solicitado, o acesso deste arquivo ao DENATRAN
+e aos DETRAN para consultas e auditorias;
+
+       IV - registrar os procedimentos relativos ao processo de fabricação e
+estampagem das PIV no sistema informatizado de emplacamento;
+
+       V - não se dedicar à produção ou distribuição de outros produtos ou serviços
+relacionados à legalização dos veículos ou de seus condutores, de modo a restringir o
+acesso, a concentração e o perfilhamento das informações relativas ao registro nacional
+de veículos por entidade privada, sob pena de descredenciamento;
+       VI - disponibilizar aos consumidores, via internet, informações adequadas, claras
+e precisas sobre todas as etapas e procedimentos relativos à produção, estampagem e
+acabamento das PIV, com especificação dos materiais utilizados, bem como o preço
+final da PIV, sendo solidariamente responsáveis pelas irregularidades praticadas e
+vícios do produto e do serviço pelo período mínimo de 5 (cinco) anos;
+
+       VII - inserir, em campo específico no sistema informatizado de emplacamento, o
+serial (QR Code) das PIV utilizadas no atendimento, o arquivo eletrônico (XML) da
+referida nota fiscal e o CPF do funcionário responsável;
+
+       VIII - ressarcir os custos relativos às transações sistêmicas, conforme normativos
+do DENATRAN que disciplinam o acesso aos seus sistemas e subsistemas
+informatizados.
+
+       Art. 17. As empresas produtoras dos insumos personalizados constantes do
+Anexo I somente poderão fornecer tais insumos para os fabricantes e estampadores
+credenciados, sob pena de responsabilização cível e criminal.
+
+       Art. 18. Fabricantes e estampadores respondem solidariamente pelas
+irregularidades cometidas no processo de estampagem das PIV.
+
+                                     CAPÍTULO IV
+                                    Processo Produtivo
+
+       Art. 19. Todas as etapas do procedimento devem possuir trilhas de auditoria
+comprobatórias, desde a fabricação e estampagem da PIV até a sua vinculação ao
+veículo e inserção dos dados no sistema informatizado de emplacamento, nos termos
+estabelecidos pelo DENATRAN.
+
+       Parágrafo único. O responsável pelo emplacamento deverá fazer, via sistema, a
+vinculação do QR Code à PIV disponibilizada.
+
+       Art. 20. No caso de extravio, furto ou roubo de quaisquer das PIV, o proprietário,
+possuidor ou condutor do veículo poderá requerer a substituição em qualquer Unidade
+da Federação onde o veículo estiver circulando, independentemente do município ou
+Unidade da Federação onde o veículo estiver registrado.
+
+       Parágrafo único. Aplica-se o disposto no caput a veículo que estiver legalmente
+retido ou recolhido a depósito em outra Unidade da Federação ou município e
+necessite ser regularizado para voltar a circular em via pública.
+
+                                      CAPÍTULO V
+                                    Disposições Finais
+
+       Art. 21. A PIV de que trata esta Resolução deverá ser implementada pelos
+DETRAN até o dia 31 de janeiro de 2020, sendo exigida nos casos de primeiro
+emplacamento do veículo.
+       § 1º Também se exigirá a nova PIV para os veículos em circulação, nos
+seguintes casos:
+
+       I – substituição de qualquer das placas em decorrência de mudança de categoria
+do veículo ou furto, extravio, roubo ou dano da referida placa;
+
+       II – mudança de município ou de Unidade Federativa; ou
+
+       III - em que haja necessidade de instalação da segunda placa traseira de que trata
+o art. 4º.
+
+       § 2º Os DETRAN que já adotaram o modelo de PIV de que trata a Resolução
+CONTRAN nº 729, de 26 de março de 2018, e suas alterações, deverão adequar seus
+procedimentos às disposições contidas nesta Resolução até a data de sua entrada em
+vigor.
+
+       § 3º Os emplacamentos realizados de acordo com a Resolução CONTRAN nº
+729, de 2018, e suas alterações, serão aceitos por todos os órgãos e entidades do
+Sistema Nacional de Trânsito – SNT e demais órgãos e entidades públicas e privadas
+que utilizem o sistema de emplacamento para identificação veicular.
+
+       § 4º Para o veículo já emplacado com o modelo de PIV de que trata esta
+Resolução ou a Resolução CONTRAN nº 729, de 2018, transferido para um Estado
+que ainda esteja em fase de transição para o novo modelo, não poderá ser exigido o
+retorno ao modelo de placa anterior.
+
+       § 5º No caso do § 3º, havendo necessidade de aquisição de nova PIV, por
+extravio, furto, roubo ou dano ou por segunda placa traseira, o proprietário do veículo
+poderá adquiri-la de outra Unidade da Federação, mediante intermediação do
+DETRAN onde seu veículo estiver registrado.
+
+       Art. 22. Os veículos em circulação que utilizem PIV no padrão estabelecido pela
+Resolução CONTRAN nº 231, de 15 de março de 2007, e suas alterações, poderão
+circular até o seu sucateamento sem necessidade de substituição das placas e, a
+qualquer tempo, optar voluntariamente pelo novo modelo de PIV de que trata esta
+Resolução, ressalvado o disposto no § 2º deste artigo.
+
+       § 1º No caso de adoção do novo modelo, os caracteres originais alfanuméricos
+da PIV deverão ser mantidos no cadastro do veículo e constar no campo “placa
+anterior” do Certificado de Registro de Veículo – CRV e do Certificado de Registro e
+Licenciamento de Veículo - CRLV, atribuindo-se a nova combinação alfanumérica de
+que trata esta Resolução, na forma do Anexo II, devendo ser possível a consulta e
+demais transações referentes ao veículo por meio de ambas as combinações.
+
+       § 2º É vedado aos DETRAN e estampadores exigirem a substituição das PIV
+pelo modelo de que trata esta Resolução, exceto nas situações previstas nos incisos do
+§ 1º do art. 21 e na Resolução CONTRAN nº 670, de 18 de maio de 2017.
+
+       Art. 23. As empresas credenciadas nos termos da Resolução CONTRAN nº 729,
+de 2018, e suas alterações, continuarão a prestar seus serviços até o fim do prazo de
+credenciamento, sendo vedada a prorrogação em desacordo com esta Resolução.
+
+       Parágrafo único. Os DETRAN deverão providenciar o cadastramento das
+empresas estampadoras já credenciadas pelo DENATRAN, no prazo estabelecido
+no caput do art. 21.
+
+       Art. 24. No caso das PIV especiais tratadas no Anexo I, o DENATRAN deverá
+providenciar as adequações nos sistemas RENAVAM e RENAINF de forma a
+possibilitar o registro das infrações que venham a ser cometidas quando da circulação
+dos veículos com prerrogativa de utilização dessas PIV, nos termos de regulamentação
+específica.
+
+       Art. 25. Os insumos utilizados para a confecção das PIV de que trata a
+Resolução CONTRAN nº 729, de 2018, e suas atualizações, poderão ser utilizados por
+fabricantes e estampadores até o fim de seus estoques.
+
+       Art. 26. Na implantação do novo sistema de PIV, eventuais aspectos regionais
+serão, a pedido dos DETRAN, avaliados pelo DENATRAN.
+
+       Art. 27. A instalação ou uso de PIV em desacordo com o disposto nesta
+Resolução implicará a aplicação das penalidades e medidas administrativas previstas
+nos artigos 221, 230, incisos I, III, IV e VI, 243 e 250, inciso III, do Código de
+Trânsito Brasileiro, conforme a conduta observada.
+
+       Art. 28. O DENATRAN definirá os critérios de transição para a implementação
+da nova PIV, além dos parâmetros e procedimentos para aplicação das penalidades
+previstas no art. 15.
+
+       Art. 29. Ficam revogadas as Resoluções do CONTRAN nº 729, de 06 de março
+de 2018, nº 733, de 10 de maio de 2018, nº 741, de 17 de setembro de 2018, nº 748, de
+30 de novembro de 2018, e nº 770, de 20 de dezembro de 2018.
+
+       Art. 30. Esta Resolução entrará em vigor 60 (sessenta) dias após a data de sua
+publicação.
+
+                                            Marcelo Sampaio Cunha Filho
+                                                Presidente em exercício
+
+                                                Adriano Marcos Furtado
+                                      Ministério da Justiça e Segurança Pública
+
+                                             César Costa Alves de Mattos
+                                                Ministério da Economia
+
+                                                João Gabbardo dos Reis
+                                                   Ministério da Saúde
+
+                                           Elifas Chaves Gurgel do Amaral
+                         Ministério da Ciência, Tecnologia, Inovações e Comunicações
+                            ANEXO I
+Especificações das Placas de Identificação Veicular – PIV
+
+       1. CARACTERÍSTICAS BÁSICAS:
+
+       1.1. A PIV deve ser revestida, em seu anverso, de película retrorrefletiva, na cor
+branca com uma faixa na cor azul na margem superior, contendo ao lado esquerdo o
+logotipo do MERCOSUL, ao lado direito a Bandeira do Brasil e ao centro o nome
+BRASIL.
+
+       1.2. O padrão de estampagem é composto de 7 (sete) caracteres alfanuméricos,
+em alto relevo, na sequência LLLNLNN, com espaçamento equidistante e combinação
+aleatória, distribuída e controlada pelo DENATRAN.
+
+       1.2.1 O caracter “L” refere-se à letra, e o caracter “N” refere-se ao numeral.
+
+       1.3. O processo de estampagem dos caracteres alfanuméricos deve ser realizado
+por meio de filme térmico aplicado por calor (hot stamp).
+
+       1.4. A cor dos caracteres alfanuméricos da PIV será determinada de acordo com
+o uso dos veículos, conforme Tabela III.
+
+2. MATERIAL, DIMENSÕES E CORES
+2.1. Dimensões:
+2.1.1 As PIV devem ter as dimensões apresentadas na Tabela I:
+
+                 Tabela I - Dimensões da PIV
+
+                 Tipo de veículo          Dimensões (em mm)
+
+                                          altura (h) = 170 ± 2
+
+Motocicletas, motonetas, ciclomotores,    comprimento (c) =     Conforme
+cicloelétricos, triciclos e quadriciclos  200 ± 2               Figura I
+                                          espessura (e) = 1 ±
+
+                                          0,2
+
+                                          altura (h) = 130 ± 2
+
+Demais Veículos                           comprimento (c) =     Conforme
+                                          400 ± 2               Figura II
+                                          espessura (e) = 1 ±
+
+                                          0,2
+
+                 * A espessura (e) da placa refere-se à soma das espessuras do substrato
+
+metálico, mais a película retrorrefletiva flexível, mais o filme térmico.
+
+       2.1.2 As dimensões de que trata a Tabela acima poderão ser reduzidas em até
+15% caso a PIV não caiba no receptáculo do veículo homologado pelo DENATRAN.
+
+2.2. Material:
+2.2.1. Metal: alumínio não galvanizado, com espessura de 1mm ± 0,2mm.
+       2.2.2. Película do fundo: microprismática ou microesférica retrorrefletiva;
+
+       2.2.3. Caracteres: filme térmico aplicado por calor (hot stamp), sem
+retrorrefletividade e sem efeito difrativo, sólido, com inscrições das palavras
+“MERCOSUR BRASIL MERCOSUL” sobre os caracteres, em letras
+maiúsculas, conforme Figura V.
+
+       2.3. Cores (conforme Figura III):
+
+       2.3.1. Fundo:
+
+       A placa deverá ter o fundo branco, conforme especificações contidas nas Tabelas
+IV e V.
+
+       2.3.2. Faixa Azul:
+
+       A placa deverá conter em sua margem superior uma faixa horizontal azul padrão
+Pantone 286, cujas medidas são dispostas na Tabela II:
+
+            Tabela II - Dimensões da faixa azul conforme tipo de veículo
+
+                                 Tipo de veículo                        Dimensões (em mm)
+Motocicletas, motonetas, ciclomotores, cicloelétricos, triciclos e      altura (h) = 30
+quadriciclos                                                            comprimento (c) =
+                                                                        196
+Demais veículos
+                                                                        altura (h) = 30
+                                                                        comprimento (c) =
+                                                                        390
+
+       2.3.3 Caracteres:
+
+       A cor dos caracteres alfanuméricos da PIV será determinada de acordo com o
+uso dos veículos, nos termos da Tabela III:
+
+            Tabela III – Cor dos caracteres conforme o uso do veículo
+
+            Uso do Veículo                                    Cor dos       Padrão de Cor
+                                                            Caracteres
+Particular                                                 Preta        -
+                                                           Vermelha     Pantone Fórmula
+Comercial (Aluguel e Aprendizagem)                                      Sólido
+                                                           Azul         Brilhante 186C
+Oficial e Representação                                                 Pantone Fórmula
+                                                           Dourada      Sólido
+Diplomático/Consular (Missão Diplomática, Corpo                         Brilhante 286C
+Consular, Corpo Diplomático, Organismo Consular e/ou       Verde        Pantone Fórmula
+Internacional e Acordo Cooperação Internacional)           Cinza Prata  Sólido
+                                                                        Brilhante 130C
+Especiais (Experiência / Fabricantes de veículos, peças e               Pantone Fórmula
+implementos)                                                            Sólido
+                                                                        Brilhante 341C
+Coleção                                                                 Swop Pantone Grey
+       2.3.4. Nome do País (BRASIL): deverá ser vazado na cor branca, ao centro da
+faixa azul superior.
+
+       2.4. Fontes
+
+       2.4.1. Fonte da Combinação Alfanumérica:
+
+       2.4.1.1 Tipologia: FE Engschrift,
+
+       2.4.1.2 Altura (h): 53mm, para motocicletas, motonetas, ciclomotores,
+cicloelétricos, triciclos e quadriciclos; 65mm, para os demais veículos.
+
+       2.4.1.3 Largura: conforme Figuras I e II.
+
+       2.4.1.4 Espessura do traço: proporcional ao padrão da tipologia.
+
+       2.4.2. Fonte do Nome do País (BRASIL): Gill Sans Standard Bold
+Condensed 50 Interletrado
+
+       3. ESPECIFICAÇÕES DOS ELEMENTOS DE SEGURANÇA:
+
+       3.1. Emblema do MERCOSUL (Figuras I, II e III): É o Emblema Oficial do
+MERCOSUL, claramente visível e impresso na película retrorrefletiva, com um
+Pantone Azul (286) e Verde (347), com tamanho de 25mm por 20mm para
+motocicletas, motonetas, triciclos, ciclo elétricos, quadriciclos e ciclomotores e, de
+32mm por 22mm, para os demais veículos. Esta aplicação é sobre fundo de cor
+conforme a Normativa, Emblema do MERCOSUL do Manual de Identidade
+Corporativa - Emblema do MERCOSUL/DEC CMC Nº 17/02. O extremo esquerdo da
+logomarca começa aos 15mm da borda esquerda, exceto para motocicleta, motoneta,
+triciclos, ciclo elétricos, quadriciclo e ciclomotor, em que a bissetriz do ângulo da
+placa deve coincidir com a bissetriz do ângulo do emblema.
+
+       3.2. Bandeira do Brasil (Figuras I, II e III): Deverá ser impressa na película
+retrorrefletiva e posicionada no canto superior direito, fazendo coincidir a bissetriz da
+bandeira com a bissetriz principal da placa, a uma distância de 4 mm tanto da parte
+superior quanto do lado direito da placa. As medidas da bandeira são de 23 mm por 16
+mm para motocicletas, motonetas, triciclos, ciclo elétricos, quadriciclos e ciclomotores
+e, de 28 mm por 20 mm, para os demais veículos. Para ambas, os cantos serão
+arredondados e terão uma borda branca de 1 mm (±0,5 mm) de largura.
+
+       3.3. Signo/Distintivo internacional do Brasil – BR (Figuras I, II e III): a sigla
+“BR” deverá ser na fonte Gill Sans, cor Preta, aplicada por calor ou impressa no canto
+inferior esquerdo;
+
+       3.4. Marca d’água (Figuras I, II e IV): consiste em um efeito óptico visível sob
+condições de luz normais, inscrito no interior da película com o emblema do
+MERCOSUL em formato circular, gravados na construção da película retrorrefletiva,
+ocorrendo a cada 72mm.
+
+       3.5. Código bidimensional (2D): Gravação de forma indelével no canto superior
+esquerdo da placa, abaixo da faixa azul, com lado entre 16mm a 22 mm.
+
+       3.5.1 O código de barras bidimensionais dinâmico (Quick Response Code - QR
+Code), deve ser gerado a partir de algoritmo específico, de propriedade do
+DENATRAN, que deverá conter a identificação do fabricante e o número de série
+individual e acesso aos dados dos eventos envolvendo as placas, que
+permita a rastreabilidade sistêmica das placas desde a sua produção até a instalação
+aos respectivos veículos, além da verificação da autenticidade por meio de sistema
+eletrônico.
+
+       3.5.2 A obtenção do QR Code será feita diretamente pelos fabricantes
+credenciados pelo DENATRAN, que terão acesso exclusivo aos sistemas
+informatizados capazes de realizar a comunicação do referido código.
+
+       4. ESPECIFICAÇÕES DA PELÍCULA RETRORREFLETIVA:
+       4.1. As películas retrorrefletivas devem ser flexíveis para todas as condições
+atmosféricas com adesivo sensível à pressão, conformável para suportar a elongação
+necessária para o processo produtivo das placas veiculares.
+       4.2. A película deve ter coeficiente de retrorrefletividade, expresso em
+cd/lux/m2, conforme estabelecido na Tabela IV.
+
+Tabela IV - Coeficientes de retrorrefletividade (cd/lux/m2)
+
+   Ângulo de Observação Ângulo de Entrada Branca      Azul
+                                                        3
+   0,2o     -4o                                   50    1
+                                                       1,5
+   0,2o     30o                                   24   0,6
+
+   0,5o     -4o                                   24
+
+   0,5o     30o                                   12
+
+       4.3. As medições de coeficiente de retrorrefletividade devem ser realizadas em
+conformidade com a norma ASTM E-810.
+
+       4.4 A película retrorrefletiva deverá ser na cor branca com faixa azul, conforme
+definição na Tabela V.
+
+Tabela V – Especificação de cromaticidade e luminância
+
+1  2     3                                     4      Luminância (Y%)
+
+Cor X Y X Y X Y X Y Mín Máx
+
+Branca 0.303 0.300 0.368 0.366 0.340 0.393 0.274 0.329 32   na
+
+Azul 0.140 0.035 0.244 0.210 0.190 0.255 0.065 0.216 1      10
+
+         na=não aplicável
+
+       4.5. As películas retrorrefletivas devem apresentar os valores de coordenadas de
+cromaticidade e luminância conforme as especificações nos termos do Sistema
+Colorimétrico padrão CIE 1964, com iluminante D65 e ângulo de observação de 10°.
+
+       4.6. As películas retrorrefletivas devem atender aos testes e ensaios estabelecidos
+segundo os seguintes itens da Norma Internacional ISO 7591:1982 (Veículos
+Rodoviários - Placas Refletivas para Veículos Motorizados e Trailers – Especificação):
+
+4.6.1. Ensaio de temperatura, conforme item 8
+       4.6.2. Ensaio de adesão ao substrato, conforme item 9
+
+       4.6.3. Ensaio de resistência impacto, conforme item 10
+
+       4.6.4. Ensaio de resistência a flexão, conforme item 11
+
+       4.6.5. Ensaio de resistência a água, conforme item 12
+
+       4.6.6. Ensaio de lavagem, conforme item 13
+
+       4.6.7. Ensaio de resistência a gasolina, conforme item 14
+
+       4.7. Os fabricantes de películas retrorrefletivas devem obter, para os seus
+produtos, homologação pelo DENATRAN atendendo aos requisitos estabelecidos
+neste Anexo e em Portaria específica.
+
+       4.7.1 Até a edição da Portaria do DENATRAN, serão admitidas as películas
+retrorrefletivas que atendam aos requisitos estabelecidos no Anexo III.
+
+       5. FIXAÇÃO DA PLACA AO VEÍCULO
+
+       5.1 A PIV deve ser afixada no veículo em primeiro plano, na extremidade
+traseira ou dianteira, em posição vertical, formando um ângulo de 90º em relação ao
+plano longitudinal, admitida uma tolerância de 10º, sem qualquer tipo de obstrução à
+sua visibilidade e legibilidade. Em relação ao plano transversal, a PIV não deverá
+apresentar inclinação.
+
+       5.2 Admite-se, para os veículos de carga ou especial com PBT superior a 3.500
+kg, que a placa traseira possa ser posicionada a uma distância afastada da extremidade
+do veículo, desde que garantido um ângulo máximo de visibilidade de 45o entre a
+extremidade superior da placa e a extremidade do veículo.
+
+       5.3 Deve ser fixada por elementos de fixação (parafusos, rebites, etc.) nos pontos
+destinados a este fim conforme apresentado nas Figuras I e II.
+
+       5.4 A fixação deve ser de tal forma que não prejudique a estrutura física da
+chapa da placa, podendo ser utilizado suporte específico para esta função.
+
+       5.5 Quando utilizado suporte específico para a fixação da placa, este não poderá
+encobrir nada além da borda da placa, tampouco possuir elementos refletivos ou
+luminosos.
+FIGURA I – PLACA DE MOTOCICLETAS, TRICICLOS,
+MOTONETAS, QUADRICICLOS, CICLO ELÉTRICOS E
+
+                          CICLOMOTORES
+FIGURA II – PLACA DEMAIS VEÍCULOS
+                    FIGURA III – PADRÕES DE CORES
+
+FIGURA IV – MARCAS D’AGUA DE SEGURANÇA DA PELÍCULA
+                              RETRORREFLETIVA
+FIGURA V - PADRÃO DAS INSCRIÇÕES SOBRE OS
+                    CARACTERES DA PIV
+
+Fonte das inscrições : Gill Sans
+Tamanho da fonte das inscrições: 5 mm
+Padrão de Cores das Inscrições: conforme Tabela VI
+
+Tabela VI – Padrão de cores das inscrições
+
+                                  Uso do Veículo                        Padrão de Cor
+                                                                        das Inscrições
+Particular                                                              Pantone 447C
+Comercial (Aluguel e Aprendizagem)                                      Pantone 187C
+Oficial e Representação                                                 Pantone 288C
+Diplomático/Consular (Missão Diplomática, Corpo Consular, Corpo
+Diplomático, Organismo Consular e/ou Internacional e Acordo             Pantone 131C
+Cooperação Internacional)
+Especiais (Experiência / Fabricantes de veículos, peças e implementos)  Pantone 342C
+                                                                        Pantone Warm
+Coleção
+                                                                           Grey 11C
+                              ANEXO II
+Tabela de Conversão dos caracteres alfanuméricos da PIV
+
+       1. No caso de substituição da PIV de que trata a Resolução CONTRAN nº 231,
+de 15 de março de 2007 (padrão LLLNNNN), pela PIV de que trata esta Resolução
+(padrão LLLNLNN), será adotada a seguinte tabela equiparativa, para substituição do
+antepenúltimo caracter, de número para letra, a fim de que haja uma relação direta
+entre a antiga e a nova placa:
+
+Placa antiga Nova placa
+
+0  A
+
+1  B
+
+2  C
+
+3  D
+
+4  E
+
+5  F
+
+6  G
+
+7  H
+
+8  I
+
+9  J
+
+Ex.: A placa anterior ABC1234 será substituída pela nova placa com o padrão
+alfanumérico ABC1C34."
+
+       2. A faixa de letras de "A" a "J" será utilizada apenas para a conversão do
+modelo antigo para o novo de PIV, de forma a permitir a convivência entre ambos os
+modelos e possibilitar a consulta por ambos os critérios de placas.
+                                        ANEXO III
+
+       Requisitos para credenciamento de fabricantes e estampadores
+                     de Placas de Identificação Veicular – PIV
+
+       1. As empresas interessadas em credenciar-se para fabricar ou estampar placas
+de identificação veicular deverão apresentar requerimento destinado:
+
+       1.1. Ao DENATRAN, no caso de empresas interessadas em credenciar-se como
+fabricantes de Placa de Identificação Veicular; ou
+
+       1.2. Ao DETRAN da respectiva Unidade da Federação, no caso de empresas
+interessadas em credenciar-se como estampadoras de Placa de Identificação Veicular.
+
+       2. O credenciamento será concedido para pessoas jurídicas instaladas no
+território nacional, mediante o protocolo de requerimento acompanhado da
+comprovação do cumprimento dos requisitos estabelecidos neste Anexo.
+
+       3. Requisitos para credenciamento de fabricantes:
+
+       3.1. Habilitação Jurídica, Fiscal e Trabalhista:
+
+       3.1.1. Cópia do Ato constitutivo, estatuto ou contrato social em vigor,
+devidamente registrado, com objeto social relacionado às atividades objeto do
+credenciamento que trata esta Resolução;
+
+       3.1.2. Cópia da Licença ou Alvará de funcionamento expedido pela Prefeitura do
+município ou pelo Governo do Distrito Federal;
+
+       3.1.3. Cópia do Comprovante de Inscrição no Cadastro Nacional de Pessoas
+Jurídicas (CNPJ) com Situação Cadastral Ativa;
+
+       3.1.4. Regularidade cadastral no Sistema de Cadastro Unificado de Fornecedores
+(SICAF), níveis I a IV;
+
+       3.1.5. Declaração contendo as seguintes informações:
+
+       a) não estarem o proprietário ou sócios envolvidos em atividades comerciais e
+outras que possam comprometer sua isenção na execução da atividade credenciada;
+
+       b) não estar a empresa interessada, ou outra empresa do mesmo ramo da qual o
+interessado seja proprietário ou sócio, com decretação de falência;
+
+       c) não estarem o proprietário ou sócios condenados por crimes nas esferas federal
+e estadual;
+
+       d) não haver registro de inidoneidade junto ao Tribunal de Contas da União –
+TCU;
+
+       3.2. O DENATRAN poderá verificar a regularidade das informações
+apresentadas;
+
+       3.3. Qualificação técnica:
+
+       3.3.1. Relação dos equipamentos, dos dispositivos e das ferramentas de
+propriedade da pessoa jurídica, com seus devidos códigos de identificação e
+respectivos comprovantes fiscais e prova de contabilização na empresa;
+
+       3.3.2. Comprovante de que possui tecnologia de certificação digital padrão ICP-
+Brasil para a identificação das empresas e dos seus empregados junto ao DENATRAN
+e DETRAN e acesso aos sistemas informatizados;
+       3.3.3. Planta baixa e imagens detalhando a infraestrutura de suas instalações
+fabris ou de estampagem, conforme o tipo de credenciamento pretendido;
+
+       3.3.4. Documento contendo o planejamento e a sistemática de controle e
+rastreabilidade das unidades produzidas, durante todo o processo de fabricação,
+distribuição e estampagem de forma a evitar que as placas sejam desviadas ou
+extraviadas;
+
+       3.3.5. Declaração de instalador e imagens que comprovem que suas instalações
+de fabricação e estampagem possuem sistema de monitoramento por meio de Circuito
+Fechado de Televisão – CFTV com tecnologia digital, com capacidade de
+armazenamento de imagem por 90 (noventa) dias;
+
+       3.3.6. Laudo de Certificação de produto e do processo de produção de acordo
+com as especificações contidas na norma ISO 7591:1982 e nesta Resolução, expedido
+por organismo de certificação competente, acompanhado de relatório com os
+resultados dos seguintes ensaios:
+
+       a) verificação visual;
+
+       b) exame da codificação e elemento de segurança;
+
+       c) cromaticidade, luminância e retrorrefletividade;
+
+       d) resistência à temperatura;
+
+       e) adesividade ao substrato de alumínio;
+
+       f) resistência ao impacto;
+
+       g) resistência à deformação;
+
+       h) resistência à umidade;
+
+       i) capacidade de limpeza;
+
+       j) resistência a combustíveis e produtos de limpeza abrasivos;
+
+       k) resistência à salinidade; e
+
+       l) durabilidade.
+
+       3.3.7. Comprovante de que a empresa possui as suas rotinas fabris e
+administrativas voltadas para a fabricação de placas veiculares, certificadas segundo a
+Norma ISO 9001, indicando seu responsável técnico;
+
+       3.3.8. Apresentar, ao DENATRAN, amostras das PIV estampadas no padrão
+estabelecido nesta Resolução, sendo um par de placas para veículos e uma placa para
+motocicleta, motoneta, ciclomotor e similares.
+
+       4. Requisitos para credenciamento de estampadores:
+
+       4.1. Habilitação Jurídica, Fiscal e Trabalhista:
+
+       4.1.1. Cópia do Ato constitutivo, estatuto ou contrato social em vigor,
+devidamente registrado, com objeto social relacionado às atividades objeto do
+credenciamento que trata esta Resolução;
+
+       4.1.2. Cópia da Licença ou Alvará de funcionamento expedido pela Prefeitura do
+município ou pelo Governo do Distrito Federal;
+
+       4.1.3. Cópia do Comprovante de Inscrição no Cadastro Nacional de Pessoas
+Jurídicas (CNPJ) com Situação Cadastral Ativa;
+       4.1.4. Prova de regularidade com a Fazenda Federal, Estadual ou Distrital e
+Municipal da sede da Pessoa Jurídica, ou outra equivalente, na forma da lei;
+
+       4.1.5. Prova de regularidade relativa à Seguridade Social e ao Fundo de Garantia
+por Tempo de Serviço - FGTS, demonstrando situação regular no cumprimento dos
+encargos sociais instituídos por Lei.
+
+       4.1.6. Declaração contendo as seguintes informações:
+
+       a) não estarem o proprietário ou sócios envolvidos em atividades comerciais e
+outras que possam comprometer sua isenção na execução da atividade credenciada;
+
+       b) não estar a empresa interessada, ou outra empresa do mesmo ramo da qual o
+interessado seja proprietário ou sócio, com decretação de falência;
+
+       c) não estarem o proprietário ou sócios condenados por crimes nas esferas federal
+e estadual;
+
+       d) não haver registro de inidoneidade junto ao Tribunal de Contas da União –
+TCU;
+
+       4.2. Regularidade cadastral no Sistema de Cadastro Unificado de Fornecedores
+(SICAF), níveis I a IV, substituirá os itens 4.1.5 e 4.1.6;
+
+       4.3. O DETRAN poderá verificar a regularidade das informações apresentadas;
+
+       4.3. Qualificação técnica:
+
+       4.3.1. Apresentar, ao DETRAN do respectivo Estado ou do Distrito Federal,
+amostras das PIV estampadas no padrão estabelecido nesta Resolução, sendo um par
+de placas para veículos e uma placa para motocicleta, motoneta, ciclomotor e
+similares;
+
+       4.3.2. Relação dos equipamentos, dos dispositivos e das ferramentas de
+propriedade da pessoa jurídica, com seus devidos códigos de identificação e
+respectivos comprovantes fiscais e prova de contabilização na empresa;
+
+       4.3.3. Comprovante de que possui tecnologia de certificação digital padrão ICP-
+Brasil para a identificação das empresas e dos seus empregados junto ao DENATRAN
+e DETRAN e acesso aos sistemas informatizados;
+
+       4.3.4. Planta baixa e imagens detalhando a infraestrutura de suas instalações
+fabris ou de estampagem, conforme o tipo de credenciamento pretendido;
+
+       4.3.5. Documento contendo o planejamento e a sistemática de controle e
+rastreabilidade das unidades produzidas, durante todo o processo de fabricação,
+distribuição e estampagem de forma a evitar que as placas sejam desviadas ou
+extraviadas;
+
+       4.3.6. Declaração de instalador e imagens que comprovem que suas instalações
+de fabricação e estampagem possuem sistema de monitoramento por meio de Circuito
+Fechado de Televisão – CFTV com tecnologia digital, com capacidade de
+armazenamento de imagem por 90 (noventa) dias;
+
+       4.4. Atestado de idoneidade financeira da empresa e dos sócios:
+
+       4.4.1. Certidão do Cartório de Títulos e Protestos do Município de inscrição da
+Pessoa Jurídica e dos Sócios da empresa.
+
+       5. Sistemas informatizados:
+       5.1. Após o credenciamento junto ao DENATRAN, o fabricante deverá
+apresentar sistema informatizado a ser avaliado e homologado pelo DENATRAN, com
+a finalidade de executar:
+
+       a) integração e interoperabilidade com o sistema informatizado de
+emplacamento;
+
+       b) verificação eletrônica da regularidade do número do chassi dos veículos
+atendidos, em conformidade com os padrões internacionais;
+
+       c) controle da rastreabilidade das placas produzidas ou estampadas, de forma a
+garantir a segurança e prevenção de fraudes;
+
+       d) o recebimento do QR Code para implantação nas PIV semiacabadas;
+
+       e) vinculação dos caracteres alfanuméricos da PIV estampada ao QR Code;
+
+       5.2. Os fabricantes devem disponibilizar o acesso ao sistema informatizado de
+que trata o item 5.1 para os estampadores que deles adquirirem PIV semiacabadas.
+
+       5.3. Os estampadores somente poderão atuar na atividade por meio do Sistema
+informatizado de que trata o item 5.1 devidamente homologado pelo DENATRAN.
+
+       5.4. O fabricante não poderá comercializar placas com estampadores que não
+utilizem seu sistema informatizado para o exercício de suas atividades.
+
+       5.5. A fim de viabilizar a troca de informações necessárias à execução da
+fabricação e estampagem das PIV de que trata esta resolução, o fabricante deverá
+integrar o seu sistema informatizado com o banco de dados do DENATRAN.
+
+       6. Disposições gerais:
+
+       6.1. Atendidos os requisitos estabelecidos nesta Resolução, a empresa será
+credenciada como Fabricante ou Estampadora de Placas de Identificação Veicular.
+
+       6.2. O credenciamento da empresa deverá ser formalizado:
+
+       6.2.1. No caso de fabricante, mediante Portaria do DENATRAN a ser publicada
+no Diário Oficial da União;
+
+       6.2.2. No caso de estampador, mediante Portaria do DETRAN do respectivo
+Estado ou Distrito Federal a ser publicada na forma oficial estabelecida pela legislação
+estadual ou distrital, cuja cópia deve ser enviada ao DENATRAN para fins de controle
+e habilitação sistêmica.
+
+       6.3. O credenciamento equivale ao Termo de Autorização para fins de utilização
+do sistema informatizado de emplacamento do DENATRAN.
+
+       6.4. As empresas fabricantes e estampadoras, devidamente credenciadas, deverão
+ressarcir os custos inerentes ao uso do Sistema, nos termos do normativo do
+DENATRAN que disciplina ao acesso aos seus sistemas e subsistemas informatizados.
+
+       6.5. No caso de alteração de endereço das instalações, a empresa somente poderá
+operar após atualização do processo de credenciamento, nos termos desta Resolução,
+cumpridos os seguintes requisitos:
+
+           6.5.1. fabricante: subitens 3.1.1, 3.1.2, 3.1.3, 3.1.6, 3.1.7, 3.1.8, 3.2.1, 3.4.3 e
+3.4.5;
+
+          6.5.2. estampador: documentação constante dos itens 4.1 e 4.2 devidamente
+atualizada para o novo endereço, bem como os subitens 4.3.4 e 4.3.6.
+
+       6.6. O DENATRAN e o DETRAN, a qualquer tempo, fiscalizarão as empresas
+por eles credenciadas quanto ao cumprimento dos requisitos de credenciamento.
+       6.7. No exercício da fiscalização conforme subitens 6.6, constatada alguma
+irregularidade, serão aplicadas, no que couber, as disposições do art. 15 desta
+Resolução.
+
+       6.8. Uma vez credenciadas, as empresas fabricantes e estampadoras deverão
+submeter-se à sistemática de produção, controle e rotinas a serem determinadas pelo
+DENATRAN.
+

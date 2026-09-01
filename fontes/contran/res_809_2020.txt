@@ -1,0 +1,271 @@
+24/12/2020  RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - DOU - Imprensa Nacional
+
+                                  DIÁRIO OFICIAL DA UNIÃO
+
+                                                             Publicado em: 24/12/2020 | Edição: 246 | Seção: 1 | Página: 123
+                                                          Órgão: Ministério da Infraestrutura/Conselho Nacional de Trânsito
+
+                                      RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020
+
+                                                                        Dispõe sobre os requisitos para emissão do Certiﬁcado de
+                                                                        Registro de Veículo (CRV), do Certiﬁcado de Licenciamento
+                                                                        Anual (CLA) e do comprovante de transferência de propriedade
+                                                                        em meio digital.
+
+                           O CONSELHO NACIONAL DE TRÂNSITO (CONTRAN), no uso da competência que lhe conferem
+            os incisos I e X do art. 12 da Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito
+            Brasileiro (CTB), com base no que consta nos autos do processo administrativo nº 50000.049920/2019-
+            12, resolve:
+
+                           Art. 1º Esta Resolução dispõe sobre os requisitos para emissão do Certiﬁcado de Registro de
+            Veículo (CRV), do Certiﬁcado de Licenciamento Anual (CLA) e do Comprovante de Transferência de
+            Propriedade (CTP) em meio digital.
+
+                           CAPÍTULO I
+                           DO CERTIFICADO DE REGISTRO E LICENCIAMENTO DE VEÍCULO EM MEIO DIGITAL (CRLV-e)
+                           Art. 2º Fica instituído o Certiﬁcado de Registro e Licenciamento de Veículo em meio digital
+            (CRLV-e), expedido na forma estabelecida pelo órgão máximo executivo de trânsito da União, que conterá,
+            vinculados em um único documento, o Certiﬁcado de Registro de Veículo (CRV) e o Certiﬁcado de
+            Licenciamento Anual (CLA), conforme disposto nos arts. 121 e 131 do CTB.
+                           Art. 3º O CRLV-e será expedido obrigatoriamente:
+                           I - no registro do veículo;
+                           II - no licenciamento anual do veículo;
+                           III - na transferência de propriedade;
+                           IV - na mudança de Município de domicílio ou de Município de residência do proprietário;
+                           V - na alteração de qualquer característica do veículo;
+                           VI - na mudança de categoria;
+                           VII - no caso de segunda via dos documentos emitidos com base na Resolução CONTRAN nº 16,
+            de 06 de fevereiro de 1998, com a alteração dada pela Resolução CONTRAN nº 775, de 28 de março de
+            2019;
+                           VIII - no caso de remarcação de chassi;
+                           IX - nos casos previstos em regulamentos complementares onde seja necessária a emissão de
+            um CRV.
+                           Art. 4º O CRLV-e somente será expedido após a quitação dos débitos relativos a tributos,
+            encargos e multas de trânsito e ambientais, vinculados ao veículo, bem como o pagamento do Seguro
+            Obrigatório de Danos Pessoais causados por Veículos Automotores de Via Terrestres (Seguro DPVAT).
+                           Parágrafo único. A existência de restrições administrativas ou judiciais que restrinjam a
+            circulação do veículo impedem a expedição do CRLV-e.
+                           Art. 5º Os campos e leiaute do CRLV-e serão deﬁnidos no Anexo I desta Resolução.
+                           Parágrafo único. O órgão máximo executivo de trânsito da União poderá estabelecer outras
+            informações a serem agregadas ao CRLV-e.
+
+https://www.in.gov.br/en/web/dou/-/resolucao-contran-n-809-de-15-de-dezembro-de-2020-296178226                                                   1/6
+24/12/2020  RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - DOU - Imprensa Nacional
+
+                           Art. 6º O CRLV-e é documento suﬁciente para ﬁm de cumprimento do que dispõe o caput do art.
+            133 do CTB.
+
+                           § 1º Para ﬁns de ﬁscalização, o CRLV-e pode ser apresentado na versão digital por meio dos
+            aplicativos oﬁciais do Governo Federal ou na versão impressa em papel A4 branco comum.
+
+            § 2º A expedição do CRLV-e dispensa a obrigatoriedade da versão impressa.
+
+                           Art. 7º O órgão máximo executivo de trânsito da União disponibilizará sistema eletrônico para
+            validação do CRLV-e, ou sua versão impressa, por meio da leitura do código de barras bidimensionais
+            dinâmico (Quick Response Code - QRCode) inserido no documento.
+
+                           Parágrafo único. O QRCode será gerado a partir de algoritmo especíﬁco, de propriedade do
+            órgão máximo executivo de trânsito da União, composto pelos dados individuais do veículo obtidos por
+            meio do Registro Nacional de Veículos Automotores (RENAVAM).
+
+                           Art. 8º O órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal não poderá
+            expedir o CRV em meio físico, com modelo previsto na Resolução CONTRAN nº 16, de 06 de fevereiro de
+            1998, alterada pela Resolução CONTRAN nº 775, de 28 de março de 2019, a partir da data de entrada em
+            vigor da presente Resolução.
+
+                           Art. 9º O CLA expedido em meio físico, com modelo previsto na Resolução CONTRAN nº 16, de
+            1998, alterada pela Resolução CONTRAN nº 775, de 2019, poderá ser utilizado para comprovar o
+            licenciamento do veículo para o exercício 2020.
+
+            CAPÍTULO II
+
+                           DA AUTORIZAÇÃO PARA TRANSFERÊNCIA DE PROPRIEDADE DO VEÍCULO EM MEIO DIGITAL
+            (ATPV-e)
+
+                           Art. 10. Fica instituída a Autorização para Transferência de Propriedade do Veículo em meio
+            digital (ATPV-e), expedida na forma estabelecida pelo órgão máximo executivo de trânsito da União, que
+            constitui o comprovante de transferência de propriedade de que trata o inciso III do art. 124 do CTB.
+
+                           Art. 11. A ATPV-e é o documento gerado pelo órgão máximo executivo de trânsito da União em
+            que o antigo e o novo proprietário, respectivamente, vendedor e comprador, declaram estar de acordo
+            com a transferência da propriedade do veículo, nos termos das informações constantes no documento,
+            responsabilizando-se pela veracidade das informações ali declaradas.
+
+            Parágrafo único. Os campos e leiaute da ATPV-e serão deﬁnidos no Anexo II desta Resolução.
+
+                           Art. 12. A ATPV-e conterá os dados identiﬁcadores do proprietário do veículo, do veículo e do
+            comprador, além de código de barras bidimensionais dinâmico (Quick Response Code - QRCode) gerado
+            pelos sistemas do órgão máximo executivo de trânsito da União.
+
+                           Art. 13. A ATPV-e somente será disponibilizada aos veículos registrados após a entrada em vigor
+            desta Resolução, salvo:
+
+            I - os casos previstos no inciso VII do art. 3º; ou
+
+                           II - mediante requerimento do proprietário do veículo, observados os requisitos estabelecidos
+            pelo órgão ou entidade executivo de trânsito responsável pelo registro do veículo.
+
+                           Art. 14. Quando houver a necessidade de cancelamento da ATPV-e, o órgão ou entidade
+            executivo de trânsito do Estado ou do Distrito Federal responsável pelo registro do veículo poderá
+            estabelecer requisitos necessários para emissão de uma nova ATPV-e.
+
+                           Art. 15. A ATPV-e deverá ser disponibilizada por meio dos canais de atendimento dos órgãos ou
+            entidades executivos de trânsito dos Estados e do Distrito Federal.
+
+                           Parágrafo único. O órgão máximo executivo de trânsito da União poderá instituir outros canais
+            de atendimento para disponibilização da ATPV-e.
+
+                           Art. 16. Quando ambos, proprietário vendedor e comprador, possuírem os requisitos necessários
+            para assinatura eletrônica da ATPV-e, o preenchimento e a assinatura poderão ocorrer nos sistemas do
+            órgão máximo executivo de trânsito da União ou dos órgãos ou entidades executivos de trânsito dos
+
+https://www.in.gov.br/en/web/dou/-/resolucao-contran-n-809-de-15-de-dezembro-de-2020-296178226                                                   2/6
+24/12/2020  RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - DOU - Imprensa Nacional
+
+            Estados e do Distrito Federal que disponibilizarem essa funcionalidade, de acordo com a Lei nº 14.063, de
+            23 de setembro de 2020, e regulamentação vigente.
+
+                           Parágrafo único. Os órgãos ou entidades executivos de trânsito dos Estados ou do Distrito
+            Federal poderão estabelecer outros meios para autenticar a identiﬁcação do vendedor e do comprador
+            em conformidade com a legislação em vigor para validação jurídica.
+
+                           Art. 17. Na versão impressa, a ATPV-e deverá ser assinada e conter o reconhecimento de ﬁrma
+            do vendedor e do comprador por autenticidade.
+
+                           Art. 18. A Autorização para Transferência de Propriedade de Veículo (ATPV) constante no verso
+            de CRV válido, emitido em meio físico, em modelo previsto na Resolução CONTRAN nº 16, de 1998,
+            alterada pela Resolução CONTRAN nº 775, de 2019, deverá conter o reconhecimento de ﬁrma por
+            autenticidade do antigo proprietário e do comprador.
+
+            CAPÍTULO III
+
+            DA COMUNICAÇÃO DE VENDA DE VEÍCULO
+
+                           Art. 19. O encaminhamento do comprovante de transferência de propriedade aos órgãos ou
+            entidades executivos de trânsito dos Estados e do Distrito Federal corresponde à comunicação de venda
+            de veículo.
+
+            Art. 20. No caso da ATPV-e, a comunicação de venda será realizada:
+
+                           I - por meio de sistema eletrônico implantado pelo órgão máximo executivo de trânsito da
+            União, com a utilização de:
+
+                           a) assinatura digital avançada, nos termos da Lei nº 14.063, de 2020, e de regulamentação
+            vigente; ou
+
+                           b) certiﬁcado digital, de propriedade do vendedor e do comprador, emitido por autoridade
+            certiﬁcadora, conforme padrão de Infraestrutura de Chaves Públicas Brasileira (ICP-Brasil);
+
+                           II - por entidade pública ou privada com atribuição legal, em conformidade com a Lei nº 8.935,
+            de 18 de novembro de 1994, expressamente autorizada pelo órgão máximo executivo de trânsito da União
+            para tal ﬁnalidade; ou
+
+                           III - pelo órgão ou entidade executivo de trânsito do Estado ou do Distrito Federal, conforme
+            procedimentos deﬁnidos por cada órgão ou entidade.
+
+                           Parágrafo único. Para realizar a comunicação de venda, as entidades públicas ou privadas
+            previstas no inciso II poderão contratar entidades privadas que tenham como atividade principal ou
+            acessória, prevista em lei ou em seu estatuto constitutivo ou contrato social, a prestação de serviços
+            inerentes à comunicação de venda de veículos.
+
+                           Art. 21. Nos casos previstos no art. 16, a assinatura eletrônica da ATPV-e pelo antigo proprietário
+            caracteriza a comunicação de venda eletrônica do veículo.
+
+                           Art. 22. No caso da ATPV-e na versão impressa, nos termos do art. 17, ou da ATPV constante no
+            verso de CRV válido, nos termos do art. 18, o antigo proprietário deverá encaminhar ao órgão ou entidade
+            executivo de trânsito do Estado ou do Distrito Federal onde o veículo for registrado a cópia autenticada da
+            ATPV-e ou da ATPV, respectivamente, devidamente preenchida.
+
+            CAPÍTULO IV
+
+            DAS DISPOSIÇÕES FINAIS
+
+                           Art. 23. Os órgãos ou entidades executivos de trânsito dos Estados e do Distrito Federal deverão
+            providenciar as adequações sistêmicas necessárias, em conjunto com o órgão máximo executivo de
+            trânsito da União, para adoção do CRLV-e e da ATPV-e.
+
+                           Art. 24. O órgão máximo executivo de trânsito da União poderá expedir Termo de Autorização
+            para acesso aos sistemas destinados aos procedimentos previstos nesta Resolução, conforme normativo
+            especíﬁco.
+
+                           § 1º Poderão solicitar o acesso a que se refere o caput, desde que atendidos todos os requisitos
+            e obrigações estabelecidos em normativo especíﬁco do órgão máximo executivo de trânsito da União:
+
+https://www.in.gov.br/en/web/dou/-/resolucao-contran-n-809-de-15-de-dezembro-de-2020-296178226                                                   3/6
+24/12/2020      RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - DOU - Imprensa Nacional
+
+            I - as entidades públicas e privadas previstas no inciso II do art. 20; e
+
+                           II - as entidades privadas previstas no parágrafo único do art. 20, desde que comprove a
+            necessidade de acesso para desempenhar a atividade de comunicação de venda de veículo.
+
+                           § 2º As entidades privadas previstas no inciso II do § 1º já homologadas pelo órgão máximo
+            executivo de trânsito da União deverão apresentar, no prazo de 90 (noventa) dias, em formato digital ou
+            em formato físico para posterior digitalização, conforme Decreto nº 10.278, de 18 de março de 2020,
+            documentação comprobatória de vínculo com as entidades públicas e privadas previstas no inciso I do §
+            1º, para renovação da homologação.
+
+                           Art. 25. A transferência de propriedade de veículos inscritos no Registro Nacional de Veículos
+            em Estoque (RENAVE) seguirão os procedimentos estabelecidos em Resolução especíﬁca.
+
+                           Art. 26. Ficam revogadas, a partir da data de entrada em vigor desta Resolução as seguintes
+            Resoluções CONTRAN:
+
+            I - nº 61, de 21 de maio de 1998;
+
+            II - nº 130, de 2 de abril de 2002;
+
+            III - nº 134, de 2 de abril de 2002;
+
+            IV - nº 306, de 6 de março de 2009;
+
+            V - nº 310, de 6 de março de 2009;
+
+            VI - nº 712, de 25 de outubro de 2017;
+
+            VII - nº 715, de 30 de novembro de 2017;
+
+            VIII - nº 788, de 18 de junho de 2020; e
+
+            IX - nº 793, de 2 de setembro de 2020.
+
+            Art. 27. Esta Resolução entra em vigor em 4 de janeiro de 2021.
+
+                                                                FREDERICO DE MOURA CARNEIRO
+
+                                                                                Presidente
+
+                                                                PAULO CÉSAR REZENDE DE CARVALHO ALVIM
+
+                                                        Ministério da Ciência, Tecnologia e Inovações
+
+                                                                MARCELO SAMPAIO CUNHA FILHO
+
+                                                                     Ministério da Infraestrutura
+
+                                                                MARCELLO DA COSTA VIEIRA
+
+                                                  Coordenador Máximo do Sistema Nacional de Trânsito
+
+                                                                EDUARDO AGGIO DE SÁ
+
+                                                           Ministério da Justiça e Segurança Pública
+
+                                                                JULIANA LOPES NUNES
+
+                                                         Agência Nacional de Transportes Terrestres
+
+            ANEXO I
+
+https://www.in.gov.br/en/web/dou/-/resolucao-contran-n-809-de-15-de-dezembro-de-2020-296178226                                                       4/6
+24/12/2020  RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - DOU - Imprensa Nacional
+
+            ANEXO II
+
+https://www.in.gov.br/en/web/dou/-/resolucao-contran-n-809-de-15-de-dezembro-de-2020-296178226                                                   5/6
+24/12/2020  RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - RESOLUÇÃO CONTRAN Nº 809, DE 15 DE DEZEMBRO DE 2020 - DOU - Imprensa Nacional
+
+            Este conteúdo não substitui o publicado na versão certiﬁcada.
+
+https://www.in.gov.br/en/web/dou/-/resolucao-contran-n-809-de-15-de-dezembro-de-2020-296178226                                                   6/6
+

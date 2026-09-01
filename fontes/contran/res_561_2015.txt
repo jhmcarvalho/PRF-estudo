@@ -1,0 +1,682 @@
+                          RESOLUÇÃO Nº 561, DE 15 DE OUTUBRO DE 2015.
+
+                                         Aprova o Manual Brasileiro de Fiscalização de Trânsito,
+                                         Volume II – Infrações de competência dos órgãos e
+                                         entidades executivos estaduais de trânsito e rodoviários.
+
+             O CONSELHO NACIONAL DE TRÂNSITO - CONTRAN, usando da
+competência que lhe confere o art. 12, inciso I, da Lei nº 9.503, de 23 de setembro de 1997,
+que instituiu o Código de Trânsito Brasileiro, e conforme Decreto nº 4.711, de 29 de maio de
+2003, que dispõe sobre a coordenação do Sistema Nacional de Trânsito – SNT;
+
+             Considerando a necessidade de padronização de procedimentos referentes à
+fiscalização de trânsito no âmbito de todo território nacional;
+
+             Considerando a necessidade da adoção de um manual destinado à
+instrumentalização da atuação dos agentes das autoridades de trânsito, nas esferas de suas
+respectivas competências;
+
+             Considerando os estudos desenvolvidos por Grupo Técnico e por Especialistas da
+Câmara Temática de Esforço Legal do CONTRAN,
+
+             RESOLVE:
+
+             Art.1º Aprovar o Manual Brasileiro de Fiscalização de Trânsito – MBFT, Volume
+II – Infrações de competência dos órgãos e entidades executivos estaduais de trânsito e
+rodoviários.
+
+             Art. 2º Compete ao órgão máximo executivo de trânsito da União atualizar o
+MBFT – Volume II, em virtude de norma posterior que implique a necessidade de alteração de
+seus procedimentos.
+
+             Art. 3º Os órgãos e entidades executivos estaduais de trânsito e rodoviários
+componentes do Sistema Nacional de Trânsito deverão adequar seus procedimentos em até 90
+(noventa) dias, a contar da data de publicação desta Resolução.
+
+             Art. 4º O Anexo desta Resolução se encontra disponível no sítio eletrônico
+www.denatran.gov.br.
+
+             Art. 5º Esta Resolução entra em vigor na data de sua publicação.
+
+                                                 Alberto Angerami
+                                                      Presidente
+
+                                                  Silvinei Vasques
+                                               Ministério da Justiça
+
+                                             Guilherme Moraes Rego
+                                               Ministério da Justiça
+Pág. nº 02, da Resolução CONTRAN nº 561 /2015.
+                                          Alexandre Euzébio de Morais
+                                            Ministério dos Transportes
+                                                 Ricardo Shinzato
+                                               Ministério da Defesa
+                                          Djailson Dantas de Medeiros
+                                              Ministério da Educação
+                                               Luiz Fernando Fauth
+
+                                Ministério da Ciência, Tecnologia e Inovação
+                                           Edilson dos Santos Macedo
+                                              Ministério das Cidades
+
+                                                                                                               2
+         Manual Brasileiro de Fiscalização de Trânsito
+
+                             VOLUME II
+     INFRAÇÕES DE COMPETÊNCIA DOS ÓRGÃOS E
+ENTIDADES EXECUTIVOS ESTADUAIS DE TRÂNSITO E
+
+                            RODOVIÁRIOS.
+
+                              Dezembro 2015
+
+                                                                                                           3
+Presidenta da República
+DILMA ROUSSEFF
+Ministro de Estado das Cidades
+GILBERTO KASSAB
+Presidente do Conselho Nacional de Trânsito
+ALBERTO ANGERAMI
+
+                                                                                                               4
+                        DENATRAN - 2013
+
+TÉCNICOS DO GRUPO DE TRABALHO DO MANUAL BRASILEIRO DE
+                                      FISCALIZAÇÃO
+
+Coordenadora
+
+Flora Maria Pinto - DENATRAN
+
+                     César Augusto Miyasato     AGETRAN/Campo Grande/MS
+                        Edilson Salatiel Lopes  DER/MG
+                       José Homerio de Sousa    DER/MG
+                                                DETRAN/AM
+                    Gleice dos Santos Barros    DETRAN/AM
+     Sirleide dos Santos Casanova Coelho        DETRAN/BA
+                                                DETRAN/BA
+                      Sueli Carvalho Lorenzo    DETRAN/PI
+Maria Guadalupe Alonso Uzêda Machado            DETRAN/PI e PMPI
+                                                DETRAN/SP
+                    José Antonio Vasconcelos    DETRAN/SP
+           Leandro de Melo Castelo Branco       DNIT
+                                                DNIT
+             Arnaldo Luis Theodosio Pazetti     DPRF
+                  Marcondes de Brito Maciel     DPRF
+                                                DPRF
+                Luiz Carlos de Freire Bastos    ITT
+           Meyre Francinete Araújo Bastos       PMDF
+                                                PMES e CETRAN/ES
+                       Rubens Museka Júnior
+                     Antonêudo Ribeiro Lima
+           Valfran de Almeida Pereira Filho
+         Léa Mariza Stocchero Hatschbach
+        José Ricardo Rocha Cintra de Lima
+             Marcos Tadeu Celante Weolffel
+
+           Apoio /DENATRAN
+
+Jean Petter Mendes Pereira DENATRAN
+         Marilene Santos da Silva
+
+                                                                         5
+                                              Agradecimentos
+        Nossos agradecimentos pela parceria, dedicação e colaboração de todos os órgãos e
+entidades dos segmentos público e privado envolvidos na elaboração do Manual Brasileiro de
+Fiscalização de Trânsito – Volume II, em especial à Polícia Militar do Distrito Federal, ao
+Departamento Nacional de Infra Estrutura de Transportes – DNIT, ao Departamento Estadual
+de Trânsito do Piauí-DETRAN/PI, à Companhia de Engenharia de Tráfego de São Paulo-
+CET/SP, ao Departamento de Estradas de Rodagem de Minas Gerais- DER/MG e ao
+Departamento Estadual de Trânsito de São Paulo-DETRAN/SP, que disponibilizaram a
+infraestrutura necessária para a realização dos trabalhos.
+
+                                                                                                               6
+                                                 PREFÁCIO
+
+        O Manual Brasileiro de Fiscalização de Trânsito – Volume II, instituído pelo Conselho
+Nacional de Trânsito - CONTRAN, abrange todas as infrações de competência estadual, a
+serem aplicadas por órgãos ou entidades executivos de trânsito dos Estados e do Distrito
+Federal e rodoviários.
+
+        O referido Volume foi elaborado por Grupo Técnico, composto por Especialistas da
+Câmara Temática de Esforço Legal, e, ainda, por representante da Polícia Militar do Estado
+do Espírito Santo e do Conselho Estadual de Trânsito do Espírito Santo e representante do
+Departamento de Trânsito do Estado do Piauí e da Polícia Militar do Estado do Piauí, com o
+propósito de uniformizar e padronizar os procedimentos de fiscalização em todo território
+nacional.
+
+        O Manual constitui uma ferramenta de trabalho importante para as autoridades de
+trânsito e seus agentes nas ações de fiscalização de trânsito, uma vez que abrangem
+dispositivos que contemplam as condutas infracionais dispostas no Código de Trânsito
+Brasileiro - CTB e Resoluções do CONTRAN, com os seus respectivos enquadramentos,
+observadas as legislações pertinentes.
+
+        Vale ressaltar que a padronização de procedimentos é de suma importância,
+considerando que o papel do agente é fundamental para o trânsito seguro, pois, além das
+atribuições referentes à sua operação e fiscalização, desempenha, ainda, a missão de educar a
+todos aqueles que se utilizam do espaço público, a ele cabendo informar, orientar e
+sensibilizar os cidadãos a assumirem uma postura responsável e segura no cenário do trânsito.
+
+        Considerando, ainda, que, de acordo com o CTB, os órgãos e entidades componentes
+do Sistema Nacional de Trânsito - SNT, respondem objetivamente, no âmbito das respectivas
+competências, por danos causados aos cidadãos em virtude de ação, omissão ou erro na
+execução e manutenção de programas, projetos e serviços que garantam o exercício do direito
+do trânsito seguro, a edição de um Manual apropriado à fiscalização vem contribuir para o
+alcance das metas e objetivos preconizados na legislação de trânsito.
+
+        Espera-se, com a edição do Volume II do Manual Brasileiro de Fiscalização de
+Trânsito, o aperfeiçoamento dos procedimentos adotados para garantir a segurança viária, por
+meio da fiscalização, definida no Anexo I do CTB como o “ato de controlar o cumprimento
+das normas estabelecidas na legislação de trânsito, por meio do poder de polícia
+administrativa de trânsito, no âmbito de circunscrição dos órgãos e entidades executivos de
+trânsito e de acordo com as competências estabelecidas neste Código”.
+
+                                                                                           Alberto Angerami
+                                              Presidente do CONTRAN e Diretor do DENATRAN
+
+                                                                                                               7
+SUMÁRIO
+     1. APRESENTAÇÃO
+     2. LISTA DE ABREVIATURAS E SIGLAS
+     3. INTRODUÇÃO
+     4. AGENTE DA AUTORIDADE DE TRÂNSITO
+     5. INFRAÇÃO DE TRÂNSITO
+     6. RESPONSABILIDADE PELA INFRAÇÃO
+         6.1 Proprietário
+         6.2 Condutor
+         6.3 Pessoa Física ou Jurídica expressamente mencionada no CTB
+     7. AUTUAÇÃO
+     8. MEDIDAS ADMINISTRATIVAS
+         8.1 Retenção do Veículo
+         8.2 Remoção do Veículo
+         8.3 Recolhimento da Carteira Nacional de Habilitação/Permissão para Dirigir
+         8.4 Recolhimento do Certificado de Licenciamento Anual (CLA/CLRV)
+     9. HABILITAÇÃO
+         9.1 Condutor oriundo de país Estrangeiro
+     10. DISPOSIÇÕES FINAIS
+     11. FICHAS INDIVIDUAIS DOS ENQUADRAMENTOS
+     12. ANEXOS:
+        A - Principais Equipamentos Obrigatórios Veiculares
+        B – Principais Componentes do Sistema de Iluminação Veicular
+
+                                                                                                               8
+1.  APRESENTAÇÃO
+
+        O Manual Brasileiro de Fiscalização de Trânsito contempla os procedimentos gerais a
+serem observados pelos agentes de trânsito, conceitos e definições e está estruturado em
+fichas individuais, classificadas por código de enquadramento das infrações e seus respectivos
+desdobramentos.
+
+        As fichas são compostas dos campos, abaixo descritos, destinados ao detalhamento
+das infrações com seus respectivos amparos legais e procedimentos:
+
+     Tipificação resumida – descreve a conduta infracional de acordo com Portaria do
+           Denatran.
+
+     Código do enquadramento – indica o código da infração e seu desdobramento.
+
+     Amparo Legal – indica o artigo, inciso e alínea do CTB.
+
+     Tipificação do Enquadramento - descreve a conduta infracional de acordo com o
+           CTB.
+
+     Natureza – informa a classificação da infração de acordo com a sua gravidade.
+
+     Penalidade – informa a sanção aplicada a cada conduta infracional.
+
+     Medida Administrativa – indica o procedimento aplicável à conduta infracional.
+
+     Infrator – informa o responsável pelo cometimento da infração.
+
+     Competência – indica o órgão ou entidade de trânsito com competência para
+           autuar.
+
+     Pontuação – informa o número de pontos computados ao infrator.
+
+     Pode configurar crime – informa a previsão de eventual ilícito criminal.
+
+     Sinalização – informa a necessidade da sinalização para configurar a infração.
+
+     Constatação da infração – indica as situações nas quais a abordagem é necessária
+           para a constatação da infração.
+
+     Quando Autuar – indica as situações que configuram a infração tipificada na
+           respectiva ficha.
+
+     Não Autuar – indica as situações que não configuram a infração tipificada na
+           respectiva ficha ou remete a outros enquadramentos.
+
+     Definições e Procedimentos – menciona dispositivos legais, estabelece definições
+           e indica procedimentos específicos.
+
+     Campo ‘Observações’- indica ou sugere informações a serem registradas no
+           campo ‘observações’ do auto de infração.
+
+     Regulamentação – relaciona as normas aplicáveis.
+
+                                                                                      9
+2.  LISTA DE ABREVIATURAS E SIGLAS
+
+ABNT: Associação Brasileira de Normas Técnicas
+ACC: Autorização para Conduzir Ciclomotor
+AE: Autorização Especial
+AGETRAN: Agência Municipal de Transporte e Trânsito
+AIT: Auto de Infração de Trânsito
+Art: Artigo
+CF: Constituição Federal
+CLA: Certificado de Licenciamento Anual
+CMT: Capacidade Máxima de Tração
+CNH: Carteira Nacional de Habilitação
+CNPJ: Cadastro Nacional de Pessoa Jurídica
+CONAMA: Conselho Nacional do Meio Ambiente
+CONTRAN: Conselho Nacional de Trânsito
+CP: Código Penal
+CPF: Cadastro de Pessoa Física
+CRLV: Certificado de Registro e Licenciamento de Veículo
+CRV: Certificado de Registro de Veículo
+CSV: Certificado de Segurança Veicular
+CTB: Código de Trânsito Brasileiro
+CTV: Combinação para Transporte de Veículos
+CTVV: Convenção de Trânsito Viário de Viena
+CVC: Combinação de Veículos de Carga
+Dec.: Decreto
+DENATRAN: Departamento Nacional de Trânsito
+DER: Departamento de Estradas de Rodagem
+DETRAN: Departamento Estadual de Trânsito
+DNIT: Departamento Nacional de Infraestrutura de Transportes
+DPRF: Departamento de Polícia Rodoviária Federal
+Ex.: Exemplo
+GLP: Gás Liquefeito de Petróleo
+GNV: Gás Natural Veicular
+INMETRO: Instituto Nacional de Metrologia Normalização e Qualidade Industrial.
+IPVA: Imposto sobre Propriedades de Veículos Automotores
+ITL: Instituições Técnica Licenciadas
+ITT: Instituto Tecnológico de Transporte e Trânsito
+ITV: Inspeção Técnica Veicular
+LCP: Lei das Contravenções Penais
+NBR: Normas Técnicas Brasileiras
+PBT: Peso Bruto Total
+PBTC: Peso Bruto Total Combinado
+PM: Polícia Militar
+PPD: Permissão para Dirigir
+RBMLQ: Rede Brasileira de Metrologia Legal e Qualidade
+RENACH: Registro Nacional de Condutores Habilitados
+RENAVAM: Registro Nacional de Veículos Automotores
+RNE: Registro Nacional de Estrangeiro
+Res.: Resolução
+SNT: Sistema Nacional de Trânsito
+
+                                                                                10
+3.  INTRODUÇÃO
+
+         A fiscalização, conjugada às ações de operação de trânsito, de engenharia de tráfego e
+de educação para o trânsito, é uma ferramenta de suma importância na busca de uma
+convivência pacífica entre pedestres e condutores de veículos.
+
+         As ações de fiscalização influenciam diretamente na segurança e fluidez do trânsito,
+contribuindo para a efetiva mudança de comportamento dos usuários da via, e de forma
+específica, do condutor infrator, através da imposição de sanções, propiciando a eficácia da
+norma jurídica.
+
+         Nesse contexto, o papel do agente de trânsito é desenvolver atividades voltadas à
+melhoria da qualidade de vida da população, atuando como facilitador da mobilidade urbana
+ou rural sustentáveis, norteando-se, dentre outros, pelos princípios constitucionais da
+legalidade, impessoalidade, moralidade, publicidade e eficiência.
+
+         Desta forma o presente Manual tem como objetivo uniformizar procedimentos, de
+forma a orientar os agentes de trânsito nas ações de fiscalização.
+
+4.  AGENTE DA AUTORIDADE DE TRÂNSITO
+
+        O agente da autoridade de trânsito competente para lavrar o auto de infração de
+trânsito (AIT) poderá ser servidor civil, estatutário ou celetista ou, ainda, policial militar
+designado pela autoridade de trânsito com circunscrição sobre a via no âmbito de sua
+competência.
+
+        Para que possa exercer suas atribuições como agente da autoridade de trânsito, o
+servidor ou policial militar deverá ser credenciado, estar devidamente uniformizado,
+conforme padrão da instituição, e no regular exercício de suas funções.
+
+    O veículo utilizado na fiscalização de trânsito deverá estar caracterizado.
+
+        O agente de trânsito, ao constatar o cometimento da infração, lavrará o respectivo auto
+e aplicará as medidas administrativas cabíveis.
+
+        É vedada a lavratura do AIT por solicitação de terceiros, excetuando-se o caso em que
+o órgão ou entidade de trânsito realize operação (comando) de fiscalização de normas de
+circulação e conduta, em que um agente de trânsito constate a infração e informe ao agente
+que esteja na abordagem; neste caso, o agente que constatou a infração deverá convalidar a
+autuação no próprio auto de infração ou na planilha da operação (comando), a qual deverá ser
+arquivada para controle e consulta.
+
+        O AIT traduz um ato vinculado na forma da Lei, não havendo discricionariedade com
+relação a sua lavratura, conforme dispõe o artigo 280 do CTB.
+
+        O agente de trânsito deve priorizar suas ações no sentido de coibir a prática das
+infrações de trânsito, devendo tratar a todos com urbanidade e respeito, sem, contudo, omitir-
+se das providências que a lei lhe determina.”
+
+                                                                                 11
+5.                INFRAÇÃO DE TRÂNSITO
+
+        Constitui infração a inobservância a qualquer preceito da legislação de trânsito, às
+normas emanadas do Código de Trânsito, do Conselho Nacional de Trânsito e a
+regulamentação estabelecida pelo órgão ou entidade executiva do trânsito.
+
+        O infrator está sujeito às penalidades e medidas administrativas previstas no CTB.
+
+        As infrações classificam-se, de acordo com sua gravidade, em quatro categorias,
+computados, ainda, os seguintes números de pontos:
+
+        I - infração de natureza gravíssima, 7 pontos;
+        II - infração de natureza grave, 5 pontos;
+        III - infração de natureza média, 4 pontos;
+        IV - infração de natureza leve, 3 pontos.
+
+6.                RESPONSABILIDADE PELA INFRAÇÃO
+
+        As penalidades serão impostas ao condutor ou ao proprietário do veículo, salvo os
+casos de descumprimento de obrigações e deveres impostos a pessoas físicas ou jurídicas
+expressamente mencionadas no CTB.
+
+    6.1 Proprietário
+
+       Ao proprietário caberá sempre a responsabilidade pela infração referente à prévia
+regularização e preenchimento das formalidades e condições exigidas para o trânsito do
+veículo na via terrestre, conservação e inalterabilidade de suas características, componentes,
+agregados, habilitação legal e compatível de seus condutores, quando esta for exigida, e
+outras disposições que deva observar.
+
+    6.2 Condutor
+
+       Ao condutor caberá a responsabilidade pelas infrações decorrentes de atos praticados na
+direção do veículo.
+
+    6.3 Pessoa Física ou Jurídica expressamente mencionada no CTB
+
+        A pessoa física ou jurídica é responsável por infração de trânsito, não vinculada a
+veículo ou à sua condução, expressamente mencionada no CTB.
+
+7.                AUTUAÇÃO
+
+        Autuação é ato administrativo da Autoridade de Trânsito ou de seus agentes quando da
+constatação do cometimento de infração de trânsito, devendo ser formalizado por meio da
+lavratura do AIT.
+
+        O AIT é peça informativa que subsidia a Autoridade de Trânsito na aplicação das
+penalidades e sua consistência está na perfeita caracterização da infração, devendo ser
+preenchido de acordo com as disposições contidas no artigo 280 do CTB e demais normas
+regulamentares, com registro dos fatos que fundamentaram sua lavratura.
+
+                                                                   12
+        O AIT não poderá conter rasura, emenda, uso de corretivo, ou qualquer tipo de
+adulteração. O seu preenchimento se dará com letra legível, preferencialmente, com caneta
+esferográfica de tinta azul.
+
+        Poderá ser utilizado o talão eletrônico para o registro da infração conforme
+regulamentação específica.
+
+        O agente só poderá registrar uma infração por auto e, no caso da constatação de
+infrações em que os códigos infracionais possuam a mesma raiz (os três primeiros dígitos),
+considerar-se-á apenas uma infração.
+
+        Exemplo: veículo sem equipamento obrigatório e com equipamento obrigatório
+ineficiente/inoperante, utilizar o código 663-71 e descrever no campo ‘Observações’ a
+situação constatada (ex: sem o estepe e com o extintor de incêndio vazio).
+
+        As infrações podem ser concorrentes ou concomitantes:
+
+        São concorrentes aquelas em que o cometimento de uma infração tem como
+pressuposto o cometimento de outra.
+
+        Por exemplo: veículo sem as placas (art. 230, IV), por falta de registro (art. 230, V).
+        Nesses casos, o agente deverá lavrar um único AIT, com base no art. 230, V.
+
+        São concomitantes aquelas em que o cometimento de uma infração não implica o
+cometimento de outra, na forma do art. 266 do CTB.
+
+        Por exemplo: dirigir veículo com a CNH vencida há mais de trinta dias (art. 162, V) e
+de categoria diferente para a qual é habilitado (art. 162, III).
+
+        Nesses casos, o agente deverá lavrar os dois AIT.
+
+        O agente de trânsito, sempre que possível, deverá abordar o condutor do veículo para
+constatar a infração, ressalvados os casos nos quais a infração poderá ser comprovada sem a
+abordagem. Para esse fim, o Manual estabelece as seguintes situações:
+
+                       Caso 1: “possível sem abordagem” - significa que a infração pode ser
+                          constatada sem a abordagem do condutor.
+
+                       Caso 2: “mediante abordagem” – significa que a infração só pode ser
+                          constatada se houver a abordagem do condutor.
+
+                       Caso 3: “vide procedimentos” - significa que, em alguns casos, há
+                          situações específicas para abordagem do condutor.
+
+        O AIT deverá ser impresso em, no mínimo, duas vias, exceto o registrado em
+equipamento eletrônico.
+
+        Uma via do AIT será utilizada pelo órgão ou entidade de trânsito para os
+procedimentos administrativos de aplicação das penalidades previstas no CTB. A outra via
+deverá ser entregue ao condutor, quando se tratar de autuação com abordagem, ainda que este
+se recuse a assiná-lo.
+
+        Nas infrações cometidas com combinação de veículos, preferencialmente será autuada
+a unidade tratora. Na impossibilidade desta, a unidade tracionada.
+
+                                                                                                               13
+8.  MEDIDAS ADMINISTRATIVAS
+
+        Medidas administrativas são providências de caráter complementar, exigidas para a
+regularização de situações infracionais, sendo, em grande parte, de aplicação momentânea, e
+têm como objetivo prioritário impedir a continuidade da prática infracional, garantindo a
+proteção à vida e à incolumidade física das pessoas, e não se confundem com penalidades.
+
+        Compete à autoridade de trânsito com circunscrição sobre a via e seus agentes aplicar
+as medidas administrativas, considerando a necessidade de segurança e fluidez do trânsito.
+
+        A impossibilidade de aplicação de medida administrativa prevista para infração não
+invalidará a autuação pela infração de trânsito, nem a imposição das penalidades previstas.
+
+    8.1 - Retenção do Veículo
+
+        Consiste na sua imobilização no local da abordagem, para a solução de determinada
+irregularidade.
+
+    A retenção se dará nas infrações em que esteja prevista esta medida administrativa.
+
+        Quando a irregularidade puder ser sanada no local onde for constatada a infração, o
+veículo será liberado tão logo seja regularizada a situação.
+
+        Na impossibilidade de sanar a falha no local da infração, o veículo poderá ser retirado
+por condutor regularmente habilitado, desde que não ofereça risco à segurança do trânsito,
+mediante recolhimento do Certificado de Licenciamento Anual - CLA/CRLV, contra recibo,
+notificando o condutor do prazo para sua regularização.
+
+        Não se apresentando condutor habilitado no local da infração, o veículo será recolhido
+ao depósito.
+
+        No prazo assinalado no recibo, o infrator deverá providenciar a regularização do
+veículo e apresentá-lo no local indicado, onde, após submeter-se à vistoria, terá seu
+CLA/CRLV restituído.
+
+        No caso de não observância do prazo estabelecido para a regularização, o agente da
+autoridade de trânsito deverá encaminhar o documento ao órgão ou entidade de trânsito de
+registro do veículo.
+
+        Havendo comprometimento da segurança do trânsito e/ou no caso do condutor
+sinalizar que não regularizará a situação, a retenção do veículo poderá ser transferida para
+local mais adequado ou para o depósito do órgão ou entidade de trânsito.
+
+        Quando se tratar de transporte coletivo conduzindo passageiros ou de veículo
+transportando produto perigoso ou perecível, desde que o veículo ofereça condições de
+segurança para circulação em via pública, a retenção pode deixar de ser aplicada
+imediatamente.
+
+        8.2 - Remoção do Veículo
+         A remoção do veículo consiste em deslocar o veículo para o depósito fixado pela
+autoridade de trânsito com circunscrição sobre a via. Tem por finalidade restabelecer as
+
+                                                                                                               14
+condições de segurança, fluidez da via, garantir a boa ordem administrativa, dentre outras
+hipóteses estabelecidas pela legislação.
+
+        A medida administrativa de remoção é independente da penalidade de apreensão e não
+se caracteriza como medida antecipatória desta.
+
+        A remoção deve ser feita por meio de veículo destinado para esse fim ou, na falta
+deste, valendo-se da própria capacidade de movimentação do veículo a ser removido, desde
+que haja condições de segurança para o trânsito.
+
+        A remoção do veículo não será aplicada se o condutor, regularmente habilitado, sanar
+a irregularidade no local, desde que isso ocorra antes que a operação de remoção tenha sido
+iniciada, ou quando o agente avaliar que a operação de remoção trará ainda mais prejuízo à
+segurança e/ou fluidez da via.
+
+        Este procedimento somente se aplica para o veículo devidamente licenciado e que
+esteja em condições de segurança de circulação.
+
+        A restituição dos veículos removidos só ocorrerá após o pagamento das multas, taxas e
+despesas com remoção e estada, além de outros encargos previstos na legislação especifica.
+
+        8.3 - Recolhimento do Documento de Habilitação
+
+        O recolhimento do documento de habilitação tem por objetivo imediato impedir a
+condução de veículos nas vias públicas enquanto perdurar a irregularidade constatada.
+
+        O documento de habilitação será recolhido pelo agente, mediante recibo, sendo uma
+das vias entregue, obrigatoriamente, ao condutor, e ficará sob custódia do órgão ou entidade
+de trânsito responsável pela autuação até que o condutor comprove que a irregularidade foi
+sanada.
+
+        Caso o condutor não compareça ao órgão ou entidade de trânsito responsável pela
+autuação em até 5 (cinco) dias da data do cometimento da infração, o documento será
+encaminhado ao órgão executivo de trânsito responsável pelo seu registro.
+
+        Sanada a irregularidade, a restituição do documento de habilitação se dará sem
+qualquer outra exigência.
+
+        O recibo expedido pelo agente não autoriza a condução do veículo.
+
+        8.4 - Recolhimento do Certificado de Licenciamento Anual (CLA/CRLV)
+
+        Consiste no recolhimento do documento que certifica o licenciamento do veículo com
+o objetivo de garantir que o proprietário promova a regularização da infração constatada.
+
+        Será aplicada quando não for sanada a irregularidade, nos casos em que esteja prevista
+a medida administrativa de retenção do veículo ou a penalidade de apreensão do veículo;
+
+        Quando houver fundada suspeita quanto à inautenticidade ou adulteração, deverão ser
+adotadas as medidas de polícia judiciária.
+
+                                                                                                               15
+        De acordo com a Resolução do CONTRAN nº 61/1998, o CLA é o Certificado de
+Registro e Licenciamento de Veículos (CRLV).
+
+        Todo e qualquer recolhimento de CLA deve ser documentado por meio de recibo,
+sendo que uma das vias será entregue, obrigatoriamente, ao condutor.
+
+        Após o recolhimento do documento pelo agente, a Autoridade de Trânsito do órgão
+autuador deverá adotar medidas destinadas ao registro do fato no RENAVAM.
+
+9.           HABILITAÇÃO
+
+        Para a condução de veículos automotores é obrigatório o porte do documento de
+habilitação, apresentado no original e dentro da data de validade.
+
+        O documento de habilitação não pode estar plastificado para que sua autenticidade
+possa ser verificada.
+
+        São documentos de habilitação:
+
+        - Autorização para Conduzir Ciclomotores (ACC) - habilita o condutor somente para
+        conduzir ciclomotores e cicloelétricos
+
+        - Permissão para Dirigir (PPD) - categorias A e B
+
+        - Carteira Nacional de Habilitação (CNH) - categorias A, B, C, D e E.
+
+CATEGORIA                                  ESPECIFICAÇÃO
+          A   Todos os veículos automotores e elétricos, de duas ou três rodas,
+          B
+               com ou sem carro lateral.
+          C
+              Ciclomotor, caso o condutor não possua ACC.
+
+              Não se aplica a quadriciclos, cuja categoria é a B.
+
+              Veículos automotores e elétricos, de quatro rodas cujo Peso
+               Bruto Total (PBT) não exceda a 3.500 kg e cuja lotação não
+               exceda a oito lugares, excluído o do motorista, contemplando a
+               combinação de unidade acoplada, reboque, semi-reboque ou
+               articulada, desde que atenda a lotação e capacidade de peso para
+               a categoria.
+
+              Veículo automotor da espécie motor-casa, cujo peso não exceda
+               a 6.000 kg, ou cuja lotação não exceda a 8 lugares, excluído o
+               do motorista.
+
+              O trator de roda e os equipamentos automotores destinados a
+               executar trabalhos agrícolas, quando conduzidos em via pública.
+
+              Todos os veículos automotores e elétricos utilizados em
+               transporte de carga, cujo PBT exceda a 3.500 kg.
+
+              Tratores, máquinas agrícolas e de movimentação de cargas,
+               motor-casa, combinação de veículos em que a unidade acoplada,
+               reboque, semi-reboque ou articulada, não exceda a 6.000 kg de
+               PBT.
+
+              Todos os veículos abrangidos pela categoria “B”.
+
+                                                                                  16
+              Veículos automotores e elétricos utilizados no transporte de
+               passageiros, cuja lotação exceda a oito lugares, excluído o do
+               condutor.
+
+          D   Veículos destinados ao transporte de escolares independente da
+
+                     lotação.
+
+              Todos os veículos abrangidos nas categorias “B” e “C”.
+
+             Combinação de veículos em que a unidade tratora se enquadre nas
+             Categorias B, C ou D e:
+
+              A unidade acoplada, reboque, semirreboques, trailer ou
+               articulada, tenha 6.000 Kg ou mais de PBT.
+
+          E   A lotação da unidade acoplada exceda a 8 lugares.
+
+              Seja uma combinação de veículos com mais de uma unidade
+               tracionada, independentemente da capacidade de tração ou do
+               PBT.
+
+              Todos os veículos abrangidos nas categorias “B”, “C” e “D”.
+
+     9.1 Condutor oriundo de país Estrangeiro
+
+        O condutor de veículo automotor, oriundo de país estrangeiro e nele habilitado, poderá
+dirigir portando Permissão Internacional para Dirigir (PID) ou documento de habilitação
+estrangeira, acompanhados de documento de identificação, quando o país de origem do
+condutor for signatário de Acordos ou Convenções Internacionais, ratificados pelo Brasil,
+respeitada a validade da habilitação de origem e o prazo máximo de 180 dias da sua estada
+regular no Brasil.
+
+     10.     DISPOSIÇÕES FINAIS:
+
+        O condutor de motocicleta, motoneta e ciclomotor, quando desmontado e puxando ou
+empurrando o veículo nas vias públicas, não se equipara ao pedestre, estando sujeito às
+infrações previstas no CTB.
+
+        O conteúdo dos itens do Sumário deste Manual se aplica, no que couber, à fiscalização
+das infrações previstas no Manual Brasileiro de Fiscalização de Trânsito – Volume I.
+
+     Este Manual recepcionará tacitamente as eventuais alterações da legislação de trânsito.
+
+11.          FICHAS INDIVIDUAIS DOS ENQUADRAMENTOS
+
+Ver arquivos anexos
+
+                                                                               17
+

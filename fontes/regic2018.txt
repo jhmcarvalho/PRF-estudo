@@ -1,0 +1,187 @@
+Regiões de Influência das CIDADES
+
+                        2O18
+Apresentação                                                                                                      Metodologia
+
+      Com a publicação Regiões de influência das cidades 2018, o IBGE atualiza o quadro de referência da rede           A noção de Cidade ou de centro urbano na pesquisa REGIC 2018 utilizada para análise dos dados é
+urbana brasileira, com estudo que constitui a quinta versão dessa linha de pesquisa. O estabelecimento das        operacionalizada por meio de duas unidades territoriais: os Municípios e os Arranjos Populacionais. Os úl-
+hierarquias e dos vínculos entre as Cidades, bem como a delimitação das áreas de influência, foram construídos    timos são constituídos por agrupamentos de Municípios muito integrados por possuírem deslocamentos
+com base em pesquisa específica que mobilizou a Rede de Agências do IBGE para o levantamento de dados             frequentes de populações para trabalho e estudo, segundo os critérios de pesquisa específica (Arranjos
+primários com o uso de dispositivos móveis de coleta que facilitam a crítica e a verificação do processo de pes-  Populacionais e Concentrações Urbanas do Brasil, 2016).
+quisa e agilizam a geração de resultados. Além disso, a caracterização da rede urbana também contou com o
+levantamento de registros administrativos úteis para a temática sobre a qual a presente publicação se debruça.          Na pesquisa REGIC, a noção de região de influência realiza-se por vínculos estabelecidos entre centros
+                                                                                                                  urbanos de hierarquia menor direcionando-se àqueles com hierarquia superior. Dessa forma, a região de
+      A pesquisa atual dá continuidade aos trabalhos anteriores publicados em 1972, 1987, 2000 e 2008, man-       influência possui feição espacial reticular, ou seja, em formato de rede constituída por um conjunto de
+tendo e aprimorando os aportes teóricos e a metodologia, especificamente em relação à última versão do            unidades urbanas que realizam ligações entre si. Ao contrário da abordagem mais recorrente de região,
+trabalho. Além da própria publicação, que contém a rede urbana e as análises setoriais que auxiliam a melhor      tomada como uma zona contígua, em geral sem superposições entre regiões vizinhas, a região reticular
+qualificação dos resultados, o IBGE também disponibiliza, em seu portal na Internet, a base de dados levanta-     considerada na REGIC não necessariamente é contígua, e, dependendo da escala, apresenta superposições
+da, útil para estudos que enfoquem outros temas ou áreas em outras escalas além da nacional.                      e duplas subordinações de Cidades.
+
+      Além disso, considerando que o IBGE realiza essa linha de pesquisa há cinco décadas, a presente publi-            Os dois componentes fundamentais para o estabelecimento da hierarquia e região de influência das
+cação contribui para a compreensão da evolução histórica do fenômeno urbano no País.                              Cidades são a atração exercida entre as Cidades próximas e as ligações de longa distância realizadas pela
+                                                                                                                  atuação de instituições públicas e privadas presentes nos centros urbanos. Para cada um desses compo-
+      Espera-se que, como nas versões anteriores, este estudo seja útil tanto para o planejamento da loca-        nentes, procedimentos metodológicos específicos foram utilizados, com o propósito de compatibilizar in-
+lização de investimentos e da implantação de serviços públicos e privados, que levem em consideração as           formações de natureza distinta para compor a rede urbana brasileira.
+relações espaciais que afetam o seu funcionamento, quanto como quadro de referência para pesquisas de
+avaliação das condições de acesso da população aos bens e serviços que lhe são disponibilizados.                        As relações de longa distância entre os centros urbanos são geradas por relações de comando e ges-
+                                                                                                                  tão, como as relações entre sedes e filiais de empresas localizadas em Cidades diferentes. A identificação
+                                                                                                                  das Cidades que são centros de gestão do território e das ligações entre esses centros é fundamental para
+                                                                                                                  estabelecer um nível inicial de referência para hierarquia das Cidades e, ainda, para retratar as ligações
+                                                                                                                  entre as Cidades maiores ou dos níveis mais altos da hierarquia urbana.
+
+                                                                                                                        Para investigar as relações de proximidade, a ferramenta metodológica adotada foi um questionário apli-
+                                                                                                                  cado por agentes de pesquisa do IBGE na maior parte dos Municípios brasileiros. Aplicou-se o questionário em
+                                                                                                                  5 503 Municípios, excluindo-se aqueles que apresentam alto nível de centralidade de gestão do território, por
+                                                                                                                  serem Municípios que tendem a suprir satisfatoriamente os bens e serviços à população que neles habita.
+       Tabela 1 - Distribuição regional dos cinco níveis de hierarquia urbana,                                                                                   Tabela 2 - Dimensão das redes de primeiro nível - 2018
+                             segundo as Grandes Regiões - 2018
+
+                                                Distribuição regional dos cinco níveis de hierarquia urbana                                                                                                          Dimensão
+
+    Grandes   Metrópole                  Capital Regional       Centro Sub-Regional    Centro de Zona              Centro Local           Redes de                          Centros                                             Densidade       PIB                          PIB Metró-
+    Regiões                                                                                                                             primeiro nível                      Sub-Re-                                            demográfica   per capita                     pole/região
+                                                                                                                                                                            gionais                                            (habitantes/                                 de influência
+Brasil                                                                                                                                                            Capitais           Centros     Cidades  População  Área                       (R$)     PIB total
+                                                                                                                                                                 Regionais           de Zona                 2018    (km2)          km2)                 (R$1 000)
+
+                           Nível                 Nível                   Nível              Nível                         Nível
+
+              Cidades Hierárquico Cidades Hierárquico Cidades Hierárquico Cidades Hierárquico Cidades Hierárquico                       AP de São Paulo/SP       26         77       51          679 49 295 747 688 624,1      71,6 42 373,50 2 088 833 313,00              52,95
+
+                           (%)                   (%)                     (%)                (%)                           (%)
+
+              15                  100,0  97             100,0   352             100,0  398                   100,0 4037          100,0  AP de Brasília/DF        8          25       24          277 11 649 359 1 753 408,9    6,6 39 251,94 457 259 929,00                 53,89
+
+                                                                                                                                        AP do Rio de Janeiro/RJ  5          11                3  63 17 296 239 48 796,4        354,5 37 156,08 642 660 440,00               75,70
+
+Norte         2                   13,3   11             11,3    27              7,7    21                    5,3   373           9,2    AP de Belém/PA           4          10                8  157 9 335 660 1 374 601,9     6,8 16 270,49 151 895 774,00                 25,78
+
+Nordeste      3                   20,0   21             21,7    88              25,0   135                   33,9 1436           35,6   AP de Belo Horizonte/MG  12         52       65          752 21 069 799 571 747,7      36,9 25 954,38 546 853 629,00                31,57
+
+Sudeste       5                   33,3   38             39,2    120             34,1   107                   26,9 1074           26,6   AP de Campinas/SP        1          10                1  34 4 396 180 14 073,0         312,4 48 902,34 214 983 509,00               60,52
+
+                                                                                                                                        AP de Curitiba/PR        5          30       32          373 11 654 092 210 851,5      55,3 35 143,78 409 568 832,00                35,49
+
+Sul           3                   20,0   21             21,7    83              23,6   90                    22,6  819           20,3   AP de Florianópolis/SC   10         16       27          265 7 138 738 96 954,4        73,6 36 348,80 259 484 525,00                14,05
+
+Centro-Oeste  2                   13,3   6                 6,2  34              9,7    45                    11,3  335           8,3    AP de Fortaleza/CE       5          34       58          630 20 109 664 764 171,9      26,3 13 561,33 272 713 836,00                29,93
+
+              Fonte: IBGE, Diretoria de Geociências, Coordenação de Geografia, Regiões de Influência das Cidades, 2018.                 AP de Goiânia/GO         3          21       34          364 8 269 552 964 430,5       8,6 26 706,14 220 847 808,00                 30,39
+
+                                                                                                                                        Manaus                   1          4                 2  71 4 490 260 1 624 605,2      2,8 21 985,26 98 719 516,00                  71,21
+
+              Etapas da definição das regiões de influência e da hierarquia                                                             AP de Porto Alegre/RS    6          39       37          417 11 293 956 266 877,9      42,3 36 069,72 407 369 834,00                38,97
+                        dos centros urbanos na pesquisa REGIC 2018
+                                                                                                                                        AP do Recife/PE          10         36       45          720 23 601 254 345 048,8      68,4 16 304,43 384 805 000,00                26,21
+                                                           Hierarquia dos centros
+                                                                                                                                        AP de Salvador/BA        6          24       39          402 14 471 227 479 065,0      30,2 17 538,67 253 806 046,00                45,22
+
+                                                                                                                                        AP de Vitória/ES         1          8                 8  85 4 468 927 67 117,8         66,6 26 307,95 117 568 317,00                51,83
+
+             Centralidade         Centralidade                                                                                                                   Fonte: IBGE, Diretoria de Geociências, Coordenação de Geografia, Regiões de Influência das Cidades, 2018;
+              de Gestão           de Gestão do                                                                                                                                           Estimativa Populacional 2018; Área Territorial Oficial 2018; PIB municipal 2016.
+                Pública                                                                                                                                                                                        Nota: AP = Arranjo Populacional.
+                                     Território
+             Centralidade             (CGT)                                            Classiﬁcação          Hierarquia                 Nova Friburgo (RJ).
+              de Gestão                                                                da CGT em 5           dos centros
+             Empresarial
+                                                                                           grupos              urbanos
+
+                                                              Destino                   Região de
+                                                           principal da                 inﬂuência:
+                                                            cidade de                  deﬁnição do
+                                                            Gestão do                vínculo de cada
+
+                                                             Território                    cidade
+
+           Respostas                                          Destino
+                dos                                        principal da
+
+          questionários                                       cidade
+                                                            segundo o
+                                                           questionário
+
+                                   Índice de
+                                  Atração (IA)
+
+                                                      Regiões de inﬂuência
+Metrópoles
+
+      São os 15 principais centros urbanos, dos quais todas as Cida-
+des existentes no País recebem influência direta, seja de uma ou
+mais Metrópoles simultaneamente. A região de influência dessas
+centralidades é ampla e cobre toda a extensão territorial do País,
+com áreas de sobreposição em determinados contatos. As Metró-
+poles se subdividem em três níveis:
+
+Grande Metrópole Nacional: o Arranjo Populacional de São Pau-
+lo/SP ocupa, isoladamente, a posição de maior hierarquia urbana do
+País, concentrando em seu Arranjo Populacional 21,5 milhões de ha-
+bitantes em 2018 e 17,7% do Produto Interno Bruto - PIB nacional
+em 2016;
+
+Metrópole Nacional: os Arranjos Populacionais de Brasília/DF e
+Rio de Janeiro/RJ ocupam a segunda colocação hierárquica, tam-
+bém com forte presença nacional. O Arranjo Populacional de Brasí-
+lia/DF contava, em 2018, com 3,9 milhões de habitantes, enquanto
+o do Rio de Janeiro/RJ somava 12,7 milhões na mesma data; e
+
+Metrópole: os Arranjos Populacionais de Belém/PA, Belo Hori-
+zonte/MG, Campinas/SP, Curitiba/PR, Florianópolis/SC, Fortaleza/
+CE, Goiânia/GO, Porto Alegre/RS, Recife/PE, Salvador/BA, Vitória/
+ES e o Município de Manaus (AM) são as 12 Cidades identificadas
+como Metrópoles. São formadas por nove Capitais que receberam
+classificação 1 na centralidade de gestão do território mais Belém
+(PA), Campinas (SP) e Manaus (AM) que, embora estejam na clas-
+se 2, contam com contingente populacional relevante, superior a
+2 milhões de habitantes. A média populacional das Metrópoles é
+de 3 milhões de habitantes, sendo, a mais populosa, Belo Horizonte
+(MG) com 5,2 milhões e, as menos populosas, Florianópolis (SC) e
+Vitória (ES), com respectivamente 1,0 milhão e 1,8 milhão de pes-
+soas residentes em seus Arranjos Populacionais em 2018. Campinas
+(SP) é a única Cidade que não é Capital Estadual a ser classificada
+como Metrópole.
+Capitais Regionais                                                                                            Centros de Zona
+
+      São os centros urbanos com alta concentração de atividades de gestão, mas com alcance menor                   As Cidades classificadas no quarto nível da hierarquia urbana caracterizam-se por menores níveis de
+em termos de região de influência em comparação com as Metrópoles. Ao todo, 97 Cidades foram                  atividades de gestão, polarizando um número inferior de Cidades vizinhas em virtude da atração direta
+classificadas como Capitais Regionais em todo o País, com três subdivisões:                                   da população por comércio e serviços baseada nas relações de proximidade. São 398 Cidades com média
+                                                                                                              populacional de 30 mil habitantes, subdivididas em dois conjuntos:
+Capital Regional A: composta por nove Cidades, em geral Capitais Estaduais das Regiões Nordeste e
+Centro-Oeste com exceção do Arranjo Populacional de Ribeirão Preto/SP. Apresentam contingente popu-           Centro de Zona A: formado por 147 Cidades com cerca de 40 mil pessoas, mais populosas na Região
+lacional próximo entre si, variando de 800 mil a 1,4 milhão de habitantes em 2018. Todas se relacionam        Norte (média de 60 mil habitantes) e menos populosas nas Regiões Sul e Centro-Oeste (ambas com
+diretamente a Metrópoles;                                                                                     média de pouco mais de 30 mil pessoas). Em termos de gestão do território, foram classificadas, em sua
+                                                                                                              maioria, nos níveis 3 e 4; e
+Capital Regional B: reúne 24 Cidades, geralmente, centralidades de referência no interior dos Estados,
+exceto pelas Capitais Estaduais que são o Arranjo Populacional de Palmas/TO e o Município de Porto            Centro de Zona B: este subnível soma 251 Cidades, todas classificadas nos níveis 4 e 5 de gestão territorial.
+Velho (RO). Caracterizam-se por possuírem, em média, 530 mil habitantes, apenas com o Arranjo Popula-         São de menor porte populacional que os Centros de Zona A (média inferior a 25 mil habitantes), igualmen-
+cional de São José dos Campos/SP em um patamar populacional superior (1,6 milhão de habitantes em             te mais populosas na Região Norte (35 mil, em média) e menos populosas na Região Sul (onde perfazem
+2018). São numerosas na Região Sul, onde se localizam 10 das 24 Capitais Regionais dessa categoria; e         15 mil habitantes). Os Centros de Zona B são mais numerosos na Região Nordeste, onde localizam-se 100
+                                                                                                              das 251 Cidades nesta classificação.
+Capital Regional C: possui 64 Cidades com três Capitais Estaduais, dentre elas: os Municípios de Boa
+Vista (RR), Rio Branco (AC) e o Arranjo Populacional de Macapá/AP, todas pertencentes à Região Norte.         Centros Locais
+As demais Cidades localizam-se, principalmente, na Região Sudeste, onde 30 das 64 Capitais Regionais C
+se encontram. A média nacional de população das Cidades dessa categoria é de 300 mil habitantes em                  O último nível hierárquico define-se pelas Cidades que exercem influência restrita aos seus pró-
+2018, sendo maior na Região Sudeste (360 mil) e menor na Região Sul (200 mil).                                prios limites territoriais, podendo atrair alguma população moradora de outras Cidades para temas
+                                                                                                              específicos, mas não sendo destino principal de nenhuma outra Cidade. Simultaneamente, os Centros
+Centros Sub-Regionais                                                                                         Locais apresentam fraca centralidade em suas atividades empresariais e de gestão pública, geralmen-
+                                                                                                              te tendo outros centros urbanos de maior hierarquia como referência para atividades cotidianas de
+      Neste terceiro nível hierárquico, as 352 Cidades possuem atividades de gestão menos complexas           compras e serviços de sua população, bem como acesso a atividades do poder público e dinâmica
+(todas são nível 3 na classificação de gestão do território), com áreas de influência de menor extensão       empresarial. São a maioria das Cidades do País, totalizando 4 037 centros urbanos – o equivalente a
+que as das Capitais Regionais. São também Cidades de menor porte populacional, com média nacional             82,4% das unidades urbanas analisadas na presente pesquisa. A média populacional dos Centros Lo-
+de 85 mil habitantes, maiores na Região Sudeste (100 mil) e menores nas Regiões Sul e Centro-Oeste (75        cais é de apenas 12,5 mil habitantes, com maiores médias na Região Norte (quase 20 mil habitantes)
+mil). Este nível divide-se em dois grupos:                                                                    e menores na Região Sul (7,5 mil pessoas em 2018). Essa diferença regional das médias demográficas
+                                                                                                              repete o padrão apresentado pelos Centros de Zona, inclusive tendo também a Região Nordeste com
+Centro Sub-Regional A: composto por 96 Cidades presentes em maior número nas Regiões Sudeste,                 o maior número Cidades neste nível hierárquico.
+Sul e Nordeste, e média populacional de 120 mil habitantes; e
+                                                                                                                    Os Centros Locais não estão representados neste mapa, devido ao grande número de Cidades
+Centro Sub-Regional B: formado por 256 Cidades com grande participação das Regiões Sudeste e Nor-             nesta categoria, o que dificultaria a visualização.
+deste, apresenta média nacional de 70 mil habitantes, maiores no Sudeste (85 mil) e menores no Sul (55 mil).
+                                                             Mais informações:
+
+/ibgecomunica                                                /ibgeoficial       /ibgeoficial  /ibgeoficial
+
+www.ibge.gov.br                                                            0800 721 8181
+
+Ponte ligando os Municípios Juazeiro (BA) e Petrolina (PE).
+
