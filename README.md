@@ -54,44 +54,99 @@ dados/
   exp_*.json        explicações e fundamentos, por bloco
   questoes.json     resultado do build (o que a página consome)
 build.py            junta itens + gabaritos + explicações → dados/questoes.json
-gerar_site.py       injeta os dados no template → index.html e artefato.html
+gerar_site.py       injeta os dados no template → index.html, public/ e desktop/app/
+docs/index.html     pasta publicada pelo GitHub Pages
+desktop/            lançador, ícone e script que geram o .exe do Windows
 fontes/             legislação e normas usadas para fundamentar as explicações
 testes/             testes funcionais headless (jsdom)
 capturas/           telas renderizadas para conferência visual
 ```
 
-## Publicar na Vercel
+## Publicar o site (GitHub Pages)
 
-O site é um único HTML estático: não tem build, backend, banco nem variável de ambiente.
-A pasta **`public/`** já sai pronta do `gerar_site.py` e é a única coisa que precisa subir.
+O site é um único HTML estático — sem build, backend, banco ou variável de ambiente.
+A pasta **`docs/`** já sai pronta do `gerar_site.py` e é a única coisa publicada.
+O GitHub Pages só serve a raiz do repositório ou a pasta `/docs`; por isso a saída
+vai para `docs/`, que já vem com um `.nojekyll` para o Jekyll não reprocessar nada.
 
-Caminho mais curto (uma vez só, sem repositório):
+Primeira publicação:
 
 ```bash
-npm i -g vercel        # se ainda não tiver
-cd public
-vercel                 # cria o projeto e publica em preview
-vercel --prod          # promove para o domínio definitivo
+git add docs .gitignore vercel.json .vercelignore
+git commit -m "Publica o simulado no GitHub Pages"
+git push
 ```
 
-Se preferir versionar o projeto inteiro no Git e importar na Vercel, o `vercel.json`
-da raiz já aponta `outputDirectory: "public"`, e o `.vercelignore` impede o upload de
-`fontes/` (33 MB de PDFs de legislação) e do restante do material de origem. Nesse caso
-basta `vercel --prod` na raiz — ou conectar o repositório pelo painel, que a cada push
-o site é reconstruído sozinho.
+Depois, no GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a
+branch**, e escolha **Branch: `main`** e pasta **`/docs`**. Salve e espere cerca de um
+minuto. O endereço fica:
 
-Depois de qualquer alteração, rode `python build.py && python gerar_site.py` antes de
-publicar: é o que atualiza `public/index.html`.
+```
+https://jhmcarvalho.github.io/PRF-estudo/
+```
 
-Dois detalhes que valem saber:
+A partir daí, para atualizar basta:
 
-- O `localStorage` (onde fica seu progresso) é **por origem**. No domínio da Vercel ele
-  começa zerado — o histórico do arquivo local não vai junto. Em compensação, funciona
-  melhor do que via `file://` e sincroniza entre abas do mesmo domínio.
-- A página vai com `noindex` no HTML e no cabeçalho HTTP, então não entra em buscador.
-  Ainda assim, uma URL da Vercel no plano gratuito é acessível a quem tiver o link;
-  proteção por senha só existe nos planos pagos. Como o conteúdo vem de documentos
-  públicos do CEBRASPE, não há problema — mas fica o registro.
+```bash
+python build.py && python gerar_site.py
+git add docs && git commit -m "Atualiza o simulado" && git push
+```
+
+O Pages republica sozinho a cada push — não precisa de GitHub Actions, porque o
+`docs/index.html` já vai pronto no commit.
+
+Três detalhes que valem saber:
+
+- A página funciona em subpasta (`/PRF-estudo/`) porque não tem nenhuma referência
+  relativa: dados, fontes do executável, figura e ícone estão todos embutidos ou em URL
+  absoluta.
+- No plano gratuito, um site do Pages é **público** — Pages a partir de repositório
+  privado exige plano pago. A página vai com `noindex`, então não entra em buscador,
+  mas quem tiver o link acessa. Como o conteúdo vem de documentos públicos do CEBRASPE,
+  não há problema. Para um domínio próprio, basta um arquivo `CNAME` dentro de `docs/`.
+- O `localStorage` (onde fica o progresso) é **por origem**: o histórico do arquivo local
+  não vai junto para o endereço do Pages, e vice-versa.
+
+Se algum dia quiser voltar para a Vercel, a mesma pasta serve: o `vercel.json` aponta
+`outputDirectory: "docs"` e o `.vercelignore` evita subir `fontes/` e o material de origem.
+
+## Gerar o executável do Windows
+
+Para enviar a alguém sem depender de link, `desktop/` produz um **.exe único de 8,8 MB**
+que não instala nada e funciona sem internet.
+
+```bash
+python build.py && python gerar_site.py   # atualiza desktop/app/index.html
+python desktop/compilar.py                # gera desktop/dist/
+```
+
+Sai `Quilometragem PRF.exe` e um `.zip` com o exe mais um `LEIA-ME.txt` (e-mail costuma
+bloquear `.exe` solto no anexo). Requer `pip install pyinstaller pillow`.
+
+**Como o app funciona.** O executável sobe um servidor local em `127.0.0.1:47121` e abre o
+Edge (ou o Chrome) em *modo aplicativo*: janela sem barra de endereço, ícone próprio na barra
+de tarefas e um perfil separado em `%LOCALAPPDATA%\QuilometragemPRF` — o navegador pessoal de
+quem usa não é tocado. Fechar a janela encerra tudo. A porta é fixa de propósito: o progresso
+fica no `localStorage`, que é vinculado à origem, e uma porta aleatória apagaria o histórico a
+cada abertura. As três famílias tipográficas vão embutidas em base64 (`desktop/fontes_embutidas.css`,
+gerado por `baixa_fontes.py`), então a página fica idêntica offline.
+
+**O que esperar ao enviar para alguém:**
+
+- Na primeira execução o Windows mostra *"O Windows protegeu o seu computador — editor
+  desconhecido"*. É o SmartScreen reagindo à falta de assinatura digital; some só com um
+  certificado de code signing, que é pago e anual. A pessoa precisa clicar em
+  "Mais informações" → "Executar assim mesmo". O `LEIA-ME.txt` já explica isso.
+- Executáveis gerados com PyInstaller às vezes disparam falso positivo em antivírus.
+- Gmail e vários webmails **bloqueiam anexos `.exe`**, inclusive dentro de `.zip` comum.
+  Na prática você acaba usando WhatsApp, Drive ou pendrive.
+- Só Windows. Em Mac ou Linux, o caminho é o `index.html` ou o site.
+
+Se o objetivo for parecer um trabalho sério, vale considerar que um domínio próprio apontando
+para a Vercel (um `.com.br` custa cerca de R$ 40/ano) transmite isso melhor do que um
+executável sem assinatura que abre um alerta de segurança logo de cara. Uma terceira via, sem
+nenhum atrito: mandar o próprio `index.html` (392 KB) — abre com dois cliques, sem instalação
+e sem aviso.
 
 ## Para alterar alguma coisa
 
@@ -106,6 +161,25 @@ Para rodar os testes (precisa de `npm install jsdom@24 html-encoding-sniffer@3`)
 ```bash
 node testes/t2.mjs
 ```
+
+## Fidelidade à prova oficial
+
+Enunciados e gabaritos foram conferidos em cinco camadas independentes — o relatório
+completo está em [`testes/verificacao/VERIFICACAO.md`](testes/verificacao/VERIFICACAO.md).
+Resumo: **128 de 128 itens conferidos, nenhuma divergência**.
+
+1. Os seis PDFs oficiais foram rebaixados do CEBRASPE e batem por SHA-256 com as cópias
+   usadas no build (`sha256sum -c testes/verificacao/pdfs_oficiais.sha256`).
+2. Os 128 enunciados foram reextraídos por um caminho independente (outro motor de PDF,
+   outra lógica de colunas) e comparados caractere a caractere: 104 idênticos.
+3. Os 24 restantes foram conferidos por leitura visual do PDF renderizado — todos batem.
+4. Os gabaritos foram transcritos à mão da imagem da tabela oficial e comparados com
+   `dados/gabaritos.json`: zero divergências, mesmos nove anulados.
+5. A lista de anulados coincide com a noticiada à época.
+
+As **explicações** não entram nessa certificação: não são transcrição — a banca não
+publica comentário item a item. São escritas com base na norma citada, mas envolvem
+interpretação. O link do "Fundamento" existe para você conferir na fonte.
 
 ## Limites conhecidos
 

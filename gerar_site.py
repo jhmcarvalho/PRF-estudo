@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """Injeta os dados no template e gera as saídas:
    index.html        — documento completo, para abrir direto no navegador
-   public/index.html — o mesmo arquivo, isolado para publicação estática (Vercel)
+   docs/index.html   — o mesmo arquivo, isolado para publicação estática
+                       (GitHub Pages com origem "main /docs"; serve à Vercel também)
    artefato.html     — só o conteúdo, no formato exigido pela publicação como Artifact
 """
-import json, os, shutil
+import json, os, re, shutil
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 
@@ -61,12 +62,34 @@ def main():
     with open(caminho_idx, 'w', encoding='utf-8') as f:
         f.write(CABECALHO + cabeca + '</head>\n<body>\n' + resto + RODAPE)
 
-    # cópia isolada: é só esta pasta que sobe para a hospedagem estática
-    os.makedirs(os.path.join(BASE, 'public'), exist_ok=True)
-    caminho_pub = os.path.join(BASE, 'public', 'index.html')
+    # cópia isolada: é só esta pasta que a hospedagem estática publica
+    pasta_pub = os.path.join(BASE, 'docs')
+    os.makedirs(pasta_pub, exist_ok=True)
+    caminho_pub = os.path.join(pasta_pub, 'index.html')
     shutil.copyfile(caminho_idx, caminho_pub)
+    # impede o Jekyll do GitHub Pages de reprocessar a pasta
+    open(os.path.join(pasta_pub, '.nojekyll'), 'w').close()
 
-    for p in (caminho_art, caminho_idx, caminho_pub):
+    saidas = [caminho_art, caminho_idx, caminho_pub]
+
+    # versão do executável: sem depender do Google Fonts, para funcionar offline
+    css_fontes = os.path.join(BASE, 'desktop', 'fontes_embutidas.css')
+    if os.path.exists(css_fontes):
+        with open(caminho_idx, encoding='utf-8') as f:
+            desktop = f.read()
+        with open(css_fontes, encoding='utf-8') as f:
+            embutidas = f.read()
+        desktop = re.sub(
+            r'<link rel="preconnect"[^>]*>\s*|<link rel="stylesheet" href="https://fonts\.googleapis[^>]*>',
+            '', desktop)
+        desktop = desktop.replace('<style>', '<style>\n' + embutidas + '\n', 1)
+        os.makedirs(os.path.join(BASE, 'desktop', 'app'), exist_ok=True)
+        caminho_desk = os.path.join(BASE, 'desktop', 'app', 'index.html')
+        with open(caminho_desk, 'w', encoding='utf-8') as f:
+            f.write(desktop)
+        saidas.append(caminho_desk)
+
+    for p in saidas:
         rotulo = os.path.relpath(p, BASE).replace('\\', '/')
         print(f'{rotulo:20} {os.path.getsize(p)/1024:8.0f} KB')
 

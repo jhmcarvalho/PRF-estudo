@@ -1,5 +1,6 @@
-# Sobe só a pasta public/. O resto é material de origem e ferramenta de build.
+# Sobe só a pasta docs/. O resto é material de origem e ferramenta de build.
 fontes/
+desktop/
 dados/
 src/
 capturas/

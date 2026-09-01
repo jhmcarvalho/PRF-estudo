@@ -1,0 +1,14 @@
+# Gerados pelo build (recriáveis com: python build.py && python gerar_site.py)
+desktop/app/
+desktop/build/
+desktop/dist/
+__pycache__/
+*.pyc
+
+# Dependências dos testes
+node_modules/
+package.json
+package-lock.json
+
+# CLI da Vercel
+.vercel/
